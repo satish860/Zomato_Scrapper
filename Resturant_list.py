@@ -17,12 +17,21 @@ response = requests.get(url, headers=headers)
 # soup = BeautifulSoup(response.text, 'html.parser')
 
 ldjson = ex.extract(response.text, syntaxes=['json-ld'])
+resturants = {}
 for item in ldjson['json-ld']:
-    print("--------------------------")
-    if "ListItem" == item["@type"] or "ItemList" == item["@type"]:
-        print(item)
+    if "ItemList" == item["@type"]:
+        resturants["itemList"] = item["itemListElement"]
+    if "ListItem" == item["@type"]:
+        resturants["Item"] = item["item"]
 
-# for scripttag in soup.find_all('script',{'type':'application/ld+json'}):
-#     print("-----------------------------------------")
-#     expanded = jsonld.expand(scripttag.text)
-#     print(json.dumps(expanded, indent=4))
+InitialResturantArray = []
+
+for toplevel in resturants["itemList"]:
+    resturant = {
+        "name": resturants["Item"][toplevel["position"]-1]["name"],
+        "image": resturants["Item"][toplevel["position"]-1]["image"],
+        "order_url": toplevel["url"]
+    }
+    InitialResturantArray.append(resturant)
+
+json.dump(InitialResturantArray,open("Resturant_list.json", "w"))

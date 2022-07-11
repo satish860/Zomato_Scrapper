@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Kapoor's Cafe",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/1/58271/ea3044ec553419682e64b98fd9340831_o2_featured_v2.jpg",
+    "order_url": "/bangalore/kapoors-cafe-whitefield/order"
+  },
+  {
+    "name": "Domino's Pizza",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/2/50382/870de910c271f1cee4b00261b1b22d49_o2_featured_v2.jpg",
+    "order_url": "/bangalore/dominos-pizza-2-brookefield/order"
+  },
+  {
+    "name": "Mangalore Kitchen",
+    "image": "https://b.zmtcdn.com/data/pictures/8/19269238/f7cca837a3ab570be15f1b9d0fc9434d_o2_featured_v2.jpg",
+    "order_url": "/bangalore/mangalore-kitchen-whitefield-bangalore/order"
+  },
+  {
+    "name": "Chowman",
+    "image": "https://b.zmtcdn.com/data/pictures/6/19571576/0e9ef7524d59246f81a637cc49f0a2b6_o2_featured_v2.jpg",
+    "order_url": "/bangalore/chowman-brookefield-bangalore/order"
+  },
+  {
+    "name": "Meghana Foods",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/1/50691/92d9b4053ef0965120828b4fa4eecc3b_o2_featured_v2.jpg",
+    "order_url": "/bangalore/meghana-foods-marathahalli-bangalore/order"
+  },
+  {
+    "name": "Anandha Biryani House",
+    "image": "https://b.zmtcdn.com/data/pictures/7/20153197/2239bd15bc62461d891f3d7a6f6d4357_o2_featured_v2.jpg",
+    "order_url": "/bangalore/anandha-biryani-house-kadubeesanahalli-bangalore/order"
+  },
+  {
+    "name": "KFC",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/4/50574/336196dfdb8fc00175472a785007b9ea_o2_featured_v2.jpg",
+    "order_url": "/bangalore/kfc-brookefield/order"
+  },
+  {
+    "name": "Donne Biriyani Mane",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/3/18270203/f3228020ca1528d691c9ba392c1e1ee3_o2_featured_v2.jpg",
+    "order_url": "/bangalore/donne-biriyani-mane-cv-raman-nagar-bangalore/order"
+  },
+  {
+    "name": "Biriyani Zone",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/9/51139/d914d8ee60d87bf8f6ad9db169265455_o2_featured_v2.jpg",
+    "order_url": "/bangalore/biriyani-zone-varthur-main-road-whitefield-bangalore/order"
+  }
+]
