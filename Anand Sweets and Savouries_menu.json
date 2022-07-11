@@ -1,0 +1,1270 @@
+[
+  {
+    "name": "Anand Special Thali",
+    "price": "\u20b9320",
+    "image": "https://b.zmtcdn.com/data/dish_photos/76e/90a39923c3026413f462f20933dd876e.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Chola Bhatura PD",
+    "price": "\u20b9195",
+    "image": "https://b.zmtcdn.com/data/dish_photos/157/a847d0118033219057c220cd5f02a157.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Pav Bhaji Special PD",
+    "price": "\u20b9160",
+    "image": "https://b.zmtcdn.com/data/dish_photos/40f/f57bb97ac15132f6c696605baf95240f.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Soya Chaap & Roomali Roti",
+    "price": "\u20b9180",
+    "image": "https://b.zmtcdn.com/data/dish_photos/49b/4590ecb37c260c261ecad0460bfe149b.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Motichur Laddu",
+    "price": "\u20b9152.38",
+    "image": "https://b.zmtcdn.com/data/dish_photos/ffb/5fa6d432d4e7e8c4055c7d73e6aabffb.png?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  { "name": "Kaju Katli", "price": "\u20b9247.62", "image": "" },
+  {
+    "name": "Paneer",
+    "price": "\u20b9138.10",
+    "image": "https://b.zmtcdn.com/data/dish_photos/424/a75e374e78847b5c711fc6edc7262424.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Garam Jalebi",
+    "price": "\u20b9142.86",
+    "image": "https://b.zmtcdn.com/data/dish_photos/22b/0471d67744550e00d5f201efd43bd22b.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Vegetables Noodles",
+    "price": "\u20b9210",
+    "image": "https://b.zmtcdn.com/data/dish_photos/8f1/f58ccd74d1f96595692a80589452e8f1.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Sizzling Tandoor Platter",
+    "price": "\u20b9340",
+    "image": "https://b.zmtcdn.com/data/dish_photos/76f/5c89ca4629e527f63238b5a46e3dd76f.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Chilli Paneer Manchurian",
+    "price": "\u20b9220",
+    "image": "https://b.zmtcdn.com/data/dish_photos/b9a/c6cf77e83229507645bd093b11e0eb9a.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Papdi Chat PD",
+    "price": "\u20b9140",
+    "image": "https://b.zmtcdn.com/data/dish_photos/e85/b833e4ec0794bfed2b63d4d3735bbe85.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Mysore Pak",
+    "price": "\u20b9180.95",
+    "image": "https://b.zmtcdn.com/data/dish_photos/bf8/48a379575d830a98d1da557a2e12abf8.png?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Raj Kachori PD",
+    "price": "\u20b9150",
+    "image": "https://b.zmtcdn.com/data/dish_photos/fb6/64ebc91d72cd8e13417b21b86b7e9fb6.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Aloo Kulcha With Dal & Raita",
+    "price": "\u20b9210",
+    "image": "https://b.zmtcdn.com/data/dish_photos/6fa/8eaeb68ff24968ebd51d965016a376fa.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Matar Kulcha PD",
+    "price": "\u20b9170",
+    "image": "https://b.zmtcdn.com/data/dish_photos/304/e1268ca399661b28a0a30313d6743304.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  { "name": "Rasgulla (2 Pcs)", "price": "\u20b957.14", "image": "" },
+  {
+    "name": "Shahi Paneer",
+    "price": "\u20b9250",
+    "image": "https://b.zmtcdn.com/data/dish_photos/8e0/2174c3b21b0eb8de7eb9a0b061e3a8e0.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Rasmalai (2 Pcs)",
+    "price": "\u20b985.71",
+    "image": "https://b.zmtcdn.com/data/dish_photos/186/c2f5c34f482ef97012c62586dffb3186.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Gobi Manchurian",
+    "price": "\u20b9210",
+    "image": "https://b.zmtcdn.com/data/dish_photos/93a/5751bf27f8936070f73fb47d7e8a593a.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Ajmeri Kalakand",
+    "price": "\u20b9200",
+    "image": "https://b.zmtcdn.com/data/dish_photos/d94/9296904927f339c898eb7ea482bddd94.png?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Gulab Jamoon (2 Pcs)",
+    "price": "\u20b957.14",
+    "image": "https://b.zmtcdn.com/data/dish_photos/225/cc683660bd20054fc6980c82931c6225.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Daily Special Paneer",
+    "price": "\u20b9250",
+    "image": "https://b.zmtcdn.com/data/dish_photos/822/7ee930850b064b48717c7cee37b59822.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Grilled Vegetable Sandwich",
+    "price": "\u20b9160",
+    "image": "https://b.zmtcdn.com/data/dish_photos/b45/3d818b964b816c1b8a1b7b7b07181b45.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Veg Fried Rice",
+    "price": "\u20b9210",
+    "image": "https://b.zmtcdn.com/data/dish_photos/027/b672d4090bba19c98e59ddb420bf4027.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Kala Jamoon",
+    "price": "\u20b9152.38",
+    "image": "https://b.zmtcdn.com/data/dish_photos/942/55ed6ec9fb7882775bdbcced7eb82942.png?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Dal Makhani",
+    "price": "\u20b9230",
+    "image": "https://b.zmtcdn.com/data/dish_photos/2b8/9ecb05f5c4578e0efd2886630635f2b8.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Chum Chum",
+    "price": "\u20b9152.38",
+    "image": "https://b.zmtcdn.com/data/dish_photos/c98/c7cbf578b42f4576c5b25b5515848c98.png?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Rajma Chawal",
+    "price": "\u20b9210",
+    "image": "https://b.zmtcdn.com/data/dish_photos/616/2e853c40cf0db4f839bb74895432c616.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Vegetable Noodles With Chilli Paneer",
+    "price": "\u20b9320",
+    "image": "https://b.zmtcdn.com/data/dish_photos/93f/11953a1afa7469706bc6a56d2bb8f93f.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Soan Papdi",
+    "price": "\u20b9152.38",
+    "image": "https://b.zmtcdn.com/data/dish_photos/d67/78785b5268b0eb7db6670d99ff91fd67.png?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Dharwad Peda",
+    "price": "\u20b9180.95",
+    "image": "https://b.zmtcdn.com/data/dish_photos/de4/256f39b25cb54c9d71e8393a10b4cde4.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Chandrakala",
+    "price": "\u20b9180.95",
+    "image": "https://b.zmtcdn.com/data/dish_photos/087/a81b8f986b91d4c8b065ade908804087.png?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  { "name": "Badam Halwa", "price": "\u20b9295.24", "image": "" },
+  {
+    "name": "Doodh Burfi",
+    "price": "\u20b9152.38",
+    "image": "https://b.zmtcdn.com/data/dish_photos/38d/bbcba27b37f5f8efbc1354d0ee85c38d.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Dry Fruits 300 Gm Pack",
+    "price": "\u20b9379.46",
+    "image": "https://b.zmtcdn.com/data/dish_photos/9e9/f42cf3dde4db236005d01eac6152a9e9.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Dry Fruits-450 Gms Pack",
+    "price": "\u20b9575.89",
+    "image": "https://b.zmtcdn.com/data/dish_photos/510/db383e1cbb50cda7cb463d185656b510.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Dry Fruits-600 Gm Pack",
+    "price": "\u20b9736.60",
+    "image": "https://b.zmtcdn.com/data/dish_photos/288/15f6371ea628ba505901191b5347c288.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Silver Moon Hamper",
+    "price": "\u20b93428.50",
+    "image": "https://b.zmtcdn.com/data/dish_photos/c10/08e79fcd98bb5a80dcc991b94f75bc10.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Charbagh Hamper",
+    "price": "\u20b92095.20",
+    "image": "https://b.zmtcdn.com/data/dish_photos/54b/e4fff0849e5264f140b930640873354b.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Ishafan Hamper",
+    "price": "\u20b92666.67",
+    "image": "https://b.zmtcdn.com/data/dish_photos/e59/341747fe0b13a1fc7694a9fa3984ee59.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Navratan Laddu",
+    "price": "\u20b9233.33",
+    "image": "https://b.zmtcdn.com/data/dish_photos/fa2/2d589861bc8c21df3551b8c07cd8efa2.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  { "name": "Motichur Laddu", "price": "\u20b9152.38", "image": "" },
+  {
+    "name": "Atta Laddu",
+    "price": "\u20b9200",
+    "image": "https://b.zmtcdn.com/data/dish_photos/cae/197e149b523841874f0eebe740c64cae.png?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Dink Laddu",
+    "price": "\u20b9180.95",
+    "image": "https://b.zmtcdn.com/data/dish_photos/e13/88448baae4daa02a69b8b4d110fe1e13.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Mysore Pak",
+    "price": "\u20b9180.95",
+    "image": "https://b.zmtcdn.com/data/dish_photos/bf8/48a379575d830a98d1da557a2e12abf8.png?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Dharwad Peda",
+    "price": "\u20b9180.95",
+    "image": "https://b.zmtcdn.com/data/dish_photos/de4/256f39b25cb54c9d71e8393a10b4cde4.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Karadanth",
+    "price": "\u20b9180.95",
+    "image": "https://b.zmtcdn.com/data/dish_photos/ec8/29f3eb6f721c78c7490c5d0ec581aec8.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Laal Peda",
+    "price": "\u20b9180.95",
+    "image": "https://b.zmtcdn.com/data/dish_photos/c02/f661a28a1b87d839f653fe636cd9bc02.png?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Cashew Bukaj Baklava",
+    "price": "\u20b9333.33",
+    "image": "https://b.zmtcdn.com/data/dish_photos/f6d/6401643c4a687d6be82fcf6070ebaf6d.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Almond Tart Baklava",
+    "price": "\u20b9333.33",
+    "image": "https://b.zmtcdn.com/data/dish_photos/255/2cc08908f0bca49329f2660befd40255.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Cashew Asabi Baklava",
+    "price": "\u20b9333.33",
+    "image": "https://b.zmtcdn.com/data/dish_photos/cbe/2b96274315a862e90f5c0d2af5a7fcbe.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Pistachio Baklava",
+    "price": "\u20b9333.33",
+    "image": "https://b.zmtcdn.com/data/dish_photos/881/9ce0fb4499a568c697625d5d8240e881.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  { "name": "Cashew Asawer Baklava", "price": "\u20b9333.33", "image": "" },
+  {
+    "name": "Rose Bud Baklava",
+    "price": "\u20b9333.33",
+    "image": "https://b.zmtcdn.com/data/dish_photos/602/2ce0def74478452b6f661bdb7968a602.png?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Royal Baklawa Box",
+    "price": "\u20b9504.76",
+    "image": "https://b.zmtcdn.com/data/dish_photos/f10/c3964f4a847fa2a442cca9329a687f10.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Bombay Halwa",
+    "price": "\u20b9152.38",
+    "image": "https://b.zmtcdn.com/data/dish_photos/e30/b68edfe96ee771f86231f8888d0ede30.png?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Soan Papdi",
+    "price": "\u20b9152.38",
+    "image": "https://b.zmtcdn.com/data/dish_photos/d67/78785b5268b0eb7db6670d99ff91fd67.png?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  { "name": "Jhangiri", "price": "\u20b9152.38", "image": "" },
+  {
+    "name": "Chandrakala",
+    "price": "\u20b9180.95",
+    "image": "https://b.zmtcdn.com/data/dish_photos/087/a81b8f986b91d4c8b065ade908804087.png?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Surya Kala",
+    "price": "\u20b9180.95",
+    "image": "https://b.zmtcdn.com/data/dish_photos/394/b0571fdc74a860d6992ce02057621394.png?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Moong Burfi",
+    "price": "\u20b9152.38",
+    "image": "https://b.zmtcdn.com/data/dish_photos/fdb/e5617f86ce59bd17b0b9269f9042afdb.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Malt Burfi",
+    "price": "\u20b9152.38",
+    "image": "https://b.zmtcdn.com/data/dish_photos/078/ed5d0ddec5b5ce80797348de428e2078.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Doodh Burfi",
+    "price": "\u20b9152.38",
+    "image": "https://b.zmtcdn.com/data/dish_photos/38d/bbcba27b37f5f8efbc1354d0ee85c38d.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Doodh Peda",
+    "price": "\u20b9152.38",
+    "image": "https://b.zmtcdn.com/data/dish_photos/4ad/7152d86df66a847dea8752fa447934ad.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Triple Tasty (Gulkand Burfi)",
+    "price": "\u20b9152.38",
+    "image": "https://b.zmtcdn.com/data/dish_photos/788/68092dced1cdc20694188a9b436e3788.png?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Chocostick",
+    "price": "\u20b9152.38",
+    "image": "https://b.zmtcdn.com/data/dish_photos/99e/e1d885139bb1b30527b207b18ec6699e.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Ajmeri Kalakand",
+    "price": "\u20b9200",
+    "image": "https://b.zmtcdn.com/data/dish_photos/d94/9296904927f339c898eb7ea482bddd94.png?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Cadbury Roll",
+    "price": "\u20b9200",
+    "image": "https://b.zmtcdn.com/data/dish_photos/eb3/0aed190e63391dd3d92e15aa5475ceb3.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  { "name": "Boondi Roll", "price": "\u20b9200", "image": "" },
+  {
+    "name": "Kesar Peda",
+    "price": "\u20b9200",
+    "image": "https://b.zmtcdn.com/data/dish_photos/def/7375b0cb2c8abea4d4ffd2908983ddef.png?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Dodda Burfi",
+    "price": "\u20b9200",
+    "image": "https://b.zmtcdn.com/data/dish_photos/743/556191a7dc9ac6199ebe2841d230a743.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Anjeer Kalakand",
+    "price": "\u20b9200",
+    "image": "https://b.zmtcdn.com/data/dish_photos/738/8a2da530b5be8bcce76e2d9727375738.png?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Kesar Kalakand",
+    "price": "\u20b9200",
+    "image": "https://b.zmtcdn.com/data/dish_photos/160/1ed22e8589fc9323bd1736939f434160.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Dry Fruit Halwa",
+    "price": "\u20b9200",
+    "image": "https://b.zmtcdn.com/data/dish_photos/92b/f5816ed269dee942ae289c143b3fa92b.png?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Fruit Halwa",
+    "price": "\u20b9200",
+    "image": "https://b.zmtcdn.com/data/dish_photos/dee/ffcdaa46b838723777315b80a9e53dee.png?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Soan Halwa",
+    "price": "\u20b9200",
+    "image": "https://b.zmtcdn.com/data/dish_photos/593/50c2f3d88e2335037d9709a9980ce593.png?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Badam Halwa",
+    "price": "\u20b9295.24",
+    "image": "https://b.zmtcdn.com/data/dish_photos/5fb/c64198d143d446a66cf5e5600637b5fb.png?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Kala Jamoon",
+    "price": "\u20b9152.38",
+    "image": "https://b.zmtcdn.com/data/dish_photos/942/55ed6ec9fb7882775bdbcced7eb82942.png?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Chum Chum",
+    "price": "\u20b9152.38",
+    "image": "https://b.zmtcdn.com/data/dish_photos/c98/c7cbf578b42f4576c5b25b5515848c98.png?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  { "name": "Malai Sandwich", "price": "\u20b9152.38", "image": "" },
+  {
+    "name": "Motichur Sandwich",
+    "price": "\u20b9200",
+    "image": "https://b.zmtcdn.com/data/dish_photos/fbc/5eaedf8b8d61a26efd16d5c2aad3bfbc.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Butter Scotch Badam Bhog",
+    "price": "\u20b9200",
+    "image": "https://b.zmtcdn.com/data/dish_photos/77b/cbec7e84a5e4c76ccc8818c94c0bf77b.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Badam Bhog",
+    "price": "\u20b9200",
+    "image": "https://b.zmtcdn.com/data/dish_photos/503/7b1bbee8a8b4b044845895c4869f8503.png?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Badam Ginni",
+    "price": "\u20b9200",
+    "image": "https://b.zmtcdn.com/data/dish_photos/160/63ed89c539f4afbe93c17d1b1c5ba160.png?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Dry Fruit Burfi",
+    "price": "\u20b9200",
+    "image": "https://b.zmtcdn.com/data/dish_photos/a88/5595df337cb4fde9cba41b6769c2ca88.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Anjeer Pizza",
+    "price": "\u20b9200",
+    "image": "https://b.zmtcdn.com/data/dish_photos/93e/fe5ac5cf0a61bad380ab04586fc0593e.png?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Roasted Almond Channa Dal Burfi",
+    "price": "\u20b9200",
+    "image": "https://b.zmtcdn.com/data/dish_photos/b72/b4f077d03af2fe065453c4e40ca14b72.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Coconut Burfi",
+    "price": "\u20b9152.38",
+    "image": "https://b.zmtcdn.com/data/dish_photos/315/454e94090297b0117f2d3fb68a8c6315.png?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Mawa Chakki",
+    "price": "\u20b9200",
+    "image": "https://b.zmtcdn.com/data/dish_photos/3a2/dde416796901f34052dbf6adf18733a2.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Dry Petha (400 Gms)",
+    "price": "\u20b9171.43",
+    "image": "https://b.zmtcdn.com/data/dish_photos/405/a8715a5da3dbc2c4fe7afdaa0f0da405.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Rose Orange Melange",
+    "price": "\u20b9295.24",
+    "image": "https://b.zmtcdn.com/data/dish_photos/166/cf045e6fd1c7eb9fa9118c0414b8f166.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Kaju Katli",
+    "price": "\u20b9247.62",
+    "image": "https://b.zmtcdn.com/data/dish_photos/cdf/de4947d3a65f6984a6e7a8846eb04cdf.png?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Kaju Kalam",
+    "price": "\u20b9295.24",
+    "image": "https://b.zmtcdn.com/data/dish_photos/df6/05058bf04cf909ab776c5526ea843df6.png?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Kaju Gujiya",
+    "price": "\u20b9295.24",
+    "image": "https://b.zmtcdn.com/data/dish_photos/b3b/f27b105f43ce7b982acd6fec9f371b3b.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Kaju Roll",
+    "price": "\u20b9295.24",
+    "image": "https://b.zmtcdn.com/data/dish_photos/7db/2be8052716212e7aa2c08f6a881237db.png?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  { "name": "Kaju Patties", "price": "\u20b9295.24", "image": "" },
+  {
+    "name": "Kaju Tokri",
+    "price": "\u20b9295.24",
+    "image": "https://b.zmtcdn.com/data/dish_photos/603/9a1f30d2819d65a8e0409eb1e2f79603.png?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Choco Mango Bite",
+    "price": "\u20b9295.24",
+    "image": "https://b.zmtcdn.com/data/dish_photos/912/c7723f4282d1594845d74a19038a6912.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Kaju Mysore Pak",
+    "price": "\u20b9200",
+    "image": "https://b.zmtcdn.com/data/dish_photos/0e9/497dbd4fb73193c404d8bf9756af20e9.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Gulkand Kaju Katli",
+    "price": "\u20b9295.24",
+    "image": "https://b.zmtcdn.com/data/dish_photos/05e/3ee2df4728513c167af21ba03d4f105e.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Badam Walnut",
+    "price": "\u20b9333.33",
+    "image": "https://b.zmtcdn.com/data/dish_photos/246/1416719156d54a87fda0872b6f1f9246.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Badam Pista Roll",
+    "price": "\u20b9357.14",
+    "image": "https://b.zmtcdn.com/data/dish_photos/aff/4aeab5acce2807df520dfbc531683aff.png?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Badam Gujiya",
+    "price": "\u20b9333.33",
+    "image": "https://b.zmtcdn.com/data/dish_photos/d14/4e33f4b4f91c3373203f4b0200ce9d14.png?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Badam Basket",
+    "price": "\u20b9333.33",
+    "image": "https://b.zmtcdn.com/data/dish_photos/484/bc2c620783163243bdc8c23d0d754484.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Anjeer Bowl",
+    "price": "\u20b9295.24",
+    "image": "https://b.zmtcdn.com/data/dish_photos/65e/43291f34727adfcb3b790c999ea6965e.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Kaju Anjeer Sandwich",
+    "price": "\u20b9295.24",
+    "image": "https://b.zmtcdn.com/data/dish_photos/426/f573f75e9b587ec2af310bcfe6fa2426.png?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Pheni",
+    "price": "\u20b966.67",
+    "image": "https://b.zmtcdn.com/data/dish_photos/602/3fbb2c8ab0444acca28e0e6a51f29602.png?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Chikki",
+    "price": "\u20b9285.71",
+    "image": "https://b.zmtcdn.com/data/dish_photos/e9c/3fc744a248dd31c934b2fbb5c9d80e9c.png?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Meetaaz 12 Pcs",
+    "price": "\u20b9400",
+    "image": "https://b.zmtcdn.com/data/dish_photos/9ea/9126f9ba23bfd6d2d2b4d4a9f29c49ea.png?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Meetaaz-18 Pcs",
+    "price": "\u20b9600",
+    "image": "https://b.zmtcdn.com/data/dish_photos/6dc/4cf76b7a7b35ce9279d38a2b14b4c6dc.png?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Agra Dalmoth Pack",
+    "price": "\u20b9116.07",
+    "image": "https://b.zmtcdn.com/data/dish_photos/be1/ded0622cbdf8130ae4f11d444b36ebe1.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  { "name": "Delhi Chivda Pack", "price": "\u20b9116.07", "image": "" },
+  {
+    "name": "Khasta Mixture Pack",
+    "price": "\u20b9116.07",
+    "image": "https://b.zmtcdn.com/data/dish_photos/b23/66ea11b9aa7af84d9a28ba4ca3458b23.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Wafer Mixture Pack",
+    "price": "\u20b9116.07",
+    "image": "https://b.zmtcdn.com/data/dish_photos/e78/f2dd76051825653ad66c6a5596b76e78.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Khatta Meetha Cubes 200 Gms",
+    "price": "\u20b989.29",
+    "image": "https://b.zmtcdn.com/data/dish_photos/7ac/d00a626b0ee3ec9772f91b5d935707ac.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Namkeen Cubes 200 Gms",
+    "price": "\u20b989.29",
+    "image": "https://b.zmtcdn.com/data/dish_photos/8b0/4ace24104271161c55523459f88f98b0.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Rainbow Mixture 200 Gms",
+    "price": "\u20b9116.07",
+    "image": "https://b.zmtcdn.com/data/dish_photos/9b3/9117dc2c0588f641f016d5ecaea419b3.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Kashmiri Mixture 200 Gms",
+    "price": "\u20b9116.07",
+    "image": "https://b.zmtcdn.com/data/dish_photos/8bd/922e72be996c7d90bd52c32cbc7808bd.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Onion Pakoda (200Gms)",
+    "price": "\u20b989.29",
+    "image": "https://b.zmtcdn.com/data/dish_photos/080/c9c3a7e661939d777dc727c8e7656080.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Kaju Pakoda (200 Gms)",
+    "price": "\u20b9142.86",
+    "image": "https://b.zmtcdn.com/data/dish_photos/682/7c32a4234faeb34a7c1481958c47b682.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Ompudi (200 Gms)",
+    "price": "\u20b989.29",
+    "image": "https://b.zmtcdn.com/data/dish_photos/443/b872a0ce82014513deb6fb6ba28af443.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  { "name": "Mysore Mixture 200 gms", "price": "\u20b989.29", "image": "" },
+  {
+    "name": "Madras Mixture 200 gms",
+    "price": "\u20b989.29",
+    "image": "https://b.zmtcdn.com/data/dish_photos/d32/294581f579c254faf6c32640ebabed32.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Khara Sev 200 gms",
+    "price": "\u20b989.29",
+    "image": "https://b.zmtcdn.com/data/dish_photos/073/677061a776df4e6f20e08167a8718073.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Khara Boondi Pack",
+    "price": "\u20b989.29",
+    "image": "https://b.zmtcdn.com/data/dish_photos/d6f/60bb544ffe703b2b0ce1763afbd99d6f.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Khara Mixture Pack",
+    "price": "\u20b989.29",
+    "image": "https://b.zmtcdn.com/data/dish_photos/f09/e542d720d15b5b934219e80f087f4f09.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Khatta Meetha Pack",
+    "price": "\u20b9116.07",
+    "image": "https://b.zmtcdn.com/data/dish_photos/5af/497f759d76fbf378c1f5d781711925af.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  { "name": "Navratan Mixture Pack", "price": "\u20b9116.07", "image": "" },
+  {
+    "name": "Badam Lacha Pack",
+    "price": "\u20b9142.86",
+    "image": "https://b.zmtcdn.com/data/dish_photos/9d8/1bc2fc708bf09df015a8ec425ea379d8.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Dry Fruit Mixture Pack",
+    "price": "\u20b9142.86",
+    "image": "https://b.zmtcdn.com/data/dish_photos/276/6898c258361a890caad9bddc7e07b276.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Shahi Mewa Mixture Pack",
+    "price": "\u20b9142.86",
+    "image": "https://b.zmtcdn.com/data/dish_photos/7d1/986b92120a6778cfaee1b054115597d1.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Dry Fruit Cocktail Pack",
+    "price": "\u20b9321.43",
+    "image": "https://b.zmtcdn.com/data/dish_photos/ce1/1ce432eecb270d04ca184a2d1b8a1ce1.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  { "name": "Coconut Kodubale", "price": "\u20b980.36", "image": "" },
+  {
+    "name": "Masala Kaju",
+    "price": "\u20b9321.43",
+    "image": "https://b.zmtcdn.com/data/dish_photos/239/1476c3953515f8d42fad7e6743798239.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Mamra Badam",
+    "price": "\u20b9678.57",
+    "image": "https://b.zmtcdn.com/data/dish_photos/43f/24588ea90f55412ca0783471614c743f.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Walnut",
+    "price": "\u20b9314.29",
+    "image": "https://b.zmtcdn.com/data/dish_photos/f8a/ef200116d005285cde05957497905f8a.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Cashew",
+    "price": "\u20b9342.86",
+    "image": "https://b.zmtcdn.com/data/dish_photos/477/1f06caf3570e7804fc99ad10f5720477.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Almonds",
+    "price": "\u20b9250",
+    "image": "https://b.zmtcdn.com/data/dish_photos/5b6/9609bc9710d1c35dca9fa3b4fc2ab5b6.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Figs",
+    "price": "\u20b9303.57",
+    "image": "https://b.zmtcdn.com/data/dish_photos/340/6fecbd03140cd4e7a568457b94935340.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Raisins",
+    "price": "\u20b9171.43",
+    "image": "https://b.zmtcdn.com/data/dish_photos/879/c51182411b12ab9feb85a97d805de879.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Sugar Free Date Berry",
+    "price": "\u20b9247.62",
+    "image": "https://b.zmtcdn.com/data/dish_photos/918/04ab165a1d8e39af976908a0e4e28918.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Sugar Free Kaju Katli",
+    "price": "\u20b9247.62",
+    "image": "https://b.zmtcdn.com/data/dish_photos/256/5c025f05c38fb8e14153967137ea0256.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  { "name": "Sugar Free Soan Papdi", "price": "\u20b9171.43", "image": "" },
+  {
+    "name": "Sugar Free Mysore Pak",
+    "price": "\u20b9171.43",
+    "image": "https://b.zmtcdn.com/data/dish_photos/dde/b1e1d1059996b826e1152357ab9f3dde.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Paneer",
+    "price": "\u20b9138.10",
+    "image": "https://b.zmtcdn.com/data/dish_photos/424/a75e374e78847b5c711fc6edc7262424.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Fruit Cake Rusk",
+    "price": "\u20b9142.80",
+    "image": "https://b.zmtcdn.com/data/dish_photos/cf4/3cef29e477010a890be396296bfaacf4.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Milk Rusk",
+    "price": "\u20b9142.80",
+    "image": "https://b.zmtcdn.com/data/dish_photos/11d/f91be3340b27259da83a85a58971711d.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Sooji Rusk",
+    "price": "\u20b976.20",
+    "image": "https://b.zmtcdn.com/data/dish_photos/f40/33f30a8f5289e42ad6fa9cc0f088cf40.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Dehraduni Saunf Rusk",
+    "price": "\u20b967.80",
+    "image": "https://b.zmtcdn.com/data/dish_photos/52b/e633a14b03f90e0f5bf2ac4c78cf552b.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Milk Elaichi Rusk",
+    "price": "\u20b976.27",
+    "image": "https://b.zmtcdn.com/data/dish_photos/9ce/933cce98ed4e0fee18fdd23e28a729ce.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  { "name": "Badamika", "price": "\u20b9203.39", "image": "" },
+  {
+    "name": "Pistamika",
+    "price": "\u20b9203.39",
+    "image": "https://b.zmtcdn.com/data/dish_photos/155/42e8194397f5db75716e7507d299b155.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Chocomika",
+    "price": "\u20b9203.39",
+    "image": "https://b.zmtcdn.com/data/dish_photos/047/64732ce884bacab8aefd45d37052a047.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Badamika Pistamika Combo",
+    "price": "\u20b9406.78",
+    "image": "https://b.zmtcdn.com/data/dish_photos/b65/a22e8777d4eb737c6325acfd290f2b65.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Trio",
+    "price": "\u20b9610.17",
+    "image": "https://b.zmtcdn.com/data/dish_photos/cab/e725d4079b8333a42ac3bb6180ff9cab.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Bread Kulcha 2 Pcs",
+    "price": "\u20b947.60",
+    "image": "https://b.zmtcdn.com/data/dish_photos/50a/520421deb17d340ba8dc469be41ab50a.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Bread Pav",
+    "price": "\u20b957.14",
+    "image": "https://b.zmtcdn.com/data/dish_photos/74c/6acbe4d7a3ad2497c0d668ad7432174c.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Whole Wheat Pizza Base (2 Pcs)",
+    "price": "\u20b957.14",
+    "image": "https://b.zmtcdn.com/data/dish_photos/9e4/8cbd6d027b6481d4a22b55a3b49c29e4.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Pizza Base (2 Pcs)",
+    "price": "\u20b957.14",
+    "image": "https://b.zmtcdn.com/data/dish_photos/29b/f40b32daad9079341bfc1d91ae7c429b.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Kasoori Methi Pav (4 Pcs)",
+    "price": "\u20b957.14",
+    "image": "https://b.zmtcdn.com/data/dish_photos/809/c8fc55f1dbe88033508c8427cb32e809.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  { "name": "Ajwain Butter Cookies", "price": "\u20b9101.70", "image": "" },
+  {
+    "name": "Salted Kaju Cookies",
+    "price": "\u20b9148.31",
+    "image": "https://b.zmtcdn.com/data/dish_photos/7ae/d041b4f73144c6053fb72d53320f87ae.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Cinnamon Sticks",
+    "price": "\u20b980.50",
+    "image": "https://b.zmtcdn.com/data/dish_photos/1ee/502b6cbdb28ddb03c89d8f1bb17711ee.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Cheese Straws",
+    "price": "\u20b980.50",
+    "image": "https://b.zmtcdn.com/data/dish_photos/005/6d18aac42d07081fe0e6343ac649d005.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Butter Garlic Toast",
+    "price": "\u20b9110.16",
+    "image": "https://b.zmtcdn.com/data/dish_photos/96e/efe2fbce12848e7051d2534e7b54a96e.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Jam Cookies",
+    "price": "\u20b9148.31",
+    "image": "https://b.zmtcdn.com/data/dish_photos/cd0/d73edfbdaf15c03c1b44ff817cbe8cd0.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  { "name": "French Hearts", "price": "\u20b9101.69", "image": "" },
+  {
+    "name": "Jeera Cookies",
+    "price": "\u20b9101.70",
+    "image": "https://b.zmtcdn.com/data/dish_photos/37c/a8092e6cd9a1772f01a97b83a4fb637c.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Atta Cookies",
+    "price": "\u20b9127.10",
+    "image": "https://b.zmtcdn.com/data/dish_photos/b02/214dfc0e5aace17afd96eda2e4153b02.png?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Yellu Murukku",
+    "price": "\u20b9116.07",
+    "image": "https://b.zmtcdn.com/data/dish_photos/070/9d4229cb6a36a06a3855e2750a0d6070.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Mullu Murukku",
+    "price": "\u20b9116.07",
+    "image": "https://b.zmtcdn.com/data/dish_photos/d92/f05c773ce91061e258543490e2931d92.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Ribbon Pakoda",
+    "price": "\u20b9116.07",
+    "image": "https://b.zmtcdn.com/data/dish_photos/0fb/251c312d90fefe1a51401813160e80fb.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Khara Seedai",
+    "price": "\u20b9116.07",
+    "image": "https://b.zmtcdn.com/data/dish_photos/06b/20a389e6eb77b5870801e1cec74e406b.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Rajapalyam Sev",
+    "price": "\u20b9116.07",
+    "image": "https://b.zmtcdn.com/data/dish_photos/19d/473668d220120bdd4fca38948934c19d.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Mini Nipattu",
+    "price": "\u20b9116.07",
+    "image": "https://b.zmtcdn.com/data/dish_photos/29a/45b4a81423a95d9a1cdca42439b0129a.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Ribbon Chakli",
+    "price": "\u20b9116.07",
+    "image": "https://b.zmtcdn.com/data/dish_photos/829/60cca3ee49002bbc9e6a37f49bb16829.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Adyar Murukku",
+    "price": "\u20b9116.07",
+    "image": "https://b.zmtcdn.com/data/dish_photos/c0c/1f29763073440be2608c727eab61fc0c.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Benne Murukku",
+    "price": "\u20b989.29",
+    "image": "https://b.zmtcdn.com/data/dish_photos/3b7/242aa46e668cd4d285e1a8e2909c93b7.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Milk Mathi",
+    "price": "\u20b9116.07",
+    "image": "https://b.zmtcdn.com/data/dish_photos/5b0/3cbcd9a71d817dcb8dd03d66da8ac5b0.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Bhakarwadi",
+    "price": "\u20b9116.07",
+    "image": "https://b.zmtcdn.com/data/dish_photos/4be/2c521c041010cb6ae9fc1bfcbd6734be.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Dry Fruit Samosa",
+    "price": "\u20b9116.07",
+    "image": "https://b.zmtcdn.com/data/dish_photos/916/2e87f570e34732503c54d78345c66916.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Karela",
+    "price": "\u20b9116.07",
+    "image": "https://b.zmtcdn.com/data/dish_photos/b97/6cc81c71771d65719698ff66297f0b97.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Lovely Namak Para",
+    "price": "\u20b9116.07",
+    "image": "https://b.zmtcdn.com/data/dish_photos/2bd/4c4e1be2d53ea339291f061a4797f2bd.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Maida Mattar",
+    "price": "\u20b9116.07",
+    "image": "https://b.zmtcdn.com/data/dish_photos/42c/ad31b1f0ab82b9f9c4aa56c83dee742c.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Methi Matri",
+    "price": "\u20b9116.07",
+    "image": "https://b.zmtcdn.com/data/dish_photos/33a/2128e36920e8f64b63a2a4c483f6433a.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Gol Matri",
+    "price": "\u20b9116.07",
+    "image": "https://b.zmtcdn.com/data/dish_photos/8c7/8b44793f588e43c7e6ff3402182808c7.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Mini-Nipattu",
+    "price": "\u20b9116.07",
+    "image": "https://b.zmtcdn.com/data/dish_photos/29a/45b4a81423a95d9a1cdca42439b0129a.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Shakarpara",
+    "price": "\u20b9116.07",
+    "image": "https://b.zmtcdn.com/data/dish_photos/05c/11f52979e691831bb3bfc2029b92605c.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Tricon Matri",
+    "price": "\u20b9116.07",
+    "image": "https://b.zmtcdn.com/data/dish_photos/17c/2d6a13d708ae59141e5007f3023fa17c.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Achari Matri",
+    "price": "\u20b9116.07",
+    "image": "https://b.zmtcdn.com/data/dish_photos/382/801f3f23d06eb7c7a6f35c976dc77382.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Gathia",
+    "price": "\u20b980.36",
+    "image": "https://b.zmtcdn.com/data/dish_photos/23d/1cdf0706cb093fb5c87d3f13e709923d.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Gujarathi Papdi",
+    "price": "\u20b980.35",
+    "image": "https://b.zmtcdn.com/data/dish_photos/7b3/679c0155e02daaf804a405609901c7b3.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Masala Chips (Boletos )",
+    "price": "\u20b980.36",
+    "image": "https://b.zmtcdn.com/data/dish_photos/bad/b18fcbc737f1b3858ad149c32fe1bbad.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Potato Chips",
+    "price": "\u20b971.43",
+    "image": "https://b.zmtcdn.com/data/dish_photos/f74/8f7d8cf894c2c9815ae6777878961f74.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Tapioca",
+    "price": "\u20b980.36",
+    "image": "https://b.zmtcdn.com/data/dish_photos/35b/c774d557ce8cf81c3b22d3043fb6435b.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Kachori (2 Pcs)",
+    "price": "\u20b970",
+    "image": "https://b.zmtcdn.com/data/dish_photos/e26/ed9ec54733056d9bb5c5630187893e26.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Cheena Pies (2 Cups)",
+    "price": "\u20b9133.34",
+    "image": "https://b.zmtcdn.com/data/dish_photos/012/bc40fe218041ed77b0e2f33f50298012.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Raj Bhog (2 Pcs)",
+    "price": "\u20b985.71",
+    "image": "https://b.zmtcdn.com/data/dish_photos/c7f/31952cd07b4ffabcb551c14f43d60c7f.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Rasgulla (2 Pcs)",
+    "price": "\u20b957.14",
+    "image": "https://b.zmtcdn.com/data/dish_photos/d3d/5d6ed06953db3bcc759ac6814c3dad3d.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Rasmalai (2 Pcs)",
+    "price": "\u20b985.71",
+    "image": "https://b.zmtcdn.com/data/dish_photos/186/c2f5c34f482ef97012c62586dffb3186.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Gulab Jamoon (2 Pcs)",
+    "price": "\u20b957.14",
+    "image": "https://b.zmtcdn.com/data/dish_photos/225/cc683660bd20054fc6980c82931c6225.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Mini Gulab Jamun (2 Cups)",
+    "price": "\u20b9133.34",
+    "image": "https://b.zmtcdn.com/data/dish_photos/e22/f3cc919e6ea2972c178da306899c5e22.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Moong Dal Halwa (2 Cups)",
+    "price": "\u20b9133.34",
+    "image": "https://b.zmtcdn.com/data/dish_photos/721/42ae303903946d1fe1bc380a53db3721.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Garam Jalebi",
+    "price": "\u20b9142.86",
+    "image": "https://b.zmtcdn.com/data/dish_photos/22b/0471d67744550e00d5f201efd43bd22b.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Asli Punjabi Lassi",
+    "price": "\u20b990",
+    "image": "https://b.zmtcdn.com/data/dish_photos/4ba/76f06e3cdcace1d08f94f7cd867534ba.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  { "name": "Soya Chaap & Roomali Roti", "price": "\u20b9180", "image": "" },
+  {
+    "name": "American Chopsuey",
+    "price": "\u20b9275",
+    "image": "https://b.zmtcdn.com/data/dish_photos/9c7/a1025952289a50346c869424084ea9c7.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Baby Corn Schezwan (Dry)",
+    "price": "\u20b9210",
+    "image": "https://b.zmtcdn.com/data/dish_photos/59f/1d622f234ce017b71db0f2c15316159f.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Chilli Paneer Manchurian",
+    "price": "\u20b9220",
+    "image": "https://b.zmtcdn.com/data/dish_photos/b9a/c6cf77e83229507645bd093b11e0eb9a.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Chilli Potato( Dry )",
+    "price": "\u20b9210",
+    "image": "https://b.zmtcdn.com/data/dish_photos/15f/39cb33e10e8333661d09cf0fa499c15f.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Garlic Fried Rice",
+    "price": "\u20b9210",
+    "image": "https://b.zmtcdn.com/data/dish_photos/9d0/e8f63b070bfb88ad8f7b5cf0aaf129d0.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Gobi Manchurian",
+    "price": "\u20b9210",
+    "image": "https://b.zmtcdn.com/data/dish_photos/93a/5751bf27f8936070f73fb47d7e8a593a.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Veg Fried Rice",
+    "price": "\u20b9210",
+    "image": "https://b.zmtcdn.com/data/dish_photos/027/b672d4090bba19c98e59ddb420bf4027.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Vegetable Ballotins In Schezwan Sauce",
+    "price": "\u20b9245",
+    "image": "https://b.zmtcdn.com/data/dish_photos/07b/e951f06ffcab5d4a7284c5235d1d407b.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Vegetable Noodles With Chilli Paneer",
+    "price": "\u20b9320",
+    "image": "https://b.zmtcdn.com/data/dish_photos/93f/11953a1afa7469706bc6a56d2bb8f93f.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Vegetables Noodles",
+    "price": "\u20b9210",
+    "image": "https://b.zmtcdn.com/data/dish_photos/8f1/f58ccd74d1f96595692a80589452e8f1.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  { "name": "Lal Qila Sheekh Roll", "price": "\u20b9150", "image": "" },
+  {
+    "name": "Ghalib Grill Veg Roll",
+    "price": "\u20b9150",
+    "image": "https://b.zmtcdn.com/data/dish_photos/1de/fb3c1b03cb162eeb571c553ece4e81de.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Chandni Chowk Bhaji Roll",
+    "price": "\u20b9170",
+    "image": "https://b.zmtcdn.com/data/dish_photos/712/bee81cef73bece4a59e2d7354c0d7712.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Balli Maran Paneer Tikka Roll",
+    "price": "\u20b9170",
+    "image": "https://b.zmtcdn.com/data/dish_photos/39f/758b6b8fd453804f66470a4214e9c39f.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Bahadur Shah Galouti Roll",
+    "price": "\u20b9170",
+    "image": "https://b.zmtcdn.com/data/dish_photos/eff/53a75bc09b8a3850eae8c4a34b431eff.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Nanking Chilly Paneer Roll",
+    "price": "\u20b9170",
+    "image": "https://b.zmtcdn.com/data/dish_photos/1c2/e9cc3dc10bf67d8171eddbe939a141c2.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Bombay Sandwich",
+    "price": "\u20b9160",
+    "image": "https://b.zmtcdn.com/data/dish_photos/be2/ea2f75fcd98f03d329e01f23c5f16be2.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "French Fries",
+    "price": "\u20b9120",
+    "image": "https://b.zmtcdn.com/data/dish_photos/002/c3ab07921f050adf8d024f2f8b9e0002.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Grilled Vegetable Sandwich",
+    "price": "\u20b9160",
+    "image": "https://b.zmtcdn.com/data/dish_photos/b45/3d818b964b816c1b8a1b7b7b07181b45.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Vegetable Burger",
+    "price": "\u20b9150",
+    "image": "https://b.zmtcdn.com/data/dish_photos/cba/6ff83fd78189de0f88a565e4658bbcba.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Vegetable Cheese Sandwich",
+    "price": "\u20b9150",
+    "image": "https://b.zmtcdn.com/data/dish_photos/f19/99770858ce9d92efe6a4895c3d35bf19.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  { "name": "Chola Bhatura PD", "price": "\u20b9195", "image": "" },
+  {
+    "name": "Pizza Al Pesto",
+    "price": "\u20b9295",
+    "image": "https://b.zmtcdn.com/data/dish_photos/ef4/ec85d5738d2e1c5dd6d61b65328a9ef4.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Tandoori Tadka",
+    "price": "\u20b9275",
+    "image": "https://b.zmtcdn.com/data/dish_photos/c2f/4237f2fda31acfa99f53e74d5b6e6c2f.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Veggie Fiesta",
+    "price": "\u20b9295",
+    "image": "https://b.zmtcdn.com/data/dish_photos/d8f/87b5b3de18acf9a87a908870187ebd8f.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Paneer Tikka",
+    "price": "\u20b9260",
+    "image": "https://b.zmtcdn.com/data/dish_photos/b97/eaafc876769979380882d76e5ecfdb97.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Sizzling Tandoor Platter",
+    "price": "\u20b9340",
+    "image": "https://b.zmtcdn.com/data/dish_photos/76f/5c89ca4629e527f63238b5a46e3dd76f.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  { "name": "Tandoor Mushroom", "price": "\u20b9230", "image": "" },
+  {
+    "name": "Tandoor Stuffed Aloo",
+    "price": "\u20b9230",
+    "image": "https://b.zmtcdn.com/data/dish_photos/fd3/1e68c8d598e9533865fc32137bc04fd3.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Vegetable Sheek Kabab",
+    "price": "\u20b9230",
+    "image": "https://b.zmtcdn.com/data/dish_photos/a11/0735efc4e18d9add078c6e3383071a11.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Aloo Kulcha With Dal & Raita",
+    "price": "\u20b9210",
+    "image": "https://b.zmtcdn.com/data/dish_photos/6fa/8eaeb68ff24968ebd51d965016a376fa.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Chole Chawal",
+    "price": "\u20b9210",
+    "image": "https://b.zmtcdn.com/data/dish_photos/290/4f00b9fb2109b28e86a81c4865a0b290.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Kadi Pakodi Chawal",
+    "price": "\u20b9210",
+    "image": "https://b.zmtcdn.com/data/dish_photos/191/3cd969b1c54abdd9dbbbbce7d4552191.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Onion Kulcha With Dal&Raita",
+    "price": "\u20b9210",
+    "image": "https://b.zmtcdn.com/data/dish_photos/73b/d21c11c2bc06ea6c206a8764959f473b.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Paneer Naan With Dal & Raita",
+    "price": "\u20b9210",
+    "image": "https://b.zmtcdn.com/data/dish_photos/df1/b8928a01303657c891745871acdf6df1.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Rajma Chawal",
+    "price": "\u20b9210",
+    "image": "https://b.zmtcdn.com/data/dish_photos/616/2e853c40cf0db4f839bb74895432c616.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Anand Special Thali",
+    "price": "\u20b9320",
+    "image": "https://b.zmtcdn.com/data/dish_photos/76e/90a39923c3026413f462f20933dd876e.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Channa Masala",
+    "price": "\u20b9170",
+    "image": "https://b.zmtcdn.com/data/dish_photos/22b/2713032404f70761e5de24983976e22b.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Daily Special Paneer",
+    "price": "\u20b9250",
+    "image": "https://b.zmtcdn.com/data/dish_photos/822/7ee930850b064b48717c7cee37b59822.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Daily Special Raita",
+    "price": "\u20b9120",
+    "image": "https://b.zmtcdn.com/data/dish_photos/276/bb6face123937b5f22d1551839762276.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Dal Makhani",
+    "price": "\u20b9230",
+    "image": "https://b.zmtcdn.com/data/dish_photos/2b8/9ecb05f5c4578e0efd2886630635f2b8.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Rajma Masala",
+    "price": "\u20b9170",
+    "image": "https://b.zmtcdn.com/data/dish_photos/c77/d0c5e0afa39c2b4efae9481db1979c77.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Rice Of The Day",
+    "price": "\u20b9170",
+    "image": "https://b.zmtcdn.com/data/dish_photos/65a/bf5b4191e11e2909c492c0e5c5ace65a.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Sabji Of The Day",
+    "price": "\u20b9230",
+    "image": "https://b.zmtcdn.com/data/dish_photos/492/c125feefc9e17a72afd9e201c5dfe492.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Shahi Paneer",
+    "price": "\u20b9250",
+    "image": "https://b.zmtcdn.com/data/dish_photos/8e0/2174c3b21b0eb8de7eb9a0b061e3a8e0.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Tandoori Roti",
+    "price": "\u20b965",
+    "image": "https://b.zmtcdn.com/data/dish_photos/290/82eccf5a254a9cca2d12ef0d391d8290.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Butter Naan",
+    "price": "\u20b975",
+    "image": "https://b.zmtcdn.com/data/dish_photos/f42/ca222323fda5903c6073c56163e66f42.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Lachha Paratha",
+    "price": "\u20b985",
+    "image": "https://b.zmtcdn.com/data/dish_photos/d50/94e77ecbcc0b23d30a98896f20b83d50.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Pudina Paratha",
+    "price": "\u20b985",
+    "image": "https://b.zmtcdn.com/data/dish_photos/08a/dfa5b84307968f0dd7596ea827e5d08a.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  { "name": "Amritsari Kulcha", "price": "\u20b990", "image": "" },
+  {
+    "name": "Stuffed Naan",
+    "price": "\u20b990",
+    "image": "https://b.zmtcdn.com/data/dish_photos/f09/18ca3008522fcdb112f53fa0901c9f09.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Paneer Kulcha",
+    "price": "\u20b990",
+    "image": "https://b.zmtcdn.com/data/dish_photos/b81/4b80bbe3c1f798f173367d21b1a07b81.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Aloo Tikki With Chole PD",
+    "price": "\u20b9160",
+    "image": "https://b.zmtcdn.com/data/dish_photos/356/6a725509dc26fede554b7246038e7356.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Lachha Tokri PD",
+    "price": "\u20b9150",
+    "image": "https://b.zmtcdn.com/data/dish_photos/3f1/4fd810cf0d3196e8f64230aab61ba3f1.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Masala Puri PD",
+    "price": "\u20b9140",
+    "image": "https://b.zmtcdn.com/data/dish_photos/567/a3e7bf5db5bb93e96a92f07bff070567.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Matar Kulcha PD",
+    "price": "\u20b9170",
+    "image": "https://b.zmtcdn.com/data/dish_photos/304/e1268ca399661b28a0a30313d6743304.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Pani Puri Pd (6 Pcs)",
+    "price": "\u20b980",
+    "image": "https://b.zmtcdn.com/data/dish_photos/417/d89c2d185dde720ae77a33277a659417.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  { "name": "Pav Bhaji Special PD", "price": "\u20b9160", "image": "" },
+  {
+    "name": "Papdi Chat PD",
+    "price": "\u20b9140",
+    "image": "https://b.zmtcdn.com/data/dish_photos/e85/b833e4ec0794bfed2b63d4d3735bbe85.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Raj Kachori PD",
+    "price": "\u20b9150",
+    "image": "https://b.zmtcdn.com/data/dish_photos/fb6/64ebc91d72cd8e13417b21b86b7e9fb6.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Samosa Chole",
+    "price": "\u20b9140",
+    "image": "https://b.zmtcdn.com/data/dish_photos/625/d8681bc9c613274df5847114a22fc625.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Khus Sharbat",
+    "price": "\u20b9254.24",
+    "image": "https://b.zmtcdn.com/data/dish_photos/66e/4a1cc4e1ce03eb355cdb645ec4fcd66e.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Paan Sharbat",
+    "price": "\u20b9338.98",
+    "image": "https://b.zmtcdn.com/data/dish_photos/477/f087399a571d62d95e08bd9785467477.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Kesar Elaichi Sharbat",
+    "price": "\u20b9338.98",
+    "image": "https://b.zmtcdn.com/data/dish_photos/44a/0b32816cad7ac22a46cf0545807af44a.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Thandai",
+    "price": "\u20b9338.98",
+    "image": "https://b.zmtcdn.com/data/dish_photos/9c4/a34a96dd1a96ce938a5340549574b9c4.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  }
+]

@@ -1,0 +1,562 @@
+[
+  {
+    "name": "Erachi Shappu Fry",
+    "price": "\u20b9210",
+    "image": "https://b.zmtcdn.com/data/dish_photos/7a1/4735550aae9b7c57bc5f33e58432b7a1.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Erachi Shappu Curry",
+    "price": "\u20b9210",
+    "image": "https://b.zmtcdn.com/data/dish_photos/249/2373045346a2e3a32b09a19453510249.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Chicken Shappu Curry",
+    "price": "\u20b9210",
+    "image": "https://b.zmtcdn.com/data/dish_photos/544/a1b54aa24c152abe50fd0723edc61544.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Erachi Pepper Roast",
+    "price": "\u20b9215",
+    "image": "https://b.zmtcdn.com/data/dish_photos/67d/2558251dfedd382c071aba0cbd7f667d.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Erachi Ullarathu Coconut Fry",
+    "price": "\u20b9215",
+    "image": "https://b.zmtcdn.com/data/dish_photos/2c6/656b63182b04a266ac11ab6a2aef92c6.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Erachi Dry Fry",
+    "price": "\u20b9215",
+    "image": "https://b.zmtcdn.com/data/dish_photos/d8d/1bafcf5f1ef43535d0e3a43fcd59ad8d.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Chicken Roast",
+    "price": "\u20b9220",
+    "image": "https://b.zmtcdn.com/data/dish_photos/034/c2631e2529c1218da89441437bcfe034.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Erachi Curry",
+    "price": "\u20b9200",
+    "image": "https://b.zmtcdn.com/data/dish_photos/9a4/ddd58196e5e1ed924409cd0dee0049a4.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Veg Stew",
+    "price": "\u20b9160",
+    "image": "https://b.zmtcdn.com/data/dish_photos/011/674dddcaa90257ccf122e608cb77d011.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Seer Fish [Neymeen] Mango Curry",
+    "price": "\u20b9340",
+    "image": "https://b.zmtcdn.com/data/dish_photos/cb3/6244e48e65ac8fb87328c77f8e759cb3.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  { "name": "Nadan Style Kozhi Porichathu", "price": "\u20b9295", "image": "" },
+  {
+    "name": "Shappu Natholi [Anchovy ] Fry",
+    "price": "\u20b9170",
+    "image": "https://b.zmtcdn.com/data/dish_photos/814/3050d9a6125c324a1d7892f772a53814.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Appam",
+    "price": "\u20b922",
+    "image": "https://b.zmtcdn.com/data/dish_photos/373/de4351ee10a46a854ed34189fb034373.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Erachi Roast",
+    "price": "\u20b9210",
+    "image": "https://b.zmtcdn.com/data/dish_photos/d9b/d07a33ca0c38c6266e7cf6534a06ed9b.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Prawns Roast",
+    "price": "\u20b9330",
+    "image": "https://b.zmtcdn.com/data/dish_photos/25e/9a53b56ed24f6e3835c733ad738d125e.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  { "name": "Kerala Special Chicken Fry", "price": "\u20b9240", "image": "" },
+  {
+    "name": "Chicken Stew",
+    "price": "\u20b9220",
+    "image": "https://b.zmtcdn.com/data/dish_photos/9be/e82ebdd61a105cbffbd4c9f3b67609be.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Chicken Liver Pepper Roast",
+    "price": "\u20b9200",
+    "image": "https://b.zmtcdn.com/data/dish_photos/e68/6149a28e18c295cbf1e4f8fdf476ee68.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Chicken Puttu",
+    "price": "\u20b9135",
+    "image": "https://b.zmtcdn.com/data/dish_photos/977/c7fd6677e0647bca889fdd5caf324977.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Fish Peera Natholi [Anchovy]",
+    "price": "\u20b9225",
+    "image": "https://b.zmtcdn.com/data/dish_photos/a76/88f576c1714b56c5d623fced49d12a76.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Chicken Naadan Drum Stick[Kozhi Kallu] Fry [2 Pieces]",
+    "price": "\u20b9160",
+    "image": ""
+  },
+  {
+    "name": "Chicken Kondattam",
+    "price": "\u20b9220",
+    "image": "https://b.zmtcdn.com/data/dish_photos/697/0f715a93770d16b3609aa78cf792f697.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Paneer Butter Masala",
+    "price": "\u20b9220",
+    "image": "https://b.zmtcdn.com/data/dish_photos/f0e/7699aba50db994e93026cb71802adf0e.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Fish Mango Curry [Seasonal Fish]",
+    "price": "\u20b9250",
+    "image": "https://b.zmtcdn.com/data/dish_photos/9e3/914477952c0b60a38fe323c0d5ae89e3.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Mutton Ghee Roast",
+    "price": "\u20b9330",
+    "image": "https://b.zmtcdn.com/data/dish_photos/7ef/73808110592f9083ffb97cfba3aec7ef.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  { "name": "Rice Puttu", "price": "\u20b975", "image": "" },
+  {
+    "name": "Chicken Perattu",
+    "price": "\u20b9235",
+    "image": "https://b.zmtcdn.com/data/dish_photos/1da/c2b23f15ee23a335d25b385372d5a1da.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Seer Fish[Naymeen] Chatti Curry",
+    "price": "\u20b9290",
+    "image": "https://b.zmtcdn.com/data/dish_photos/68f/8468222106f30400be5e23c0348bd68f.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Chicken Kizhi",
+    "price": "\u20b9260",
+    "image": "https://b.zmtcdn.com/data/dish_photos/fd4/037b9c2afbc8747fec7e5aa3c39eafd4.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Chicken Liver Pepper Roast",
+    "price": "\u20b9200",
+    "image": "https://b.zmtcdn.com/data/dish_photos/e68/6149a28e18c295cbf1e4f8fdf476ee68.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Appam",
+    "price": "\u20b922",
+    "image": "https://b.zmtcdn.com/data/dish_photos/373/de4351ee10a46a854ed34189fb034373.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Rice Puttu",
+    "price": "\u20b975",
+    "image": "https://b.zmtcdn.com/data/dish_photos/d5f/e7f6f6c66d55be10e3ea01d690ba3d5f.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Chicken Puttu",
+    "price": "\u20b9135",
+    "image": "https://b.zmtcdn.com/data/dish_photos/977/c7fd6677e0647bca889fdd5caf324977.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  { "name": "Chicken Puttu Biryani", "price": "\u20b9175", "image": "" },
+  {
+    "name": "Prawns [Chemmeen] Puttu",
+    "price": "\u20b9175",
+    "image": "https://b.zmtcdn.com/data/dish_photos/5d0/22b6596b3f21b16e2450233a8d7265d0.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Ghee Rice",
+    "price": "\u20b9110",
+    "image": "https://b.zmtcdn.com/data/dish_photos/d45/0e9a768f1b87689f6d316be7630c3d45.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Shappu Mackrel [Ayala] Curry",
+    "price": "\u20b9200",
+    "image": "https://b.zmtcdn.com/data/dish_photos/5de/21ea2febaa16ec90de7d732a280355de.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Shappu Natholi [Anchovy ] Fry",
+    "price": "\u20b9170",
+    "image": ""
+  },
+  {
+    "name": "Chicken Shappu Curry",
+    "price": "\u20b9210",
+    "image": "https://b.zmtcdn.com/data/dish_photos/544/a1b54aa24c152abe50fd0723edc61544.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Mutton Shappu Curry",
+    "price": "\u20b9330",
+    "image": "https://b.zmtcdn.com/data/dish_photos/cbb/b59100f4d66c8c4ec82f0cb689412cbb.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  { "name": "Prawns Shappu Curry", "price": "\u20b9290", "image": "" },
+  {
+    "name": "Shappu Seer Fish[Neymeen] Curry",
+    "price": "\u20b9290",
+    "image": "https://b.zmtcdn.com/data/dish_photos/8cf/09572df570c2f353eb10d9c5df1e18cf.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Shappu Crab Curry",
+    "price": "\u20b9310",
+    "image": "https://b.zmtcdn.com/data/dish_photos/266/49cc55bfccb85ba97300a51de4562266.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Shappu Pearl Spot [Karimeen] Curry",
+    "price": "\u20b9300",
+    "image": "https://b.zmtcdn.com/data/dish_photos/3c1/5b392b891b6396665586ffa14f0383c1.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Shappu Pearl Spot [karimeen] Fry",
+    "price": "\u20b9300",
+    "image": "https://b.zmtcdn.com/data/dish_photos/1db/768ddbb78f09f30e1f0104a7cd0cd1db.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Shappu Squid [Koonthal] Fry",
+    "price": "\u20b9300",
+    "image": "https://b.zmtcdn.com/data/dish_photos/6b6/48298189f374ad740e41cb9a4edcc6b6.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Chicken Chatti Curry",
+    "price": "\u20b9210",
+    "image": "https://b.zmtcdn.com/data/dish_photos/31f/1d24e1ef2859255b8d2cae2c1305331f.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Chicken Kizhi",
+    "price": "\u20b9260",
+    "image": "https://b.zmtcdn.com/data/dish_photos/fd4/037b9c2afbc8747fec7e5aa3c39eafd4.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Mutton Kizhi",
+    "price": "\u20b9340",
+    "image": "https://b.zmtcdn.com/data/dish_photos/cdb/b3f78b0e2e3f1330ad2527d97a25ccdb.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Prawns Chatti Curry",
+    "price": "\u20b9290",
+    "image": "https://b.zmtcdn.com/data/dish_photos/96f/8847f5b50e2afd1ea93480a5b9fd896f.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Seer Fish[Naymeen] Chatti Curry",
+    "price": "\u20b9290",
+    "image": "https://b.zmtcdn.com/data/dish_photos/68f/8468222106f30400be5e23c0348bd68f.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Crab Chatti Curry",
+    "price": "\u20b9350",
+    "image": "https://b.zmtcdn.com/data/dish_photos/ca2/871d54297a7e42a8168cf18fa0aa0ca2.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Prawns Kizhi",
+    "price": "\u20b9320",
+    "image": "https://b.zmtcdn.com/data/dish_photos/343/d7d924a808049b012be29734ec688343.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Seafood Kizhi",
+    "price": "\u20b9340",
+    "image": "https://b.zmtcdn.com/data/dish_photos/996/2e527ad884f097a25ca2d9eaeb91c996.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Mackrel [Ayala] Fry",
+    "price": "\u20b9160",
+    "image": "https://b.zmtcdn.com/data/dish_photos/0b4/05dbc8f70d280a2aafecc8b775e980b4.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Pink Perch [Killimeen] Fry",
+    "price": "\u20b9170",
+    "image": "https://b.zmtcdn.com/data/dish_photos/2b8/98abfe7f57af03f74e2fb0146f6c12b8.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  { "name": "Fish Peera Natholi [Anchovy]", "price": "\u20b9225", "image": "" },
+  {
+    "name": "Fish Mango Curry [Seasonal Fish]",
+    "price": "\u20b9250",
+    "image": "https://b.zmtcdn.com/data/dish_photos/9e3/914477952c0b60a38fe323c0d5ae89e3.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Squid [koonthal]roast",
+    "price": "\u20b9245",
+    "image": "https://b.zmtcdn.com/data/dish_photos/676/021d7ad3672ffba70dcc8415ba8b5676.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Squid[koonthal] Masala",
+    "price": "\u20b9245",
+    "image": "https://b.zmtcdn.com/data/dish_photos/ef6/fb519c6dfc3c824a1245229f9a4b1ef6.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Squid [Koonthal]Pepper Roast",
+    "price": "\u20b9249",
+    "image": "https://b.zmtcdn.com/data/dish_photos/c8f/5e5bcb195b522e0eaaa4ab935c672c8f.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Prawns Mango Curry",
+    "price": "\u20b9330",
+    "image": "https://b.zmtcdn.com/data/dish_photos/970/a816e984a23e09685d64757d244a8970.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Prawns Mulakittathu",
+    "price": "\u20b9325",
+    "image": "https://b.zmtcdn.com/data/dish_photos/6b4/4945d44f0a1fb9dd1bdb077e478e46b4.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Prawns Theeyal",
+    "price": "\u20b9325",
+    "image": "https://b.zmtcdn.com/data/dish_photos/005/1e19078b465df9e9881f03809948f005.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Prawns Vattichathu",
+    "price": "\u20b9320",
+    "image": "https://b.zmtcdn.com/data/dish_photos/f19/9e2ef8b669e7705fb15ae0b444943f19.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Seer Fish [Neymeen] Mango Curry",
+    "price": "\u20b9340",
+    "image": "https://b.zmtcdn.com/data/dish_photos/cb3/6244e48e65ac8fb87328c77f8e759cb3.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Seer Fish [neymeen] Mulakitathu",
+    "price": "\u20b9330",
+    "image": "https://b.zmtcdn.com/data/dish_photos/982/9da0e148b253768d9e7009b260ea3982.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Seer Fish [neymeen] Vattichathu",
+    "price": "\u20b9325",
+    "image": "https://b.zmtcdn.com/data/dish_photos/4e6/7d0ac49b120e3d3e2be33224dbb514e6.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Crab [Njandu] Pepper Roast",
+    "price": "\u20b9350",
+    "image": "https://b.zmtcdn.com/data/dish_photos/672/4d2a1bef7f7895fa87b1adeb3f2dd672.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Pearl Spot [Karimeen] Fry",
+    "price": "\u20b9340",
+    "image": "https://b.zmtcdn.com/data/dish_photos/e47/97dfd5aafa7e6149efacc1a1c07e1e47.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Prawns Fry",
+    "price": "\u20b9340",
+    "image": "https://b.zmtcdn.com/data/dish_photos/321/b5f7abdbdb8f8b62478f68691cb68321.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  { "name": "Prawns Roast", "price": "\u20b9330", "image": "" },
+  {
+    "name": "Prawns Ullarthu With Coconut",
+    "price": "\u20b9330",
+    "image": "https://b.zmtcdn.com/data/dish_photos/4a7/91b844b32f50291d10e842c6918364a7.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Pearl Spot [Karimeen] Pollichathu",
+    "price": "\u20b9360",
+    "image": "https://b.zmtcdn.com/data/dish_photos/fe7/4b78e909c789dc4e2efc5722d4a9bfe7.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Crab[Njandu] Meat Thoran",
+    "price": "\u20b9340",
+    "image": "https://b.zmtcdn.com/data/dish_photos/b3d/6c210d269f2ffb7eaa37d1c771752b3d.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Crab [Njandu] Meat Thattukada Fry",
+    "price": "\u20b9345",
+    "image": "https://b.zmtcdn.com/data/dish_photos/75e/5ccab8d3e330d7ab8e1f8608ebba275e.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Nadan Style Kozhi Porichathu",
+    "price": "\u20b9295",
+    "image": "https://b.zmtcdn.com/data/dish_photos/4d0/7818fb6cd86b1b85214e4d81b45954d0.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Chicken Naadan Drum Stick[Kozhi Kallu] Fry [2 Pieces]",
+    "price": "\u20b9160",
+    "image": "https://b.zmtcdn.com/data/dish_photos/986/76f76e852745dbb7f057d60fc6b91986.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Chicken Mezhukku Purattiyathu",
+    "price": "\u20b9200",
+    "image": "https://b.zmtcdn.com/data/dish_photos/720/39516d56d1dd97abeed11fa84ae97720.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Chicken Stew",
+    "price": "\u20b9220",
+    "image": "https://b.zmtcdn.com/data/dish_photos/9be/e82ebdd61a105cbffbd4c9f3b67609be.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Chicken Kebab Fry",
+    "price": "\u20b9230",
+    "image": "https://b.zmtcdn.com/data/dish_photos/872/85cd69597466d47bfae76665e94a9872.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Chicken Roast",
+    "price": "\u20b9220",
+    "image": "https://b.zmtcdn.com/data/dish_photos/034/c2631e2529c1218da89441437bcfe034.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Chicken Kanthari",
+    "price": "\u20b9220",
+    "image": "https://b.zmtcdn.com/data/dish_photos/d19/0315bb470145b3245e5ec49fe2a1ed19.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Chicken Kondattam",
+    "price": "\u20b9220",
+    "image": "https://b.zmtcdn.com/data/dish_photos/697/0f715a93770d16b3609aa78cf792f697.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Chicken Mulakittathu",
+    "price": "\u20b9200",
+    "image": "https://b.zmtcdn.com/data/dish_photos/e75/78e45fb15e31aac1ddab3bff635c4e75.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Chicken Pepper Roast",
+    "price": "\u20b9225",
+    "image": "https://b.zmtcdn.com/data/dish_photos/d6c/c61d38c534d09981bc482190a25dfd6c.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Chicken Perattu",
+    "price": "\u20b9235",
+    "image": "https://b.zmtcdn.com/data/dish_photos/1da/c2b23f15ee23a335d25b385372d5a1da.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Naadan Chicken[Kozhi] Fry",
+    "price": "\u20b9240",
+    "image": "https://b.zmtcdn.com/data/dish_photos/fc2/695064c3e375468d075bb471e5b07fc2.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  { "name": "Kerala Special Chicken Fry", "price": "\u20b9240", "image": "" },
+  {
+    "name": "Chicken Ularthiyathu",
+    "price": "\u20b9225",
+    "image": "https://b.zmtcdn.com/data/dish_photos/7ec/4c81e8bddf24d3e6922cdbfe345e97ec.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Naadan Style Kozhi [Chicken] 65",
+    "price": "\u20b9230",
+    "image": "https://b.zmtcdn.com/data/dish_photos/0d1/4b6a6f8f0663252180c0d927983800d1.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Chicken Chukka Semi Dry",
+    "price": "\u20b9235",
+    "image": "https://b.zmtcdn.com/data/dish_photos/f86/8088c0fc67175f33d9bbf54d95660f86.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Chicken Mappas",
+    "price": "\u20b9240",
+    "image": "https://b.zmtcdn.com/data/dish_photos/997/b0da1986dab753e3b1e1034304952997.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Chicken Thoran",
+    "price": "\u20b9240",
+    "image": "https://b.zmtcdn.com/data/dish_photos/53c/924c96a1a645fae3e76371dc5d7a753c.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Chicken Thattukada Fry [Boneless]",
+    "price": "\u20b9240",
+    "image": "https://b.zmtcdn.com/data/dish_photos/30e/539600902d5ef1c414b12f844fab230e.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Chicken Kurukki Varattiyathu",
+    "price": "\u20b9255",
+    "image": "https://b.zmtcdn.com/data/dish_photos/672/a5ea6d05f93cac60782ef6bd55ff7672.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Erachi Curry",
+    "price": "\u20b9200",
+    "image": "https://b.zmtcdn.com/data/dish_photos/9a4/ddd58196e5e1ed924409cd0dee0049a4.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Erachi Roast",
+    "price": "\u20b9210",
+    "image": "https://b.zmtcdn.com/data/dish_photos/d9b/d07a33ca0c38c6266e7cf6534a06ed9b.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Erachi Pepper Roast",
+    "price": "\u20b9215",
+    "image": "https://b.zmtcdn.com/data/dish_photos/67d/2558251dfedd382c071aba0cbd7f667d.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Erachi Stew",
+    "price": "\u20b9220",
+    "image": "https://b.zmtcdn.com/data/dish_photos/0a2/b89429ad7fd235342100a4f5dd2c90a2.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Erachi Ullarathu Coconut Fry",
+    "price": "\u20b9215",
+    "image": "https://b.zmtcdn.com/data/dish_photos/2c6/656b63182b04a266ac11ab6a2aef92c6.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Erachi Kondattam",
+    "price": "\u20b9215",
+    "image": "https://b.zmtcdn.com/data/dish_photos/fbc/f7f1256ca11b68e23b131dc9f5dfcfbc.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Erachi Shappu Curry",
+    "price": "\u20b9210",
+    "image": "https://b.zmtcdn.com/data/dish_photos/249/2373045346a2e3a32b09a19453510249.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Erachi Shappu Fry",
+    "price": "\u20b9210",
+    "image": "https://b.zmtcdn.com/data/dish_photos/7a1/4735550aae9b7c57bc5f33e58432b7a1.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Erachi Dry Fry",
+    "price": "\u20b9215",
+    "image": "https://b.zmtcdn.com/data/dish_photos/d8d/1bafcf5f1ef43535d0e3a43fcd59ad8d.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Erachi Thattu Kada Fry",
+    "price": "\u20b9215",
+    "image": "https://b.zmtcdn.com/data/dish_photos/f65/af2b475a20aa0d626da481e5f4980f65.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Erachi Ghee Roast",
+    "price": "\u20b9240",
+    "image": "https://b.zmtcdn.com/data/dish_photos/e07/4872d6c30be25c78ca643afa4b200e07.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Erachi Kizhi",
+    "price": "\u20b9260",
+    "image": "https://b.zmtcdn.com/data/dish_photos/9a6/317cb401b5e564370145e3dd7e6b79a6.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Mutton Stew",
+    "price": "\u20b9340",
+    "image": "https://b.zmtcdn.com/data/dish_photos/246/2f41bd751741a11a7dc96b4fb4555246.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Mutton Chaps",
+    "price": "\u20b9325",
+    "image": "https://b.zmtcdn.com/data/dish_photos/6d9/476f485e3253cd15269810a3e67fa6d9.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Mutton Theeyal",
+    "price": "\u20b9330",
+    "image": "https://b.zmtcdn.com/data/dish_photos/473/a2545e47e0d80455b3aac1ef8137c473.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Mutton Pepper Roast",
+    "price": "\u20b9330",
+    "image": "https://b.zmtcdn.com/data/dish_photos/608/fda095efa6c301453774d4f253e90608.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  { "name": "Mutton Ghee Roast", "price": "\u20b9330", "image": "" },
+  {
+    "name": "Duck Ullarthiyathu",
+    "price": "\u20b9250",
+    "image": "https://b.zmtcdn.com/data/dish_photos/c3f/89eaf34f74169d63bbd39206798b3c3f.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Kuttanadan Duck Roast",
+    "price": "\u20b9250",
+    "image": "https://b.zmtcdn.com/data/dish_photos/94a/bd08f35efa737c815b1e3248b40e894a.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Rabbit Roast",
+    "price": "\u20b9325",
+    "image": "https://b.zmtcdn.com/data/dish_photos/613/30c8acc46124b89ad33ec4ea5caf8613.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  { "name": "Rabbit Ularthiyathu", "price": "\u20b9325", "image": "" },
+  {
+    "name": "Veg Pulao",
+    "price": "\u20b9105",
+    "image": "https://b.zmtcdn.com/data/dish_photos/8b1/127c1853d2bca864559c35f73bdd38b1.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Veg Stew",
+    "price": "\u20b9160",
+    "image": "https://b.zmtcdn.com/data/dish_photos/011/674dddcaa90257ccf122e608cb77d011.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Paneer Butter Masala",
+    "price": "\u20b9220",
+    "image": "https://b.zmtcdn.com/data/dish_photos/f0e/7699aba50db994e93026cb71802adf0e.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  }
+]
