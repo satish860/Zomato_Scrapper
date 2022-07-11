@@ -1,18 +1,588 @@
 [
   {
+    "name": "Sri Udupi Food Hub",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/0/18683480/c9759695c5e14e06927dc556c5f5674f_o2_featured_v2.jpg?output-format=webp",
+    "order_url": "/bangalore/sri-udupi-food-hub-whitefield-bangalore/order"
+  },
+  {
+    "name": "Domino's Pizza",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/2/50382/870de910c271f1cee4b00261b1b22d49_o2_featured_v2.jpg?output-format=webp",
+    "order_url": "/bangalore/dominos-pizza-2-brookefield/order"
+  },
+  {
+    "name": "Ashraya Upachar",
+    "image": "https://b.zmtcdn.com/data/pictures/7/59477/9836efe5a925a3ad1edb0a2a2ad91167_o2_featured_v2.jpg?output-format=webp",
+    "order_url": "/bangalore/ashraya-upachar-kr-puram/order"
+  },
+  {
+    "name": "Kabuliwala",
+    "image": "https://b.zmtcdn.com/data/pictures/7/19911687/037b25669896b3f86daf96562d4f797d_o2_featured_v2.jpg?output-format=webp",
+    "order_url": "/bangalore/kabuliwala-kaggadasapura-bangalore/order"
+  },
+  {
+    "name": "Meghana Foods",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/1/50691/92d9b4053ef0965120828b4fa4eecc3b_o2_featured_v2.jpg?output-format=webp",
+    "order_url": "/bangalore/meghana-foods-marathahalli-bangalore/order"
+  },
+  {
+    "name": "Anandha Biryani House",
+    "image": "https://b.zmtcdn.com/data/pictures/7/20153197/2239bd15bc62461d891f3d7a6f6d4357_o2_featured_v2.jpg?output-format=webp",
+    "order_url": "/bangalore/anandha-biryani-house-kadubeesanahalli-bangalore/order"
+  },
+  {
+    "name": "KFC",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/4/50574/336196dfdb8fc00175472a785007b9ea_o2_featured_v2.jpg?output-format=webp",
+    "order_url": "/bangalore/kfc-brookefield/order"
+  },
+  {
+    "name": "Gopaljee Cafe",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/3/19350253/177ae02e457417020cfe1d2c95476e3d_o2_featured_v2.jpg?output-format=webp",
+    "order_url": "/bangalore/gopaljee-cafe-brookefield-bangalore/order"
+  },
+  {
+    "name": "Biriyani Zone",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/9/51139/d914d8ee60d87bf8f6ad9db169265455_o2_featured_v2.jpg?output-format=webp",
+    "order_url": "/bangalore/biriyani-zone-varthur-main-road-whitefield-bangalore/order"
+  },
+  {
+    "name": "Empire Restaurant",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/1/50471/6fa39637442e85efb64a5c0db7b31b7f_o2_featured_v2.jpg",
+    "order_url": "/bangalore/empire-restaurant-brookefield-bangalore/order"
+  },
+  {
+    "name": "Mani's Dum Biryani",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/3/50643/cf4980e9a955625c8ab8bf5c171ba98a_o2_featured_v2.jpg",
+    "order_url": "/bangalore/manis-dum-biryani-whitefield-bangalore/order"
+  },
+  {
+    "name": "Asha Tiffins",
+    "image": "https://b.zmtcdn.com/data/pictures/7/19938537/670554f8a65e92c48b1db3b7611f057c_o2_featured_v2.jpg",
+    "order_url": "/bangalore/asha-tiffins-brookefield-bangalore/order"
+  },
+  {
+    "name": "Imperio Restaurant",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/5/58725/8e48399337d34293900534be861e6938_o2_featured_v2.jpg",
+    "order_url": "/bangalore/imperio-restaurant-1-brookefield-bangalore/order"
+  },
+  {
+    "name": "Kritunga Restaurant",
+    "image": "https://b.zmtcdn.com/data/pictures/4/18260044/0bf534a7b3bab30f96643d66f01225f5_o2_featured_v2.jpg",
+    "order_url": "/bangalore/kritunga-restaurant-1-brookefield/order"
+  },
+  {
+    "name": "Erivum Puliyum",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/9/18659349/9e6f7b2c689c4fc5c8f512e7bb77e681_o2_featured_v2.jpg",
+    "order_url": "/bangalore/erivum-puliyum-brookefield-bangalore/order"
+  },
+  {
+    "name": "Anand Sweets and Savouries",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/5/52995/be2450c56cd7dc933c81b7d370f851ec_o2_featured_v2.jpg",
+    "order_url": "/bangalore/anand-sweets-and-savouries-whitefield-bangalore/order"
+  },
+  {
+    "name": "Onesta",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/0/59840/1879b87c44c6b118916166b83e16c52e_o2_featured_v2.jpg",
+    "order_url": "/bangalore/onesta-1-brookefield-bangalore/order"
+  },
+  {
+    "name": "Biryani Paradise",
+    "image": "https://b.zmtcdn.com/data/pictures/1/18597851/7435fd4181719f007a0e111588a0af50_o2_featured_v2.jpg",
+    "order_url": "/bangalore/biryani-paradise-whitefield/order"
+  },
+  {
+    "name": "A2B - Adyar Ananda Bhavan",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/1/50011/d9207d682046c8e1a8de44da15b5d624_o2_featured_v2.jpg",
+    "order_url": "/bangalore/a2b-adyar-ananda-bhavan-varthur-main-road-whitefield-bangalore/order"
+  },
+  {
+    "name": "Nandhana Palace",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/3/50713/d85c74f8b91c617a619ca6379de9a941_o2_featured_v2.jpg",
+    "order_url": "/bangalore/nandhana-palace-marathahalli/order"
+  },
+  {
+    "name": "Andhra Gunpowder",
+    "image": "https://b.zmtcdn.com/data/pictures/0/19417240/6d2c048716b3523a01f1ead4e39a42a4_o2_featured_v2.jpg",
+    "order_url": "/bangalore/andhra-gunpowder-marathahalli-bangalore/order"
+  },
+  {
+    "name": "Hyderabadi Handi Biryani",
+    "image": "https://b.zmtcdn.com/data/pictures/0/19121480/31532ec029032b5ed842c12a7a0ce9af_o2_featured_v2.jpeg",
+    "order_url": "/bangalore/hyderabadi-handi-biryani-marathahalli-bangalore/order"
+  },
+  {
+    "name": "Thalassery Restaurant",
+    "image": "https://b.zmtcdn.com/data/pictures/4/59734/8268837460ff9c79e2e5b48d5d633578_o2_featured_v2.jpg",
+    "order_url": "/bangalore/thalassery-restaurant-marathahalli/order"
+  },
+  {
+    "name": "Behrouz Biryani",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/3/18343993/7d1d6155fa28b3864c1f71342eea8b1c_o2_featured_v2.jpg",
+    "order_url": "/bangalore/behrouz-biryani-itpl-main-road-whitefield-bangalore/order"
+  },
+  {
+    "name": "Chicking",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/0/19624800/c3f343c93ed4addd3972cff380613aee_o2_featured_v2.jpg",
+    "order_url": "/bangalore/chicking-1-whitefield-bangalore/order"
+  },
+  {
+    "name": "MOJO Pizza - 2X Toppings",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/2/18407932/ca82f6dcc2591350be0cb303715ebe66_o2_featured_v2.jpg",
+    "order_url": "/bangalore/mojo-pizza-2x-toppings-2-whitefield-bangalore/order"
+  },
+  {
+    "name": "Chakh Le India",
+    "image": "https://b.zmtcdn.com/data/pictures/4/57174/8c59b08ba9a828e42cd9cc0cde92a0dc_o2_featured_v2.jpg",
+    "order_url": "/bangalore/chakh-le-india-brookefield/order"
+  },
+  {
+    "name": "Ambur Hot Dum Biriyani",
+    "image": "https://b.zmtcdn.com/data/pictures/4/18554664/0b4fd31c6ffaddcc68fa448f556f1ca0_o2_featured_v2.jpg",
+    "order_url": "/bangalore/ambur-hot-dum-biriyani-brookefield-bangalore/order"
+  },
+  {
+    "name": "New Udupi Delicacy",
+    "image": "https://b.zmtcdn.com/data/pictures/0/18657670/b70b7d777c16fddb310bd3dc03f302f8_o2_featured_v2.jpg",
+    "order_url": "/bangalore/new-udupi-delicacy-whitefield-bangalore/order"
+  },
+  {
+    "name": "Dindigul Thalappakatti",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/2/18817272/5d4040eeaef9f042ec8ec845f9b1911f_o2_featured_v2.jpg",
+    "order_url": "/bangalore/dindigul-thalappakatti-whitefield-bangalore/order"
+  },
+  {
+    "name": "Nagarjuna",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/8/50708/486d8f30ecda00b9ce9de7dc14c6fe0b_o2_featured_v2.jpg",
+    "order_url": "/bangalore/nagarjuna-marathahalli/order"
+  },
+  {
+    "name": "BOX8 - Desi Meals",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/8/18173078/67b0460675d4d07e6180defe10ef1676_o2_featured_v2.jpg",
+    "order_url": "/bangalore/box8-desi-meals-whitefield-bangalore/order"
+  },
+  {
+    "name": "Sri Alok Park",
+    "image": "https://b.zmtcdn.com/data/pictures/7/18904617/27b4443f3be7cd8b270f29cd40467c37_o2_featured_v2.jpg",
+    "order_url": "/bangalore/sri-alok-park-whitefield-bangalore/order"
+  },
+  {
+    "name": "Ovenstory Pizza",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/3/18387423/85a315765de79046319a6bcdaae3416b_o2_featured_v2.jpg",
+    "order_url": "/bangalore/ovenstory-pizza-itpl-main-road-whitefield/order"
+  },
+  {
+    "name": "EatFit",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/3/18548293/987d94f223515e9b7e12397086550a56_o2_featured_v2.jpg",
+    "order_url": "/bangalore/eatfit-varthur-main-road-whitefield-bangalore/order"
+  },
+  {
+    "name": "Biryani By Kilo",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/3/19763193/5d15719f30f3265ad467ceb50bf40bbb_o2_featured_v2.jpg",
+    "order_url": "/bangalore/biryani-by-kilo-whitefield-bangalore/order"
+  },
+  {
+    "name": "Subbayyaa Gari Hotel",
+    "image": "https://b.zmtcdn.com/data/pictures/5/19689175/d1396992674c910dfc8f856afa157854_o2_featured_v2.jpg",
+    "order_url": "/bangalore/subbayyaa-gari-hotel-brookefield-bangalore/order"
+  },
+  {
+    "name": "Frozen Bottle - Milkshakes, Desserts and Ice Cream",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/0/18525810/aa8cd42f2ff656137953a3573bb93fb0_o2_featured_v2.jpg",
+    "order_url": "/bangalore/frozen-bottle-milkshakes-desserts-and-ice-cream-brookefield-bangalore/order"
+  },
+  {
+    "name": "Chulha Chauki Da Dhaba",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/8/50268/87b3e83ab0e062a9504892cd5ad1f0b2_o2_featured_v2.jpg",
+    "order_url": "/bangalore/chulha-chauki-da-dhaba-brookefield/order"
+  },
+  {
+    "name": "Moriz Restaurant",
+    "image": "https://b.zmtcdn.com/data/pictures/7/56947/c696b17ae2823b5090381e933140cd2b_o2_featured_v2.jpg",
+    "order_url": "/bangalore/moriz-restaurant-brookefield/order"
+  },
+  {
+    "name": "Imperio Juice & Cafe",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/8/19378788/fb2834d843a0ebaa5f84949e50ac31ab_o2_featured_v2.jpg",
+    "order_url": "/bangalore/imperio-juice-cafe-brookefield-bangalore/order"
+  },
+  {
+    "name": "@Adukkala",
+    "image": "https://b.zmtcdn.com/data/pictures/8/19522348/a876302cc360f74b8b4e4195528e484c_o2_featured_v2.jpg",
+    "order_url": "/bangalore/@adukkala-whitefield-bangalore/order"
+  },
+  {
+    "name": "McDonald's",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/4/50674/0f9874bafb6e24669a80018b02b2bbfe_o2_featured_v2.jpg",
+    "order_url": "/bangalore/mcdonalds-brookefield/order"
+  },
+  {
+    "name": "Burger King",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/5/61555/9f2f843523d0e8b9ecd9ee9ee32c1c46_o2_featured_v2.jpg",
+    "order_url": "/bangalore/burger-king-itpl-main-road-whitefield-bangalore/order"
+  },
+  {
+    "name": "Pizza Hut",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/8/51418/5e5a724a228b8aac9e0fbf88503b1a70_o2_featured_v2.jpg",
+    "order_url": "/bangalore/pizza-hut-2-whitefield-bangalore/order"
+  },
+  {
+    "name": "Leon Grill",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/1/60551/cec7f54fde5067ef575d6ff3735f31f7_o2_featured_v2.jpg",
+    "order_url": "/bangalore/leon-grill-marathahalli/order"
+  },
+  {
+    "name": "Al-Bek",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/6/50036/c5e37d1690f8c195bcc9f58ae609a2dc_o2_featured_v2.jpg",
+    "order_url": "/bangalore/al-bek-varthur-main-road-whitefield-bangalore/order"
+  },
+  {
+    "name": "Kanti Sweets",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/0/50550/c1b00a1bf6875e961aae360100f8ef99_o2_featured_v2.jpg",
+    "order_url": "/bangalore/kanti-sweets-brookefield/order"
+  },
+  {
+    "name": "Five Star Chicken",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/9/55129/238d42ef33aea2e13b9765100a4ff293_o2_featured_v2.jpg",
+    "order_url": "/bangalore/five-star-chicken-1-marathahalli-bangalore/order"
+  },
+  {
+    "name": "Paradise Biryani",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/0/59680/030bb0ac1ded5f7e1b6558b5289c4b45_o2_featured_v2.jpg",
+    "order_url": "/bangalore/paradise-biryani-marathahalli-bangalore/order"
+  },
+  {
+    "name": "Punjabi Nawabi",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/8/18489118/a39228f63559b763c6928e91fbdf4942_o2_featured_v2.jpg",
+    "order_url": "/bangalore/punjabi-nawabi-whitefield-bangalore/order"
+  },
+  {
+    "name": "Donne Biriyani House",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/6/60846/ea8d02a09f700dd295ab1d26d981438b_o2_featured_v2.jpg",
+    "order_url": "/bangalore/donne-biriyani-house-kadubeesanahalli-bangalore/order"
+  },
+  {
+    "name": "Polar Bear",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/2/50812/21c544e626cbf40a91c8b236014b2682_o2_featured_v2.jpg",
+    "order_url": "/bangalore/polar-bear-1-marathahalli-bangalore/order"
+  },
+  {
+    "name": "Hyderabad Biryaani House",
+    "image": "https://b.zmtcdn.com/data/pictures/2/50492/524bbbbf8a938ca80232837f1933d5f0_o2_featured_v2.jpg",
+    "order_url": "/bangalore/hyderabad-biryaani-house-airport-road/order"
+  },
+  {
+    "name": "Biryani Trip",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/4/18854314/da0e556629b2ca2fe578998290d92713_o2_featured_v2.jpg",
+    "order_url": "/bangalore/biryani-trip-marathahalli-bangalore/order"
+  },
+  {
+    "name": "FreshMenu",
+    "image": "https://b.zmtcdn.com/data/pictures/3/18885363/1eefaf501468d83c26c1c71b5490a671_o2_featured_v2.jpg",
+    "order_url": "/bangalore/freshmenu-varthur-main-road-whitefield-bangalore/order"
+  },
+  {
+    "name": "Corner House Ice Creams",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/3/53923/f1ed8209bf84106c577ebd774dd7194b_o2_featured_v2.jpg",
+    "order_url": "/bangalore/corner-house-ice-creams-marathahalli-bangalore/order"
+  },
+  {
+    "name": "Subway",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/4/55634/796aceba481dd19c3c905f8f60bd4fa9_o2_featured_v2.jpg",
+    "order_url": "/bangalore/subway-1-whitefield-bangalore/order"
+  },
+  {
+    "name": "Taco Bell",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/8/51828/3b197d4bf4242e6569629cadd1b38031_o2_featured_v2.jpg",
+    "order_url": "/bangalore/taco-bell-brookefield/order"
+  },
+  {
+    "name": "Sharief Bhai",
+    "image": "https://b.zmtcdn.com/data/pictures/6/20052686/9f4ef8f4718f7e18ec7d44cf309d5d95_o2_featured_v2.jpg",
+    "order_url": "/bangalore/sharief-bhai-brookefield-bangalore/order"
+  },
+  {
+    "name": "California Burrito",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/2/53922/598fc0a11ff0388acbae4c92e717be3c_o2_featured_v2.jpg",
+    "order_url": "/bangalore/california-burrito-whitefield-bangalore/order"
+  },
+  {
+    "name": "NIC - Natural Ice Creams",
+    "image": "https://b.zmtcdn.com/data/pictures/6/19316376/062f32b78efda39efa3c89c29ac8911b_o2_featured_v2.jpg",
+    "order_url": "/bangalore/nic-natural-ice-creams-marathahalli-bangalore/order"
+  },
+  {
+    "name": "Kwality Wall\u2019s Frozen Dessert and Ice Cream Shop",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/9/19085099/acfe0626c6e4f2ac89d41b1d5ff461db_o2_featured_v2.jpg",
+    "order_url": "/bangalore/kwality-walls-frozen-dessert-and-ice-cream-shop-3-marathahalli-bangalore/order"
+  },
+  {
+    "name": "Beijing Bites",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/2/50112/c4aca0118053549e762faa92c378e36e_o2_featured_v2.jpg",
+    "order_url": "/bangalore/beijing-bites-brookefield-bangalore/order"
+  },
+  {
+    "name": "Al Daaz",
+    "image": "https://b.zmtcdn.com/data/pictures/2/18608512/1883d7c3391ae4ed7eb3b79e13fc8201_o2_featured_v2.jpg",
+    "order_url": "/bangalore/al-daaz-hsr/order"
+  },
+  {
+    "name": "Natural Ice Cream",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/2/50722/9f9912b31fe8068cbede522c8be9d564_o2_featured_v2.jpg",
+    "order_url": "/bangalore/natural-ice-cream-marathahalli-bangalore/order"
+  },
+  {
+    "name": "CakeZone",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/7/18379377/41b983ea2f90206f9d104f9b0210ee86_o2_featured_v2.jpg",
+    "order_url": "/bangalore/cakezone-whitefield-bangalore/order"
+  },
+  {
+    "name": "Potful - Claypot Biryanis",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/5/18545945/a1268a06164dd34496d766a126ed1421_o2_featured_v2.jpg",
+    "order_url": "/bangalore/potful-claypot-biryanis-brookefield-bangalore/order"
+  },
+  {
+    "name": "Ambur Star Briyani Since 1890",
+    "image": "https://b.zmtcdn.com/data/pictures/8/18862858/3d6bb16168b34b5c2776968d9e78d78d_o2_featured_v2.jpg",
+    "order_url": "/bangalore/ambur-star-briyani-since-1890-indiranagar-bangalore/order"
+  },
+  {
+    "name": "Akshatha Nati Style",
+    "image": "https://b.zmtcdn.com/data/pictures/5/20130295/0ec1c132077adc18695b2a0931024a3c_o2_featured_v2.jpg",
+    "order_url": "/bangalore/akshatha-nati-style-brookefield-bangalore/order"
+  },
+  {
+    "name": "Lassi Shop",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/9/60069/b5715d104a2580bb908f126b8dee7028_o2_featured_v2.jpeg",
+    "order_url": "/bangalore/lassi-shop-varthur-main-road-whitefield-bangalore/order"
+  },
+  {
     "name": "Kapoor's Cafe",
     "image": "https://b.zmtcdn.com/data/pictures/chains/1/58271/ea3044ec553419682e64b98fd9340831_o2_featured_v2.jpg",
     "order_url": "/bangalore/kapoors-cafe-whitefield/order"
   },
   {
-    "name": "Domino's Pizza",
-    "image": "https://b.zmtcdn.com/data/pictures/chains/2/50382/870de910c271f1cee4b00261b1b22d49_o2_featured_v2.jpg",
-    "order_url": "/bangalore/dominos-pizza-2-brookefield/order"
+    "name": "Madras Meal Company",
+    "image": "https://b.zmtcdn.com/data/pictures/3/19575383/b3a0a12e636cd449dd09f26f9f7501cb_o2_featured_v2.jpg",
+    "order_url": "/bangalore/madras-meal-company-whitefield-bangalore/order"
   },
   {
-    "name": "Mangalore Kitchen",
-    "image": "https://b.zmtcdn.com/data/pictures/8/19269238/f7cca837a3ab570be15f1b9d0fc9434d_o2_featured_v2.jpg",
-    "order_url": "/bangalore/mangalore-kitchen-whitefield-bangalore/order"
+    "name": "Shanmukha",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/5/52015/dccb305e6737b14432a72e39cca12f18_o2_featured_v2.jpg",
+    "order_url": "/bangalore/shanmukha-brookefield/order"
+  },
+  {
+    "name": "WOW! Momo",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/4/54644/36e84d81b27629e84bfd33e8c7b8074d_o2_featured_v2.jpg",
+    "order_url": "/bangalore/wow-momo-brookefield-bangalore/order"
+  },
+  {
+    "name": "Faasos - Wraps & Rolls",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/8/54308/fecf7e912cb21ae5c71ea1bfb4f63360_o2_featured_v2.jpg",
+    "order_url": "/bangalore/faasos-wraps-rolls-itpl-main-road-whitefield-bangalore/order"
+  },
+  {
+    "name": "Amma's Pastries",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/9/50019/0689040550c210408663e8024a7dc551_o2_featured_v2.jpg",
+    "order_url": "/bangalore/ammas-pastries-1-varthur-main-road-whitefield-bangalore/order"
+  },
+  {
+    "name": "Paratha Envy",
+    "image": "https://b.zmtcdn.com/data/pictures/6/19417216/0b896037622936011783fd5f044ced99_o2_featured_v2.jpg",
+    "order_url": "/bangalore/paratha-envy-marathahalli-bangalore/order"
+  },
+  {
+    "name": "New Udupi Grand",
+    "image": "https://b.zmtcdn.com/data/pictures/0/19554780/d04af444d112e6ef0f5c84ba5e5c9aaa_o2_featured_v2.jpg",
+    "order_url": "/bangalore/new-udupi-grand-varthur-main-road-whitefield-bangalore/order"
+  },
+  {
+    "name": "Sardarji Londonwaley",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/2/18718102/29cd9d7176f374102510ccddfac7e991_o2_featured_v2.jpg",
+    "order_url": "/bangalore/sardarji-londonwaley-1-whitefield-bangalore/order"
+  },
+  {
+    "name": "Anjappar",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/5/50045/05db4edf81caa2fc3b6d6a6f4f098fc3_o2_featured_v2.jpg",
+    "order_url": "/bangalore/anjappar-marathahalli-bangalore/order"
+  },
+  {
+    "name": "New Naidu Hotel",
+    "image": "https://b.zmtcdn.com/data/pictures/8/19527248/dda0a8d19448adf672c0905f68c1afb2_o2_featured_v2.jpg",
+    "order_url": "/bangalore/new-naidu-hotel-kr-puram-bangalore/order"
+  },
+  {
+    "name": "Call Me Chow",
+    "image": "https://b.zmtcdn.com/data/pictures/6/20293446/05fb0d8b6e91e6bc498b5fad7e149e2b_o2_featured_v2.jpg",
+    "order_url": "/bangalore/call-me-chow-itpl-main-road-whitefield-bangalore/order"
+  },
+  {
+    "name": "Sri Jayadurga Biryani",
+    "image": "https://b.zmtcdn.com/data/pictures/8/18785098/0e375fc28ba6fab49deec068ea8efd86_o2_featured_v2.jpg",
+    "order_url": "/bangalore/sri-jayadurga-biryani-marathahalli-bangalore/order"
+  },
+  {
+    "name": "Barbeque Nation",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/6/50066/ba0ace0f3ce2794fbd54cc762ea3de8f_o2_featured_v2.jpg",
+    "order_url": "/bangalore/barbeque-nation-1-whitefield-bangalore/order"
+  },
+  {
+    "name": "Big Bowl Company",
+    "image": "https://b.zmtcdn.com/data/pictures/4/19715804/6c9ce7e8be4ef64e65293ec83020c343_o2_featured_v2.jpg",
+    "order_url": "/bangalore/big-bowl-company-whitefield-bangalore/order"
+  },
+  {
+    "name": "Andhra Biryanis",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/3/59303/b4de12881492fb042a4677f159ba5022_o2_featured_v2.jpg",
+    "order_url": "/bangalore/andhra-biryanis-whitefield/order"
+  },
+  {
+    "name": "RNR Biryani - Taste Of 1953",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/7/20246497/2b6f80091e6478fad73c73f5dca84270_o2_featured_v2.jpg",
+    "order_url": "/bangalore/rnr-biryani-taste-of-1953-marathahalli-bangalore/order"
+  },
+  {
+    "name": "Wendy's",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/9/19746899/7a8d7e619b4825883795f8f873a99aa7_o2_featured_v2.jpg",
+    "order_url": "/bangalore/wendys-marathahalli-bangalore/order"
+  },
+  {
+    "name": "Goli Vada Pav No 1",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/3/51403/d6af5723e4c0a4077e57ea9364e89a8a_o2_featured_v2.jpg",
+    "order_url": "/bangalore/goli-vada-pav-no-1-2-kr-puram-bangalore/order"
+  },
+  {
+    "name": "Baskin Robbins",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/4/51454/a559d962d8dfbe0a3efb01c867126cc0_o2_featured_v2.jpg",
+    "order_url": "/bangalore/baskin-robbins-3-marathahalli-bangalore/order"
+  },
+  {
+    "name": "ZAZA 22 Spice Biryani",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/0/19823150/a78ea15e255542aa32fae0a81adaf7c4_o2_featured_v2.jpg",
+    "order_url": "/bangalore/zaza-22-spice-biryani-1-varthur-main-road-whitefield-bangalore/order"
+  },
+  {
+    "name": "Madras Meal Company",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/7/19575357/15411a74b31b7c3d145c1980099d4cac_o2_featured_v2.jpg",
+    "order_url": "/bangalore/madras-meal-company-marathahalli-bangalore/order"
+  },
+  {
+    "name": "Meat and Eat",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/0/57840/2f32447aa2aef630ebdf6005b2a822a3_o2_featured_v2.jpg",
+    "order_url": "/bangalore/meat-and-eat-whitefield/order"
+  },
+  {
+    "name": "Nadan Pothichoru",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/2/19509592/9d39c19f797a71743ba4d2d08593e652_o2_featured_v2.jpg",
+    "order_url": "/bangalore/nadan-pothichoru-varthur-main-road-whitefield-bangalore/order"
+  },
+  {
+    "name": "LunchBox - Meals and Thalis",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/9/19410919/a350c22d22c1e538c68c35c85e7695bf_o2_featured_v2.jpg",
+    "order_url": "/bangalore/lunchbox-meals-and-thalis-brookefield-bangalore/order"
+  },
+  {
+    "name": "Great Indian Khichdi by EatFit",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/9/19413979/0db7e2b32ac88054855fbccded60ba3d_o2_featured_v2.jpg",
+    "order_url": "/bangalore/great-indian-khichdi-by-eatfit-varthur-main-road-whitefield-bangalore/order"
+  },
+  {
+    "name": "Glen's Bakehouse",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/4/56464/18163c7b780365d66811997d9d118ae5_o2_featured_v2.jpg",
+    "order_url": "/bangalore/glens-bakehouse-whitefield/order"
+  },
+  {
+    "name": "Theobroma",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/0/19938760/72dcef28c46fc30c57b78c31ce398adf_o2_featured_v2.jpg",
+    "order_url": "/bangalore/theobroma-indiranagar-bangalore/order"
+  },
+  {
+    "name": "Madurai Idly Shop",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/8/50628/f72101d8dfd889fe9d5d66b024f57147_o2_featured_v2.jpg",
+    "order_url": "/bangalore/madurai-idly-shop-brookefield-bangalore/order"
+  },
+  {
+    "name": "Ludos Pizza",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/1/19447491/37d596f8fd600e36d201aeb6494c1f3c_o2_featured_v2.jpg",
+    "order_url": "/bangalore/ludos-pizza-2-marathahalli-bangalore/order"
+  },
+  {
+    "name": "Sri Lakshmi Vaibhav",
+    "image": "https://b.zmtcdn.com/data/pictures/4/18825454/3b935b7af087383775a51358a86521f4_o2_featured_v2.jpg",
+    "order_url": "/bangalore/sri-lakshmi-vaibhav-marathahalli-bangalore/order"
+  },
+  {
+    "name": "Chinese Wok - Wok Express",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/3/19715673/a04a2d47583e88c83be862b2a51e66e4_o2_featured_v2.jpg",
+    "order_url": "/bangalore/chinese-wok-wok-express-whitefield-bangalore/order"
+  },
+  {
+    "name": "Chai Point",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/0/52860/6750c2fe1f25a444991eee4d7afd5dd9_o2_featured_v2.jpg",
+    "order_url": "/bangalore/chai-point-brookefield/order"
+  },
+  {
+    "name": "Samosa Party",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/8/18443088/499cf5580f97dbb75285c095d05b6cc4_o2_featured_v2.jpg",
+    "order_url": "/bangalore/samosa-party-brookefield-bangalore/order"
+  },
+  {
+    "name": "Thalaivars Biryani",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/2/19494942/6c0a07c8eb3513757ac4802a1d03b21f_o2_featured_v2.jpg",
+    "order_url": "/bangalore/thalaivars-biryani-itpl-main-road-whitefield-bangalore/order"
+  },
+  {
+    "name": "Starbucks Coffee",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/3/56603/29de48d7f2dcff234167b0849fb12532_o2_featured_v2.jpg",
+    "order_url": "/bangalore/starbucks-coffee-3-whitefield-bangalore/order"
+  },
+  {
+    "name": "Smoor",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/1/52971/8f623127694c2c2b9dcd072819dc778d_o2_featured_v2.jpg",
+    "order_url": "/bangalore/smoor-5-whitefield-bangalore/order"
+  },
+  {
+    "name": "The Punjabi Rasoi",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/5/51015/8f256f7451b00a84caa9e1a938afaacd_o2_featured_v2.jpg",
+    "order_url": "/bangalore/the-punjabi-rasoi-brookefield-bangalore/order"
+  },
+  {
+    "name": "WarmOven Cake & Desserts",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/5/57215/7138692549415298d05078ba9ff659b8_o2_featured_v2.jpg",
+    "order_url": "/bangalore/warmoven-cake-desserts-brookefield-bangalore/order"
+  },
+  {
+    "name": "Donne Biryani Kuteera",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/1/18574251/95c8b6e1dcfc178abb67fa0217fa3db3_o2_featured_v2.jpeg",
+    "order_url": "/bangalore/donne-biryani-kuteera-kr-puram-bangalore/order"
+  },
+  {
+    "name": "Krispy Kreme",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/5/54125/fd1d00e93cccfd63e9ada6138dbe70f3_o2_featured_v2.jpg",
+    "order_url": "/bangalore/krispy-kreme-2-whitefield-bangalore/order"
+  },
+  {
+    "name": "Kaati Zone Rolls And Wraps",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/0/19263420/e5f1b619e4626ff073c67bc54bccf971_o2_featured_v2.jpg",
+    "order_url": "/bangalore/kaati-zone-rolls-and-wraps-brookefield-bangalore/order"
+  },
+  {
+    "name": "The Belgian Waffle Co.",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/3/18624503/64e328ee2b6fe4d82aa36f2f5213f737_o2_featured_v2.jpg",
+    "order_url": "/bangalore/the-belgian-waffle-co-1-brookefield-bangalore/order"
+  },
+  {
+    "name": "NH1 Bowls - Highway To North",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/1/19810601/e34c07c7c81d59a0ac75e09465bea223_o2_featured_v2.jpg",
+    "order_url": "/bangalore/nh1-bowls-highway-to-north-marathahalli-bangalore/order"
+  },
+  {
+    "name": "Chaayos Chai+Snacks=Relax",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/6/19184036/2a2501d371c4e6cbccd9ff1fff22d4ce_o2_featured_v2.jpg",
+    "order_url": "/bangalore/chaayos-chai-snacks-relax-brookefield-bangalore/order"
+  },
+  {
+    "name": "New Udupi Garden",
+    "image": "https://b.zmtcdn.com/data/pictures/2/19135392/a86cece1e8a54e2f742030d7dca0abef_o2_featured_v2.jpg",
+    "order_url": "/bangalore/new-udupi-garden-1-marathahalli-bangalore/order"
   },
   {
     "name": "Chowman",
@@ -20,19 +590,9 @@
     "order_url": "/bangalore/chowman-brookefield-bangalore/order"
   },
   {
-    "name": "Meghana Foods",
-    "image": "https://b.zmtcdn.com/data/pictures/chains/1/50691/92d9b4053ef0965120828b4fa4eecc3b_o2_featured_v2.jpg",
-    "order_url": "/bangalore/meghana-foods-marathahalli-bangalore/order"
-  },
-  {
-    "name": "Anandha Biryani House",
-    "image": "https://b.zmtcdn.com/data/pictures/7/20153197/2239bd15bc62461d891f3d7a6f6d4357_o2_featured_v2.jpg",
-    "order_url": "/bangalore/anandha-biryani-house-kadubeesanahalli-bangalore/order"
-  },
-  {
-    "name": "KFC",
-    "image": "https://b.zmtcdn.com/data/pictures/chains/4/50574/336196dfdb8fc00175472a785007b9ea_o2_featured_v2.jpg",
-    "order_url": "/bangalore/kfc-brookefield/order"
+    "name": "EasyBites by Empire",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/8/18796818/bfefef318ef289a1661d3f33c8cd17f0_o2_featured_v2.jpg",
+    "order_url": "/bangalore/easybites-by-empire-brookefield-bangalore/order"
   },
   {
     "name": "Donne Biriyani Mane",
@@ -40,8 +600,2508 @@
     "order_url": "/bangalore/donne-biriyani-mane-cv-raman-nagar-bangalore/order"
   },
   {
-    "name": "Biriyani Zone",
-    "image": "https://b.zmtcdn.com/data/pictures/chains/9/51139/d914d8ee60d87bf8f6ad9db169265455_o2_featured_v2.jpg",
-    "order_url": "/bangalore/biriyani-zone-varthur-main-road-whitefield-bangalore/order"
+    "name": "Sattvam",
+    "image": "https://b.zmtcdn.com/data/pictures/3/19138723/b92dce4fbff3a82a72554007da397861_o2_featured_v2.jpg",
+    "order_url": "/bangalore/sattvam-whitefield-bangalore/order"
+  },
+  {
+    "name": "Ghee And Turmeric",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/5/19856845/f99cface1d13616a9b65d5d53fa41519_o2_featured_v2.jpg",
+    "order_url": "/bangalore/ghee-and-turmeric-whitefield-bangalore/order"
+  },
+  {
+    "name": "Bakingo",
+    "image": "https://b.zmtcdn.com/data/pictures/0/18886410/ebc237114735c09a4c956219e4c006e9_o2_featured_v2.jpg",
+    "order_url": "/bangalore/bakingo-marathahalli-bangalore/order"
+  },
+  {
+    "name": "Pepe's Pizza",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/6/19049576/73448f0f22d6ee8f6f00e7aae6c5c555_o2_featured_v2.jpg",
+    "order_url": "/bangalore/pepes-pizza-brookefield-bangalore/order"
+  },
+  {
+    "name": "Mad Over Donuts",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/1/53191/5c3b5f944f673c1f5db6e2ad8050a59c_o2_featured_v2.jpg",
+    "order_url": "/bangalore/mad-over-donuts-kr-puram-bangalore/order"
+  },
+  {
+    "name": "Udupi Grand Veg",
+    "image": "https://b.zmtcdn.com/data/pictures/5/18621335/b13c7c65dc3640928319765568bc0a42_o2_featured_v2.jpg",
+    "order_url": "/bangalore/udupi-grand-veg-marathahalli/order"
+  },
+  {
+    "name": "Laddoos",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/6/52036/fc4bc4ca46bc8fa72566700c036c82ba_o2_featured_v2.jpg",
+    "order_url": "/bangalore/laddoos-marathahalli-bangalore/order"
+  },
+  {
+    "name": "Udupi Gokula Veg",
+    "image": "https://b.zmtcdn.com/data/pictures/6/19741776/27b4443f3be7cd8b270f29cd40467c37_o2_featured_v2.jpg",
+    "order_url": "/bangalore/udupi-gokula-veg-kr-puram-bangalore/order"
+  },
+  {
+    "name": "Delicacy",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/0/50360/cf530aebe103065d6878c3c001b315ea_o2_featured_v2.jpg",
+    "order_url": "/bangalore/delicacy-cv-raman-nagar/order"
+  },
+  {
+    "name": "The Biryani Life",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/4/19225214/aed6598e604214342deaacc7d985257f_o2_featured_v2.jpg",
+    "order_url": "/bangalore/the-biryani-life-itpl-main-road-whitefield-bangalore/order"
+  },
+  {
+    "name": "Biryani Blues",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/9/19969439/15c89d5c951cac68710fdc0e7ff9ef9f_o2_featured_v2.jpg",
+    "order_url": "/bangalore/biryani-blues-whitefield-bangalore/order"
+  },
+  {
+    "name": "The Good Bowl",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/2/18878982/ed369b5c2aa178c223ede5c870ac3d4f_o2_featured_v2.jpg",
+    "order_url": "/bangalore/the-good-bowl-1-itpl-main-road-whitefield-bangalore/order"
+  },
+  {
+    "name": "UBQ By Barbeque Nation",
+    "image": "https://b.zmtcdn.com/data/pictures/8/18933568/2d2b03b528e425b5250c2a4f0c6a27c3_o2_featured_v2.jpg",
+    "order_url": "/bangalore/ubq-by-barbeque-nation-1-whitefield-bangalore/order"
+  },
+  {
+    "name": "Empire Juices And Ice Creams",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/1/18796821/ae89b63a575ff9cd21c937b11288cd4f_o2_featured_v2.jpg",
+    "order_url": "/bangalore/empire-juices-and-ice-creams-brookefield-bangalore/order"
+  },
+  {
+    "name": "Snack House",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/5/18852725/03ff6dae99c1c7a4b63f9f26080d176a_o2_featured_v2.jpg",
+    "order_url": "/bangalore/snack-house-marathahalli-bangalore/order"
+  },
+  {
+    "name": "Keventers - Milkshakes & Desserts",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/1/18547761/61beb7a99d10aec59213be67488a7740_o2_featured_v2.jpg",
+    "order_url": "/bangalore/keventers-milkshakes-desserts-varthur-main-road-whitefield-bangalore/order"
+  },
+  {
+    "name": "Aligarh House by EatFit",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/1/18690231/984bfeff006efe43802929d9d54380e1_o2_featured_v2.jpg",
+    "order_url": "/bangalore/aligarh-house-by-eatfit-varthur-main-road-whitefield-bangalore/order"
+  },
+  {
+    "name": "Orbis Restaurant",
+    "image": "https://b.zmtcdn.com/data/pictures/2/18871082/cabb09c62be4e190c19b2eb5cfbea4c8_o2_featured_v2.jpg",
+    "order_url": "/bangalore/orbis-restaurant-brookefield-bangalore/order"
+  },
+  {
+    "name": "Udupi Aatithya",
+    "image": "https://b.zmtcdn.com/data/pictures/7/19356517/7c1fae04a590cf3de5d82633e0d3e204_o2_featured_v2.jpg",
+    "order_url": "/bangalore/udupi-aatithya-whitefield-bangalore/order"
+  },
+  {
+    "name": "Ibaco",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/8/53198/995145af92d5d5004cc7e180d4d104c1_o2_featured_v2.jpg",
+    "order_url": "/bangalore/ibaco-brookefield-bangalore/order"
+  },
+  {
+    "name": "Ice Corner",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/2/19065172/c043bb1d15389a08d4738d056e441a0d_o2_featured_v2.jpg",
+    "order_url": "/bangalore/ice-corner-varthur-main-road-whitefield-bangalore/order"
+  },
+  {
+    "name": "Rajdhani",
+    "image": "https://b.zmtcdn.com/data/pictures/2/53122/4fc462db4937548d150d8651484c6aeb_o2_featured_v2.jpg",
+    "order_url": "/bangalore/rajdhani-1-whitefield-bangalore/order"
+  },
+  {
+    "name": "Odia Dine",
+    "image": "https://b.zmtcdn.com/data/pictures/1/19496281/17de70346533ede55e70ef9862fad98b_o2_featured_v2.png",
+    "order_url": "/bangalore/odia-dine-marathahalli-bangalore/order"
+  },
+  {
+    "name": "Sri Sai Palace",
+    "image": "https://b.zmtcdn.com/data/pictures/7/18807467/758e9c0ab8bfa0cfa02f5f4db4c4b74f_o2_featured_v2.jpg",
+    "order_url": "/bangalore/sri-sai-palace-whitefield-bangalore/order"
+  },
+  {
+    "name": "Mangalore Kitchen",
+    "image": "https://b.zmtcdn.com/data/pictures/8/19269238/f7cca837a3ab570be15f1b9d0fc9434d_o2_featured_v2.jpg",
+    "order_url": "/bangalore/mangalore-kitchen-whitefield-bangalore/order"
+  },
+  {
+    "name": "Imperio Combo King",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/9/19527919/9ab9d3ce0bfb79e4a7c3f380d8f5f6f0_o2_featured_v2.jpg",
+    "order_url": "/bangalore/imperio-combo-king-1-whitefield-bangalore/order"
+  },
+  {
+    "name": "Just Shawarma",
+    "image": "https://b.zmtcdn.com/data/pictures/9/19144149/3f10f6c0f8ae7cbc0f2f75acb5d5ddde_o2_featured_v2.jpg",
+    "order_url": "/bangalore/just-shawarma-whitefield-bangalore/order"
+  },
+  {
+    "name": "The Pizza Bakery - All Day Eatery",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/2/18603822/ec103a267a7a46983ca3f72857179206_o2_featured_v2.jpg",
+    "order_url": "/bangalore/the-pizza-bakery-all-day-eatery-brookefield-bangalore/order"
+  },
+  {
+    "name": "Tharavadu Malabar Biryani",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/6/19481276/d88a5dd8f22817fab6003ccd81847adb_o2_featured_v2.jpg",
+    "order_url": "/bangalore/tharavadu-malabar-biryani-varthur-main-road-whitefield-bangalore/order"
+  },
+  {
+    "name": "Five Star Chicken & Koli Hut",
+    "image": "https://b.zmtcdn.com/data/pictures/3/19616983/3678c7d04177b9b9276e816ceeaca24b_o2_featured_v2.jpg",
+    "order_url": "/bangalore/five-star-chicken-koli-hut-itpl-main-road-whitefield-bangalore/order"
+  },
+  {
+    "name": "Momoz",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/4/51794/563a94a8763bb18e32e21a000fcdc693_o2_featured_v2.jpg",
+    "order_url": "/bangalore/momoz-brookefield-bangalore/order"
+  },
+  {
+    "name": "Khichdi Express",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/9/19548819/feb310a1da4092be6a4309a435de2146_o2_featured_v2.jpg",
+    "order_url": "/bangalore/khichdi-express-whitefield-bangalore/order"
+  },
+  {
+    "name": "Itminaan Biryani - Dum Pukht",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/4/19480154/caa90df1ceba14ae2916634dd60292de_o2_featured_v2.jpg",
+    "order_url": "/bangalore/itminaan-biryani-dum-pukht-brookefield-bangalore/order"
+  },
+  {
+    "name": "Sri Udupi Sannidhi",
+    "image": "https://b.zmtcdn.com/data/pictures/9/19191089/3ccd641cd3d076b6ed3d5d3c2fb7a8fd_o2_featured_v2.jpg",
+    "order_url": "/bangalore/sri-udupi-sannidhi-kr-puram-bangalore/order"
+  },
+  {
+    "name": "Peetuk",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/5/19577875/c4768dc9260eaad9d08da87f13241f86_o2_featured_v2.jpg",
+    "order_url": "/bangalore/peetuk-marathahalli-bangalore/order"
+  },
+  {
+    "name": "Odishi Restaurant",
+    "image": "https://b.zmtcdn.com/data/pictures/6/19068756/3dc708351655ec118106d4ffe9e0fa99_o2_featured_v2.jpg",
+    "order_url": "/bangalore/odishi-restaurant-marathahalli-bangalore/order"
+  },
+  {
+    "name": "Sri Udupi Park",
+    "image": "https://b.zmtcdn.com/data/pictures/6/19775486/27b4443f3be7cd8b270f29cd40467c37_o2_featured_v2.jpg",
+    "order_url": "/bangalore/sri-udupi-park-2-whitefield-bangalore/order"
+  },
+  {
+    "name": "Chaat Street",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/7/18304767/81c2622fb8f3eb98aa11bec7dfc7fbf5_o2_featured_v2.jpg",
+    "order_url": "/bangalore/chaat-street-whitefield-bangalore/order"
+  },
+  {
+    "name": "Auntie Fung's",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/0/60340/8540a7bffb9ced7eb20f735d1794750d_o2_featured_v2.jpg",
+    "order_url": "/bangalore/auntie-fungs-kr-puram-bangalore/order"
+  },
+  {
+    "name": "Momo Monk",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/8/19146628/fbfd6e3027f15dfa4838b2baa10153d2_o2_featured_v2.jpg",
+    "order_url": "/bangalore/momo-monk-marathahalli-bangalore/order"
+  },
+  {
+    "name": "Nando's",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/5/51535/da367bf5497d9bc015f36f9013ace53a_o2_featured_v2.jpg",
+    "order_url": "/bangalore/nandos-whitefield-bangalore/order"
+  },
+  {
+    "name": "AB's - Absolute Barbecues",
+    "image": "https://b.zmtcdn.com/data/pictures/8/18561398/e651a8f281b50d47664b0a077aad1f43_o2_featured_v2.jpg",
+    "order_url": "/bangalore/abs-absolute-barbecues-whitefield/order"
+  },
+  {
+    "name": "Byg Brewski Brewing Company",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/2/58882/7a03b4ed0d0b95d75b6b2681f8d6d3d6_o2_featured_v2.jpg",
+    "order_url": "/bangalore/byg-brewski-brewing-company-sarjapur-road-bangalore/order"
+  },
+  {
+    "name": "New Udupi Veg",
+    "image": "https://b.zmtcdn.com/data/pictures/9/19295859/47affb150498f8f1995ed6927f6fa867_o2_featured_v2.jpeg",
+    "order_url": "/bangalore/new-udupi-veg-whitefield-bangalore/order"
+  },
+  {
+    "name": "Biryani Mount",
+    "image": "https://b.zmtcdn.com/data/pictures/5/19535475/9ad16bf6e4e73b17d4ce9deedaee095f_o2_featured_v2.jpg",
+    "order_url": "/bangalore/biryani-mount-brookefield-bangalore/order"
+  },
+  {
+    "name": "Toscano",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/9/51029/6c0692a99cad44c08b8b9a4729aa7ee8_o2_featured_v2.jpg",
+    "order_url": "/bangalore/toscano-varthur-main-road-whitefield-bangalore/order"
+  },
+  {
+    "name": "Hyderabad Chefs",
+    "image": "https://b.zmtcdn.com/data/pictures/2/18280582/29b9e7837721f16c25e2b37e26aa7c3f_o2_featured_v2.jpg",
+    "order_url": "/bangalore/hyderabad-chefs-marathahalli/order"
+  },
+  {
+    "name": "Udupi Upachar",
+    "image": "https://b.zmtcdn.com/data/pictures/1/19076011/c08d899a06090b48e64fcb50ff406921_o2_featured_v2.jpg",
+    "order_url": "/bangalore/udupi-upachar-brookefield-bangalore/order"
+  },
+  {
+    "name": "Restaurant Chef Pillai",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/5/19960685/ff3e187d02e15dad996b71266f604404_o2_featured_v2.jpg",
+    "order_url": "/bangalore/restaurant-chef-pillai-whitefield-bangalore/order"
+  },
+  {
+    "name": "Apsara Ice Creams",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/3/18468843/b935d208a3b7a817752f02b44acc9af4_o2_featured_v2.jpg",
+    "order_url": "/bangalore/apsara-ice-creams-whitefield-bangalore/order"
+  },
+  {
+    "name": "Momo Zone - The Momo Company",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/5/19849195/b1e216b5cd304b617d829032b22f7bf3_featured_v2.jpg",
+    "order_url": "/bangalore/momo-zone-the-momo-company-brookefield-bangalore/order"
+  },
+  {
+    "name": "Natraj Chole Bhature",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/5/19871235/de6547bf94632c644331d2f6f161f195_o2_featured_v2.jpg",
+    "order_url": "/bangalore/natraj-chole-bhature-brookefield-bangalore/order"
+  },
+  {
+    "name": "Kerala Tiffin",
+    "image": "https://b.zmtcdn.com/data/pictures/0/18687300/853b530d9545fd1af3d8cbe7800cdd4d_o2_featured_v2.jpg",
+    "order_url": "/bangalore/kerala-tiffin-itpl-main-road-whitefield-bangalore/order"
+  },
+  {
+    "name": "Cupcake Bliss Cakes & Desserts",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/6/18734516/8831c73f9db86c97fb0f75d00e19d05e_o2_featured_v2.jpg",
+    "order_url": "/bangalore/cupcake-bliss-cakes-desserts-brookefield-bangalore/order"
+  },
+  {
+    "name": "Magnolia Bakery",
+    "image": "https://b.zmtcdn.com/data/pictures/7/19649077/4f68765859e1ac486cc7cbb79382a1ab_o2_featured_v2.jpg",
+    "order_url": "/bangalore/magnolia-bakery-kr-puram-bangalore/order"
+  },
+  {
+    "name": "Third Wave Coffee",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/1/18380831/daa89d942fa33d67702cb18bb1d9b9ec_o2_featured_v2.jpg",
+    "order_url": "/bangalore/third-wave-coffee-brookefield-bangalore/order"
+  },
+  {
+    "name": "Home Plate by EatFit",
+    "image": "https://b.zmtcdn.com/data/pictures/6/20002176/2d0731f2d25f0363ba5fb2073293d382_featured_v2.jpg",
+    "order_url": "/bangalore/home-plate-by-eatfit-varthur-main-road-whitefield-bangalore/order"
+  },
+  {
+    "name": "ARK Donne Biryani",
+    "image": "https://b.zmtcdn.com/data/pictures/6/19559296/9e5e6d29d5398749881cae4ebab0f8f5_o2_featured_v2.jpg",
+    "order_url": "/bangalore/ark-donne-biryani-varthur-main-road-whitefield-bangalore/order"
+  },
+  {
+    "name": "Kerala Kitchen",
+    "image": "https://b.zmtcdn.com/data/pictures/8/19574658/3fe6cfbe43bce37ee59a8f726087a44a_o2_featured_v2.jpg",
+    "order_url": "/bangalore/kerala-kitchen-2-whitefield-bangalore/order"
+  },
+  {
+    "name": "Sri Lakshmi Biryani",
+    "image": "https://b.zmtcdn.com/data/pictures/0/19903850/9d2da79ab33b4bbf1a222bd4e6ce1e31_o2_featured_v2.jpg",
+    "order_url": "/bangalore/sri-lakshmi-biryani-marathahalli-bangalore/order"
+  },
+  {
+    "name": "Hyderabadi Kitchen",
+    "image": "https://b.zmtcdn.com/data/pictures/0/19283440/eecf5e45817517a2d1e74abf841b5960_o2_featured_v2.jpg",
+    "order_url": "/bangalore/hyderabadi-kitchen-marathahalli-bangalore/order"
+  },
+  {
+    "name": "Vishal Sweets & Restaurant",
+    "image": "https://b.zmtcdn.com/data/pictures/9/57759/6884727addda5d8b130adb8786daf4fd_o2_featured_v2.jpg",
+    "order_url": "/bangalore/vishal-sweets-restaurant-marathahalli/order"
+  },
+  {
+    "name": "NISO Chinese Restaurant",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/0/18554890/d9fe55c0b2b3411724d8c8e881b583c7_o2_featured_v2.jpg",
+    "order_url": "/bangalore/niso-chinese-restaurant-kr-puram/order"
+  },
+  {
+    "name": "NH8",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/0/51610/94bf61ba0da6bd815d3f1463ab9eb0f5_o2_featured_v2.jpg",
+    "order_url": "/bangalore/nh8-brookefield-bangalore/order"
+  },
+  {
+    "name": "Dande's Hyderabad Biryani",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/8/55698/d502aed0bd289a33dbb7122dea32bd5b_o2_featured_v2.jpg",
+    "order_url": "/bangalore/dandes-hyderabad-biryani-varthur-main-road-whitefield-bangalore/order"
+  },
+  {
+    "name": "Basmati Biriyani Nation",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/5/18932645/44e848079c031b2810fe14bd79d2597f_o2_featured_v2.jpg",
+    "order_url": "/bangalore/basmati-biriyani-nation-varthur-main-road-whitefield-bangalore/order"
+  },
+  {
+    "name": "The Dessert Zone",
+    "image": "https://b.zmtcdn.com/data/pictures/7/19808207/725802a14d213ae3f182b792bedda419_o2_featured_v2.jpg",
+    "order_url": "/bangalore/the-dessert-zone-itpl-main-road-whitefield-bangalore/order"
+  },
+  {
+    "name": "Aubree",
+    "image": "https://b.zmtcdn.com/data/pictures/3/19476963/61955ae19d171110db14189d86955fbb_o2_featured_v2.jpg",
+    "order_url": "/bangalore/aubree-2-marathahalli-bangalore/order"
+  },
+  {
+    "name": "Just Bake",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/1/51111/a8142d6e88f104086416872e48f5208e_o2_featured_v2.jpg",
+    "order_url": "/bangalore/just-bake-1-marathahalli/order"
+  },
+  {
+    "name": "Cafe Coffee Day",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/1/50211/81edcda3110291e378eaf0d7bf8ed412_o2_featured_v2.jpg",
+    "order_url": "/bangalore/cafe-coffee-day-3-marathahalli-bangalore/order"
+  },
+  {
+    "name": "Sweet Truth - Cake and Desserts",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/3/18551643/fe3ae1ebd34ebec370a4fce7a80f8d56_o2_featured_v2.jpg",
+    "order_url": "/bangalore/sweet-truth-cake-and-desserts-2-whitefield-bangalore/order"
+  },
+  {
+    "name": "Malabar Hotel",
+    "image": "https://b.zmtcdn.com/data/pictures/7/18160087/f77f01d5aec3de812083778335e230a2_o2_featured_v2.jpg",
+    "order_url": "/bangalore/malabar-hotel-kaggadasapura-bangalore/order"
+  },
+  {
+    "name": "The Dessert Corner",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/5/20005245/a551cf09147d02f2d82d8e013ae13a94_o2_featured_v2.jpg",
+    "order_url": "/bangalore/the-dessert-corner-brookefield-bangalore/order"
+  },
+  {
+    "name": "Chung Wah's",
+    "image": "https://b.zmtcdn.com/data/pictures/5/19947225/6ea3ff51fcea619598a7a86096886edb_o2_featured_v2.jpg",
+    "order_url": "/bangalore/chung-wahs-1-whitefield-bangalore/order"
+  },
+  {
+    "name": "Khawar Ashe Pashe",
+    "image": "https://b.zmtcdn.com/data/pictures/3/19454753/faea3c453dec936d8ec95641b2c96e19_o2_featured_v2.jpg",
+    "order_url": "/bangalore/khawar-ashe-pashe-kr-puram-bangalore/order"
+  },
+  {
+    "name": "Shanghai Court",
+    "image": "https://b.zmtcdn.com/data/pictures/7/19214037/6f6fa4f96a80a66fc3d1697ef3aa9cd5_o2_featured_v2.jpg",
+    "order_url": "/bangalore/shanghai-court-varthur-main-road-whitefield-bangalore/order"
+  },
+  {
+    "name": "Nellore Ruchulu",
+    "image": "https://b.zmtcdn.com/data/pictures/0/19452620/9980ad006ed13267cb78062aa241d244_o2_featured_v2.jpg",
+    "order_url": "/bangalore/nellore-ruchulu-1-kr-puram-bangalore/order"
+  },
+  {
+    "name": "The Bake Feast",
+    "image": "https://b.zmtcdn.com/data/pictures/9/19335369/9e51d719d7c7f1693685bd3a41661c4c_o2_featured_v2.jpg",
+    "order_url": "/bangalore/the-bake-feast-whitefield-bangalore/order"
+  },
+  {
+    "name": "Reddy's Kitchen",
+    "image": "https://b.zmtcdn.com/data/pictures/9/18962999/9980ad006ed13267cb78062aa241d244_o2_featured_v2.jpg",
+    "order_url": "/bangalore/reddys-kitchen-kr-puram-bangalore/order"
+  },
+  {
+    "name": "The Thickshake factory",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/5/18163865/24b7db9584026943e9578628d66ee39f_o2_featured_v2.jpg",
+    "order_url": "/bangalore/the-thickshake-factory-brookefield-bangalore/order"
+  },
+  {
+    "name": "Mother's Meal",
+    "image": "https://b.zmtcdn.com/data/pictures/3/59153/9418f989c58845d28188c1c7317403d7_o2_featured_v2.jpg",
+    "order_url": "/bangalore/mothers-meal-cv-raman-nagar/order"
+  },
+  {
+    "name": "Bhojanam",
+    "image": "https://b.zmtcdn.com/data/pictures/5/19468765/93274ac8639f14e43636f2800bb50702_o2_featured_v2.jpg",
+    "order_url": "/bangalore/bhojanam-whitefield-bangalore/order"
+  },
+  {
+    "name": "Pasta Street",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/7/53497/2c391076a7edf15a33b29fb619385b44_o2_featured_v2.jpg",
+    "order_url": "/bangalore/pasta-street-whitefield-bangalore/order"
+  },
+  {
+    "name": "Lo! - Low Carb And Keto Foods",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/4/19131494/5cbbd0a92577eca756594634919bb09f_o2_featured_v2.jpg",
+    "order_url": "/bangalore/lo-low-carb-and-keto-foods-itpl-main-road-whitefield-bangalore/order"
+  },
+  {
+    "name": "Lemon Leaf",
+    "image": "https://b.zmtcdn.com/data/pictures/7/19503427/171f3122a4a9002ff34baf93947d0bd3_o2_featured_v2.jpg",
+    "order_url": "/bangalore/lemon-leaf-whitefield-bangalore/order"
+  },
+  {
+    "name": "Basaveshwara Khanavali",
+    "image": "https://b.zmtcdn.com/data/pictures/7/19678977/9a4ecbb78c07bbe9d90b19901605297a_o2_featured_v2.jpg",
+    "order_url": "/bangalore/basaveshwara-khanavali-1-varthur-main-road-whitefield-bangalore/order"
+  },
+  {
+    "name": "Punjab Beat",
+    "image": "https://b.zmtcdn.com/data/pictures/2/18954032/693d4e9170c6324dd5556f6b46bf9292_o2_featured_v2.jpg",
+    "order_url": "/bangalore/punjab-beat-1-whitefield-bangalore/order"
+  },
+  {
+    "name": "Mega Biryani",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/1/19514101/e49c05f7abcc6a521eba5848b7f3dad3_o2_featured_v2.jpg",
+    "order_url": "/bangalore/mega-biryani-marathahalli-bangalore/order"
+  },
+  {
+    "name": "New Paratha Corner",
+    "image": "https://b.zmtcdn.com/data/pictures/5/61025/d07cdd1438966150faef6279ac17d30b_o2_featured_v2.jpg",
+    "order_url": "/bangalore/new-paratha-corner-whitefield/order"
+  },
+  {
+    "name": "Carlos Cake Cafe",
+    "image": "https://b.zmtcdn.com/data/pictures/1/18740111/6e4d84b64a52b032a590785c8074f9dc_o2_featured_v2.jpg",
+    "order_url": "/bangalore/carlos-cake-cafe-marathahalli-bangalore/order"
+  },
+  {
+    "name": "B2H - Biryani 2 Home",
+    "image": "https://b.zmtcdn.com/data/pictures/0/20245680/c874d2139941898d04b671aa297ef74b_o2_featured_v2.jpg",
+    "order_url": "/bangalore/b2h-biryani-2-home-whitefield-bangalore/order"
+  },
+  {
+    "name": "TrueCakes",
+    "image": "https://b.zmtcdn.com/data/pictures/9/19782189/022edffff251fb0b0ab382e3f407af85_o2_featured_v2.jpg",
+    "order_url": "/bangalore/truecakes-1-marathahalli-bangalore/order"
+  },
+  {
+    "name": "The Lassi Corner",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/7/19495687/34fc94beef7d087451cc41a39d1caf43_o2_featured_v2.jpg",
+    "order_url": "/bangalore/the-lassi-corner-1-marathahalli-bangalore/order"
+  },
+  {
+    "name": "FB Cakes",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/3/19305763/2588589941a5c8fa3fe8b08206cebe9a_o2_featured_v2.jpg",
+    "order_url": "/bangalore/fb-cakes-marathahalli-bangalore/order"
+  },
+  {
+    "name": "Kapoor's Chaat Bhandaar",
+    "image": "https://b.zmtcdn.com/data/pictures/8/19631088/32c155329c058edab02149328e95290e_o2_featured_v2.jpg",
+    "order_url": "/bangalore/kapoors-chaat-bhandaar-brookefield-bangalore/order"
+  },
+  {
+    "name": "Punjab On Cloud",
+    "image": "https://b.zmtcdn.com/data/pictures/1/20250181/f4233394a968eb535cddf8c7dfe20428_o2_featured_v2.jpg",
+    "order_url": "/bangalore/punjab-on-cloud-whitefield-bangalore/order"
+  },
+  {
+    "name": "Cream Stone Ice Cream",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/6/59536/b1c11e46c6bb5573b5c416d58a575ef8_o2_featured_v2.jpg",
+    "order_url": "/bangalore/cream-stone-ice-cream-kr-puram-bangalore/order"
+  },
+  {
+    "name": "Marwar's",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/5/19844965/44decc9179a399e1a1cff910dc4c3823_o2_featured_v2.jpg",
+    "order_url": "/bangalore/marwars-whitefield-bangalore/order"
+  },
+  {
+    "name": "The Filter Coffee",
+    "image": "https://b.zmtcdn.com/data/pictures/1/19711051/7b6f07d9edfd13e0de100f964dfbb7e4_o2_featured_v2.jpg",
+    "order_url": "/bangalore/the-filter-coffee-kr-puram-bangalore/order"
+  },
+  {
+    "name": "Mainland China",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/3/50633/5e1bd3dae39c8adba5343d0659d18529_o2_featured_v2.jpg",
+    "order_url": "/bangalore/mainland-china-whitefield/order"
+  },
+  {
+    "name": "Oh! Calcutta",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/0/58720/0cb3edb7647ab3be4785f6fef7e8a023_o2_featured_v2.jpg",
+    "order_url": "/bangalore/oh-calcutta-whitefield-bangalore/order"
+  },
+  {
+    "name": "Chef Bakers",
+    "image": "https://b.zmtcdn.com/data/pictures/8/50248/687a5839cc8b04acbcb3c7af63883124_o2_featured_v2.jpg",
+    "order_url": "/bangalore/chef-bakers-brookefield-bangalore/order"
+  },
+  {
+    "name": "Daily Sushi",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/3/18893733/feaaf0df9b3cc8aa92571f60999f56ea_o2_featured_v2.png",
+    "order_url": "/bangalore/daily-sushi-whitefield-bangalore/order"
+  },
+  {
+    "name": "Bowl 99",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/4/19123984/8b8d0f908779b9df5704d5f5cd92a75e_o2_featured_v2.jpg",
+    "order_url": "/bangalore/bowl-99-brookefield-bangalore/order"
+  },
+  {
+    "name": "Estaa Sweets",
+    "image": "https://b.zmtcdn.com/data/pictures/9/18895309/4ab8db1676d792aa80add5a9a8c181f1_o2_featured_v2.jpg",
+    "order_url": "/bangalore/estaa-sweets-whitefield-bangalore/order"
+  },
+  {
+    "name": "New Udupi Upahar",
+    "image": "https://b.zmtcdn.com/data/pictures/9/18448379/fe752cf64a86379f3a546b5a23d43865_o2_featured_v2.jpg",
+    "order_url": "/bangalore/new-udupi-upahar-varthur-main-road-whitefield-bangalore/order"
+  },
+  {
+    "name": "Brik Oven",
+    "image": "https://b.zmtcdn.com/data/pictures/7/19649317/5a80a6863d748bb81e514353c36ec844_o2_featured_v2.jpg",
+    "order_url": "/bangalore/brik-oven-whitefield-bangalore/order"
+  },
+  {
+    "name": "Mealful Rolls - India's Biggest Rolls",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/4/19329354/626066ccb6736709ffa9e02d231662fc_o2_featured_v2.jpg",
+    "order_url": "/bangalore/mealful-rolls-indias-biggest-rolls-4-whitefield-bangalore/order"
+  },
+  {
+    "name": "Nandishwara Mudde Oota",
+    "image": "https://b.zmtcdn.com/data/pictures/5/59475/f06f80b60857f70f442c5a57e30f6708_o2_featured_v2.jpg",
+    "order_url": "/bangalore/nandishwara-mudde-oota-kr-puram/order"
+  },
+  {
+    "name": "BigBites",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/3/19541603/107c51d73bd33e78f0074312c41188be_o2_featured_v2.jpg",
+    "order_url": "/bangalore/bigbites-2-marathahalli-bangalore/order"
+  },
+  {
+    "name": "Udupi Garden",
+    "image": "https://b.zmtcdn.com/data/pictures/2/19958552/abad9e54e4b2e38b3c14b21f9c4a5896_o2_featured_v2.jpg",
+    "order_url": "/bangalore/udupi-garden-whitefield-bangalore/order"
+  },
+  {
+    "name": "Dilli Darbar",
+    "image": "https://b.zmtcdn.com/data/pictures/9/18387409/46080958b3beeb9a4f53ecd4d7fc2ef8_o2_featured_v2.jpg",
+    "order_url": "/bangalore/dilli-darbar-1-whitefield/order"
+  },
+  {
+    "name": "Gopizza",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/1/19202531/46ffd1435497202e5372e7cd085c0886_o2_featured_v2.jpg",
+    "order_url": "/bangalore/gopizza-1-whitefield-bangalore/order"
+  },
+  {
+    "name": "The Parotta Combo",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/9/19527979/7cc76cb3e4351733ad0b406b51de6c1b_o2_featured_v2.jpg",
+    "order_url": "/bangalore/the-parotta-combo-1-whitefield-bangalore/order"
+  },
+  {
+    "name": "Biryani Garden",
+    "image": "https://b.zmtcdn.com/data/pictures/5/19765985/0942c5620ea5b6c7e796d23edbc0d28c_o2_featured_v2.jpg",
+    "order_url": "/bangalore/biryani-garden-2-kr-puram-bangalore/order"
+  },
+  {
+    "name": "Angaar Biryani",
+    "image": "https://b.zmtcdn.com/data/pictures/7/18494127/fd33b077b5092e3d0e19a35b500da3e3_o2_featured_v2.jpg",
+    "order_url": "/bangalore/angaar-biryani-1-whitefield-bangalore/order"
+  },
+  {
+    "name": "New Udupi Upahar",
+    "image": "https://b.zmtcdn.com/data/pictures/2/18412142/243b94c5cb7fb29929c04255a2ac7707_o2_featured_v2.jpg",
+    "order_url": "/bangalore/new-udupi-upahar-marathahalli/order"
+  },
+  {
+    "name": "Spicy House",
+    "image": "https://b.zmtcdn.com/data/pictures/8/56838/f37e6760ad812200a4c633d90724625c_o2_featured_v2.jpg",
+    "order_url": "/bangalore/spicy-house-marathahalli/order"
+  },
+  {
+    "name": "Biryani Day",
+    "image": "https://b.zmtcdn.com/data/pictures/0/51740/3d24958a660ab9ddfe9d8b5db59c83ca_o2_featured_v2.jpg",
+    "order_url": "/bangalore/biryani-day-marathahalli/order"
+  },
+  {
+    "name": "Chinese BAE",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/2/19319832/7bba320cd66ddc6cb7fbffb5d6a5132d_o2_featured_v2.jpg",
+    "order_url": "/bangalore/chinese-bae-brookefield-bangalore/order"
+  },
+  {
+    "name": "Udupi Vaibhav",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/7/19318387/dc51a9dd79c078a5ddf64846b4f1e292_o2_featured_v2.jpg",
+    "order_url": "/bangalore/udupi-vaibhav-kr-puram-bangalore/order"
+  },
+  {
+    "name": "Zaatar",
+    "image": "https://b.zmtcdn.com/data/pictures/7/18562597/c07f5ec97dfc69b7fc8656fcf830a63e_o2_featured_v2.jpeg",
+    "order_url": "/bangalore/zaatar-old-madras-road-bangalore/order"
+  },
+  {
+    "name": "Donne Biriyanis Junction",
+    "image": "https://b.zmtcdn.com/data/pictures/4/20124744/56ed24c2a43a10069e50784c6b4955ae_o2_featured_v2.jpg",
+    "order_url": "/bangalore/donne-biriyanis-junction-kadubeesanahalli-bangalore/order"
+  },
+  {
+    "name": "Punjab Junction",
+    "image": "https://b.zmtcdn.com/data/pictures/5/54635/65dfc577ead1909933c2fff2ac273806_o2_featured_v2.jpg",
+    "order_url": "/bangalore/punjab-junction-kaggadasapura/order"
+  },
+  {
+    "name": "Cakes Wagon",
+    "image": "https://b.zmtcdn.com/data/pictures/9/18897039/d038e00346a639675b3608df97785664_o2_featured_v2.jpg",
+    "order_url": "/bangalore/cakes-wagon-marathahalli-bangalore/order"
+  },
+  {
+    "name": "Self Love Cafeteria",
+    "image": "https://b.zmtcdn.com/data/pictures/4/19594834/260c56f9d62d7e5fbfc8b0aa4be148a9_o2_featured_v2.jpg",
+    "order_url": "/bangalore/self-love-cafeteria-marathahalli-bangalore/order"
+  },
+  {
+    "name": "Pure Veg Meals By LunchBox",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/8/19839658/270e6ed0a23fcbf79f5f93daba8134cc_o2_featured_v2.jpg",
+    "order_url": "/bangalore/pure-veg-meals-by-lunchbox-brookefield-bangalore/order"
+  },
+  {
+    "name": "Yumlane Pizza",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/6/18848136/49a6234f456ba5878f95a28bd2898743_o2_featured_v2.jpg",
+    "order_url": "/bangalore/yumlane-pizza-whitefield-bangalore/order"
+  },
+  {
+    "name": "Biggies Burger",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/9/58829/61c6967da1c9e223c26d4de803bd0871_o2_featured_v2.jpeg",
+    "order_url": "/bangalore/biggies-burger-2-whitefield-bangalore/order"
+  },
+  {
+    "name": "Indiana Burgers",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/3/18711093/a7b55b4995185c132c480ec961bbc9e2_o2_featured_v2.jpg",
+    "order_url": "/bangalore/indiana-burgers-brookefield-bangalore/order"
+  },
+  {
+    "name": "DUNKIN'",
+    "image": "https://b.zmtcdn.com/data/pictures/6/18246516/6ab307ceeca90df739ba0a18821fad51_o2_featured_v2.jpg",
+    "order_url": "/bangalore/dunkin-brookefield-bangalore/order"
+  },
+  {
+    "name": "Punjabi Chaap Corner",
+    "image": "https://b.zmtcdn.com/data/pictures/8/19953238/419fffae81087d6cb0d0249ea4b7a5e5_o2_featured_v2.jpg",
+    "order_url": "/bangalore/punjabi-chaap-corner-brookefield-bangalore/order"
+  },
+  {
+    "name": "NOTO - Healthy Ice Cream",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/8/19748518/a7529a97931b855648d75e3f4da880e9_o2_featured_v2.jpg",
+    "order_url": "/bangalore/noto-healthy-ice-cream-brookefield-bangalore/order"
+  },
+  {
+    "name": "ITC Master Chef Creations",
+    "image": "https://b.zmtcdn.com/data/pictures/4/19704494/7ed7a7961d110f3f4134a36045170aba_o2_featured_v2.jpg",
+    "order_url": "/bangalore/itc-master-chef-creations-varthur-main-road-whitefield-bangalore/order"
+  },
+  {
+    "name": "Smoke House Deli",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/7/54397/f95648e16d0fba3afc9c63e06b982c5b_o2_featured_v2.jpg",
+    "order_url": "/bangalore/smoke-house-deli-whitefield-bangalore/order"
+  },
+  {
+    "name": "SLAY Coffee",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/9/18984599/5f6e3e693f3614ee7dcb543222af449f_o2_featured_v2.jpg",
+    "order_url": "/bangalore/slay-coffee-1-whitefield-bangalore/order"
+  },
+  {
+    "name": "Alpha Biryani",
+    "image": "https://b.zmtcdn.com/data/pictures/1/19461401/35e533c2fd6c460b045e4ae1500ae0b8_o2_featured_v2.jpg",
+    "order_url": "/bangalore/alpha-biryani-1-whitefield-bangalore/order"
+  },
+  {
+    "name": "IFC - Imperio Fried Chicken",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/1/19541161/33c31a84d520f486bc245679b1b16905_o2_featured_v2.jpg",
+    "order_url": "/bangalore/ifc-imperio-fried-chicken-brookefield-bangalore/order"
+  },
+  {
+    "name": "Paris Panini - French Street Food",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/1/19263281/929594f38f937da64f6b99c2961df3dd_o2_featured_v2.jpg",
+    "order_url": "/bangalore/paris-panini-french-street-food-whitefield-bangalore/order"
+  },
+  {
+    "name": "Bombay Kulfis",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/3/18387393/7d6569cebe0b4652472bf6c76ddc2d90_o2_featured_v2.jpg",
+    "order_url": "/bangalore/bombay-kulfis-2-whitefield-bangalore/order"
+  },
+  {
+    "name": "Awadhi Delights",
+    "image": "https://b.zmtcdn.com/data/pictures/5/20062885/0fcba758661474666687d5d363a0b9be_o2_featured_v2.jpg",
+    "order_url": "/bangalore/awadhi-delights-1-brookefield-bangalore/order"
+  },
+  {
+    "name": "Kolkata Rolls & Chowmien",
+    "image": "https://b.zmtcdn.com/data/pictures/5/18711335/d19c25c353a319073608d7840e7caddc_o2_featured_v2.jpg",
+    "order_url": "/bangalore/kolkata-rolls-chowmien-kr-puram-bangalore/order"
+  },
+  {
+    "name": "Kolkata Famous Katti Rolls",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/5/57105/d7e91e455ea7d74ec83c853607ae9765_o2_featured_v2.jpg",
+    "order_url": "/bangalore/kolkata-famous-katti-rolls-marathahalli/order"
+  },
+  {
+    "name": "Atithi Family Restaurant",
+    "image": "https://b.zmtcdn.com/data/pictures/6/19316536/6d270c5961d575b31e79488869e9f363_o2_featured_v2.jpg",
+    "order_url": "/bangalore/atithi-family-restaurant-varthur-main-road-whitefield-bangalore/order"
+  },
+  {
+    "name": "Ambur Hot Dum Biryani",
+    "image": "https://b.zmtcdn.com/data/pictures/6/19872976/f12e011c58d47858672bbf4dde6bc2a7_o2_featured_v2.jpg",
+    "order_url": "/bangalore/ambur-hot-dum-biryani-3-whitefield-bangalore/order"
+  },
+  {
+    "name": "Chaatimes",
+    "image": "https://b.zmtcdn.com/data/pictures/4/19240774/f44b05c6febc5b820a450e364ff11d29_o2_featured_v2.jpg",
+    "order_url": "/bangalore/chaatimes-kr-puram-bangalore/order"
+  },
+  {
+    "name": "Puchkas",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/7/55457/b5f49c6c6b87280ce915b487efb14d22_o2_featured_v2.jpg",
+    "order_url": "/bangalore/puchkas-marathahalli/order"
+  },
+  {
+    "name": "Hyderabadi Biryani Utsav",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/4/57874/3bd67e3acf26d702b45f1a188d11ce24_o2_featured_v2.jpg",
+    "order_url": "/bangalore/hyderabadi-biryani-utsav-old-madras-road/order"
+  },
+  {
+    "name": "Chickpet Donne Biriyani Mane",
+    "image": "https://b.zmtcdn.com/data/pictures/6/20160866/4b611b7263851f41ec57b394b43012b2_o2_featured_v2.jpg",
+    "order_url": "/bangalore/chickpet-donne-biriyani-mane-kr-puram-bangalore/order"
+  },
+  {
+    "name": "Kolkata Sholoana",
+    "image": "https://b.zmtcdn.com/data/pictures/9/19664809/2e03b8872edd18aba3a7a54221cd2188_o2_featured_v2.jpg",
+    "order_url": "/bangalore/kolkata-sholoana-marathahalli-bangalore/order"
+  },
+  {
+    "name": "Jalpaan",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/3/52333/d055a9a71dc9f294afe3743bc7b4d4c4_o2_featured_v2.jpg",
+    "order_url": "/bangalore/jalpaan-indiranagar-bangalore/order"
+  },
+  {
+    "name": "Kerala Note Book",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/6/19740146/68c5f46fbbde075463d20db44db044c3_o2_featured_v2.jpg",
+    "order_url": "/bangalore/kerala-note-book-1-whitefield-bangalore/order"
+  },
+  {
+    "name": "The Bengal Club",
+    "image": "https://b.zmtcdn.com/data/pictures/3/19624253/9fccbf1c9dd2ae1de33a245acb9ee2cb_o2_featured_v2.jpg",
+    "order_url": "/bangalore/the-bengal-club-marathahalli-bangalore/order"
+  },
+  {
+    "name": "Salt - Indian Restaurant Bar & Grill",
+    "image": "https://b.zmtcdn.com/data/pictures/1/19024171/2179953e9567e9ed08d55e2fb23795ac_o2_featured_v2.jpg",
+    "order_url": "/bangalore/salt-indian-restaurant-bar-grill-itpl-main-road-whitefield-bangalore/order"
+  },
+  {
+    "name": "Bangalore Mandarin",
+    "image": "https://b.zmtcdn.com/data/pictures/1/18290061/d0fb20bf36abec4630fdac0c1ac2c4bc_o2_featured_v2.jpg",
+    "order_url": "/bangalore/bangalore-mandarin-whitefield/order"
+  },
+  {
+    "name": "Mallu House",
+    "image": "https://b.zmtcdn.com/data/pictures/1/20174101/9f475187726bae6abd4a0038190fca23_o2_featured_v2.jpg",
+    "order_url": "/bangalore/mallu-house-whitefield-bangalore/order"
+  },
+  {
+    "name": "The Momo Co.",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/4/19715694/8c8a7c01aa5558882a27de72f41b0b5a_o2_featured_v2.jpg",
+    "order_url": "/bangalore/the-momo-co-whitefield-bangalore/order"
+  },
+  {
+    "name": "LeanCrust Pizza - ThinCrust Experts",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/2/19541902/91b66484cbebf0f27352050258dfcd83_o2_featured_v2.jpg",
+    "order_url": "/bangalore/leancrust-pizza-thincrust-experts-varthur-main-road-whitefield-bangalore/order"
+  },
+  {
+    "name": "Dil Punjabi",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/0/20110110/0293d2d43a88af42a7687119f3048687_o2_featured_v2.jpg",
+    "order_url": "/bangalore/dil-punjabi-brookefield-bangalore/order"
+  },
+  {
+    "name": "Hungry Chang",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/2/19133772/67f0ca936e1053d748fa726b9b5377b8_o2_featured_v2.jpg",
+    "order_url": "/bangalore/hungry-chang-1-whitefield-bangalore/order"
+  },
+  {
+    "name": "Food Court By Kitchens@",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/4/18796834/c39c472be4c8ca1dc1fb5f9f09c451cd_o2_featured_v2.jpg",
+    "order_url": "/bangalore/food-court-by-kitchens@-brookefield-bangalore/order"
+  },
+  {
+    "name": "Rusbury Fresh Sweets And Savouries",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/8/18746938/e2e0a690e6f7c99cd1c702dec3d0e925_o2_featured_v2.jpg",
+    "order_url": "/bangalore/rusbury-fresh-sweets-and-savouries-whitefield-bangalore/order"
+  },
+  {
+    "name": "The Brooklyn Creamery - Healthy Ice Cream",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/4/19349234/68d762adf53ccd0cc7c35e41df545db8_o2_featured_v2.jpg",
+    "order_url": "/bangalore/the-brooklyn-creamery-healthy-ice-cream-brookefield-bangalore/order"
+  },
+  {
+    "name": "Firangi Bake",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/0/18577160/4598bf555104600555614b20a04f900f_o2_featured_v2.jpg",
+    "order_url": "/bangalore/firangi-bake-2-itpl-main-road-whitefield/order"
+  },
+  {
+    "name": "Grow Fit",
+    "image": "https://b.zmtcdn.com/data/pictures/0/19526810/55df7c8502d5e6d7dd408998e5511ef5_o2_featured_v2.jpg",
+    "order_url": "/bangalore/grow-fit-1-whitefield-bangalore/order"
+  },
+  {
+    "name": "You Mee",
+    "image": "https://b.zmtcdn.com/data/pictures/0/18802460/9206489734a60a0d6221f84ff45953b9_o2_featured_v2.jpg",
+    "order_url": "/bangalore/you-mee-whitefield-bangalore/order"
+  },
+  {
+    "name": "Paratha Box by EatFit",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/8/19440918/aae8653c42d532fdcef9eb5a1f8d69c8_o2_featured_v2.jpg",
+    "order_url": "/bangalore/paratha-box-by-eatfit-varthur-main-road-whitefield-bangalore/order"
+  },
+  {
+    "name": "Dhaba - Estd 1986 Delhi",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/5/18432985/0ea50c4c94aaeab82d943030ed8282e9_o2_featured_v2.jpg",
+    "order_url": "/bangalore/dhaba-estd-1986-delhi-marathahalli-bangalore/order"
+  },
+  {
+    "name": "The Ganache Factory",
+    "image": "https://b.zmtcdn.com/data/pictures/0/19525760/dcdf5433219bc7e0d2a9f085a7c73d01_o2_featured_v2.jpg",
+    "order_url": "/bangalore/the-ganache-factory-brookefield-bangalore/order"
+  },
+  {
+    "name": "Sorse",
+    "image": "https://b.zmtcdn.com/data/pictures/6/60406/d9460a536ec0f70fe8931d4b67233b5c_o2_featured_v2.jpg",
+    "order_url": "/sorse/order"
+  },
+  {
+    "name": "New Punjabi Tasty Khana",
+    "image": "https://b.zmtcdn.com/data/pictures/5/57545/1d27417f14f5c0aa0e8ecec17cd41410_o2_featured_v2.png",
+    "order_url": "/bangalore/new-punjabi-tasty-khana-whitefield/order"
+  },
+  {
+    "name": "Oziano",
+    "image": "https://b.zmtcdn.com/data/pictures/5/18696235/316ad684ae798500744ab9185c6252ac_o2_featured_v2.jpg",
+    "order_url": "/bangalore/oziano-marathahalli-bangalore/order"
+  },
+  {
+    "name": "Paratha Center",
+    "image": "https://b.zmtcdn.com/data/pictures/6/18995046/ebd53ea280c440e92cdb32370fe01024_o2_featured_v2.jpg",
+    "order_url": "/bangalore/paratha-center-whitefield-bangalore/order"
+  },
+  {
+    "name": "Udupi Veg",
+    "image": "https://b.zmtcdn.com/data/pictures/0/19655780/6812b7d6166430abf0f62016ea8fe548_o2_featured_v2.jpg",
+    "order_url": "/bangalore/udupi-veg-whitefield-bangalore/order"
+  },
+  {
+    "name": "Juice Berg",
+    "image": "https://b.zmtcdn.com/data/pictures/8/18455608/30049561ca0bf5b401b08efa76512c62_o2_featured_v2.jpg",
+    "order_url": "/bangalore/juice-berg-1-brookefield/order"
+  },
+  {
+    "name": "Lakeview Milkbar",
+    "image": "https://b.zmtcdn.com/data/pictures/7/19708257/17ebe097c889bf68996656e444d54bf9_o2_featured_v2.jpg",
+    "order_url": "/bangalore/lakeview-milkbar-whitefield-bangalore/order"
+  },
+  {
+    "name": "Chef Bakers",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/9/19241439/de1d6bf5734db78fb274791a18fe8712_o2_featured_v2.jpg",
+    "order_url": "/bangalore/chef-bakers-6-marathahalli-bangalore/order"
+  },
+  {
+    "name": "The Nosh House",
+    "image": "https://b.zmtcdn.com/data/pictures/5/18610445/7865255d2f9635a10aa95647effbdf39_o2_featured_v2.jpg",
+    "order_url": "/bangalore/the-nosh-house-sarjapur-road/order"
+  },
+  {
+    "name": "Biryani House",
+    "image": "https://b.zmtcdn.com/data/pictures/6/19588866/c93d01bbfb04068280b2323ffbec47b0_o2_featured_v2.jpg",
+    "order_url": "/bangalore/biryani-house-1-varthur-main-road-whitefield-bangalore/order"
+  },
+  {
+    "name": "Preethi's Biryani Hub",
+    "image": "https://b.zmtcdn.com/data/pictures/0/19409650/af6637633f519154e375148a0a7dae2d_o2_featured_v2.jpg",
+    "order_url": "/bangalore/preethis-biryani-hub-whitefield-bangalore/order"
+  },
+  {
+    "name": "Best Of Bengal",
+    "image": "https://b.zmtcdn.com/data/pictures/8/18499108/9b3e2c7c4e385ebce7948a0342cda013_o2_featured_v2.jpg",
+    "order_url": "/bangalore/best-of-bengal-kadubeesanahalli-bangalore/order"
+  },
+  {
+    "name": "Samosa Singh",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/6/18258966/8e917cdbe24e9aaedb8dd74eab55d778_o2_featured_v2.jpg",
+    "order_url": "/bangalore/samosa-singh-marathahalli-bangalore/order"
+  },
+  {
+    "name": "Whitefield Social",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/8/57438/b29c6a9dad1fa3aac4686502fbf99282_o2_featured_v2.jpg",
+    "order_url": "/WhitefieldSocial/order"
+  },
+  {
+    "name": "Basmati Express",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/2/19340722/3ac5656e33db5140a409b7d75d778f97_o2_featured_v2.jpg",
+    "order_url": "/bangalore/basmati-express-whitefield-bangalore/order"
+  },
+  {
+    "name": "New Guru Nalapaka",
+    "image": "https://b.zmtcdn.com/data/pictures/7/20012957/19b6ebdf68c5e78c64c9c3abdc67ad89_o2_featured_v2.jpg",
+    "order_url": "/bangalore/new-guru-nalapaka-kr-puram-bangalore/order"
+  },
+  {
+    "name": "Sizzlers Pizza Inn",
+    "image": "https://b.zmtcdn.com/data/pictures/3/19913763/c786f116447cfdc4c8eaf4f0a189e5b7_o2_featured_v2.jpg",
+    "order_url": "/bangalore/sizzlers-pizza-inn-whitefield-bangalore/order"
+  },
+  {
+    "name": "Kalinga Spices",
+    "image": "https://b.zmtcdn.com/data/pictures/0/19433500/5d7b5cf7943f92dbf4db0962d2f3159c_o2_featured_v2.jpg",
+    "order_url": "/bangalore/kalinga-spices-brookefield-bangalore/order"
+  },
+  {
+    "name": "Ranga Restaurant",
+    "image": "https://b.zmtcdn.com/data/pictures/7/19684877/aa6fd89435d3155df1cd319437d42210_o2_featured_v2.jpg",
+    "order_url": "/bangalore/ranga-restaurant-bellandur-bangalore/order"
+  },
+  {
+    "name": "Le Arabia",
+    "image": "https://b.zmtcdn.com/data/pictures/7/19561267/fed2147c47b304e1e26425602e52fe5b_o2_featured_v2.jpg",
+    "order_url": "/bangalore/le-arabia-marathahalli-bangalore/order"
+  },
+  {
+    "name": "Brindavan Grand",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/0/18515060/8d031586bfdfde26bb168b050c37f401_o2_featured_v2.jpg",
+    "order_url": "/bangalore/brindavan-grand-varthur-main-road-whitefield/order"
+  },
+  {
+    "name": "Dhaba Social",
+    "image": "https://b.zmtcdn.com/data/pictures/3/18366593/e422fca4e14ca04abc0b45b3c49c3e06_o2_featured_v2.jpg",
+    "order_url": "/bangalore/dhaba-social-brookefield/order"
+  },
+  {
+    "name": "Punjab Grill",
+    "image": "https://b.zmtcdn.com/data/pictures/2/18801352/86b125b8a82ec2d77f3772b4e7d9c307_o2_featured_v2.jpg",
+    "order_url": "/bangalore/punjab-grill-whitefield-bangalore/order"
+  },
+  {
+    "name": "Louis Burger",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/6/20196776/7d66b965b3ef6645c55dfa542a3fc8dd_o2_featured_v2.jpg",
+    "order_url": "/bangalore/louis-burger-whitefield-bangalore/order"
+  },
+  {
+    "name": "ITC Sunfeast Baked Creations",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/6/19704506/ad53c1ffa692ae37179e6ee2e6bc89af_o2_featured_v2.jpg",
+    "order_url": "/bangalore/itc-sunfeast-baked-creations-whitefield-bangalore/order"
+  },
+  {
+    "name": "Thali's Perfect",
+    "image": "https://b.zmtcdn.com/data/pictures/4/19475124/427dc8a561a9a0384048acecdd77c631_o2_featured_v2.jpg",
+    "order_url": "/bangalore/thalis-perfect-whitefield-bangalore/order"
+  },
+  {
+    "name": "Cauvery Biryani House",
+    "image": "https://b.zmtcdn.com/data/pictures/0/19680780/9bb27c74e36c957a7ed095b713b45d5a_o2_featured_v2.jpg",
+    "order_url": "/bangalore/cauvery-biryani-house-kr-puram-bangalore/order"
+  },
+  {
+    "name": "Srinidhi Sagar",
+    "image": "https://b.zmtcdn.com/data/pictures/3/57713/e461836ea875040690229d755faa72d6_o2_featured_v2.jpg",
+    "order_url": "/bangalore/srinidhi-sagar-1-whitefield/order"
+  },
+  {
+    "name": "Kartik's Mithai Shoppe",
+    "image": "https://b.zmtcdn.com/data/pictures/5/55675/4bb615349b4dc3c641610ad7a153fd4d_o2_featured_v2.jpg",
+    "order_url": "/bangalore/kartiks-mithai-shoppe-whitefield/order"
+  },
+  {
+    "name": "Bowl Soul",
+    "image": "https://b.zmtcdn.com/data/pictures/8/20081548/2c0aec5dfcc64601f258d2c4b136daa0_o2_featured_v2.jpg",
+    "order_url": "/bangalore/bowl-soul-varthur-main-road-whitefield-bangalore/order"
+  },
+  {
+    "name": "Punjabi Unplugged",
+    "image": "https://b.zmtcdn.com/data/pictures/7/19511427/dda0a8d19448adf672c0905f68c1afb2_o2_featured_v2.jpg",
+    "order_url": "/bangalore/punjabi-unplugged-whitefield-bangalore/order"
+  },
+  {
+    "name": "ATH - All Things Healthy!",
+    "image": "https://b.zmtcdn.com/data/pictures/3/19861873/f39644794de7712d334951792d9645ae_o2_featured_v2.jpg",
+    "order_url": "/bangalore/ath-all-things-healthy-whitefield-bangalore/order"
+  },
+  {
+    "name": "Yes Yes Hotel",
+    "image": "https://b.zmtcdn.com/data/pictures/5/57255/bc9b3eb4ce2e0a0f0dfd9c875e5fe223_o2_featured_v2.jpg",
+    "order_url": "/bangalore/yes-yes-hotel-kr-puram-bangalore/order"
+  },
+  {
+    "name": "Biriyani Utsav",
+    "image": "https://b.zmtcdn.com/data/pictures/7/19511527/a5126072c639744ffef64c37dcab7d93_o2_featured_v2.jpg",
+    "order_url": "/bangalore/biriyani-utsav-kr-puram-bangalore/order"
+  },
+  {
+    "name": "Jaffa's Biryani",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/8/55428/01d7b410ba3a2bc8a28fa1b117c9e6e9_o2_featured_v2.jpg",
+    "order_url": "/bangalore/jaffas-biryani-marathahalli/order"
+  },
+  {
+    "name": "Burger Seigneur",
+    "image": "https://b.zmtcdn.com/data/pictures/9/18992489/d92e386767cee0970c26dad55e1d876d_o2_featured_v2.jpg",
+    "order_url": "/bangalore/burger-seigneur-indiranagar-bangalore/order"
+  },
+  {
+    "name": "Sri Udupi Park",
+    "image": "https://b.zmtcdn.com/data/pictures/8/19867978/27b4443f3be7cd8b270f29cd40467c37_o2_featured_v2.jpg",
+    "order_url": "/bangalore/sri-udupi-park-kr-puram-bangalore/order"
+  },
+  {
+    "name": "Andhra Tiffins & Meals",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/2/19431242/0759797925256a8b610404bf6979e23f_o2_featured_v2.jpg",
+    "order_url": "/bangalore/andhra-tiffins-meals-marathahalli-bangalore/order"
+  },
+  {
+    "name": "Dairy Day Ice Creams",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/4/19460604/5a0159374fa17f355ade5994eea82ad8_o2_featured_v2.jpg",
+    "order_url": "/bangalore/dairy-day-ice-creams-airport-road-bangalore/order"
+  },
+  {
+    "name": "Birbal Darbar",
+    "image": "https://b.zmtcdn.com/data/pictures/4/18344014/6985cf7c3416329aec9cd0aba62d700f_o2_featured_v2.jpg",
+    "order_url": "/bangalore/birbal-darbar-sarjapur-road-bangalore/order"
+  },
+  {
+    "name": "Mrs Iyengar's Kitchen - Traditional Home Food",
+    "image": "https://b.zmtcdn.com/data/pictures/2/18786572/0a6033afdaaf257fd11e4b49f6b5bdad_o2_featured_v2.jpg",
+    "order_url": "/bangalore/mrs-iyengars-kitchen-traditional-home-food-kr-puram-bangalore/order"
+  },
+  {
+    "name": "Birbal Darbar",
+    "image": "https://b.zmtcdn.com/data/pictures/7/19742947/8096ef7da4d44f71171c35d281bc9a11_o2_featured_v2.jpg",
+    "order_url": "/bangalore/birbal-darbar-varthur-main-road-whitefield-bangalore/order"
+  },
+  {
+    "name": "Bhavana Tiffin Center",
+    "image": "https://b.zmtcdn.com/data/pictures/2/20017742/98cfa812662783503d57898e918b3510_o2_featured_v2.jpg",
+    "order_url": "/bangalore/bhavana-tiffin-center-kadubeesanahalli-bangalore/order"
+  },
+  {
+    "name": "Little Italy",
+    "image": "https://b.zmtcdn.com/data/pictures/8/18359878/d3915e4e90fe0e33c5657f9df2240740_o2_featured_v2.jpg",
+    "order_url": "/bangalore/little-italy-sarjapur-road/order"
+  },
+  {
+    "name": "Kachori Chowk",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/6/19844996/2e7af7eeaa1ce7c593d7eba9203d6335_o2_featured_v2.jpg",
+    "order_url": "/bangalore/kachori-chowk-whitefield-bangalore/order"
+  },
+  {
+    "name": "Sri Venkateshwara Nellore Mess",
+    "image": "https://b.zmtcdn.com/data/pictures/7/19706567/d611bc0ed6f63b8a36829e4341df05e9_o2_featured_v2.jpg",
+    "order_url": "/bangalore/sri-venkateshwara-nellore-mess-1-whitefield-bangalore/order"
+  },
+  {
+    "name": "Hotel Abooz- Eat 'N' Meet Restaurant",
+    "image": "https://b.zmtcdn.com/data/pictures/7/20075707/1e3dcf24542d0a431a87f0b1796a1d20_o2_featured_v2.jpg",
+    "order_url": "/bangalore/hotel-abooz-eat-n-meet-restaurant-whitefield-bangalore/order"
+  },
+  {
+    "name": "BLD Restaurant",
+    "image": "https://b.zmtcdn.com/data/pictures/7/19904017/1d71bc7375c137e43890a00c47dae0c3_o2_featured_v2.jpg",
+    "order_url": "/bangalore/bld-restaurant-whitefield-bangalore/order"
+  },
+  {
+    "name": "Lavonne",
+    "image": "https://b.zmtcdn.com/data/pictures/9/19676729/9cd6d02eec2cea808bc1f1af43cb494f_o2_featured_v2.jpg",
+    "order_url": "/bangalore/lavonne-1-itpl-main-road-whitefield-bangalore/order"
+  },
+  {
+    "name": "Guntur Biryani's",
+    "image": "https://b.zmtcdn.com/data/pictures/5/19778505/ab1754036406c50f3cfdf8074fb7cdb2_o2_featured_v2.jpg",
+    "order_url": "/bangalore/guntur-biryanis-itpl-main-road-whitefield-bangalore/order"
+  },
+  {
+    "name": "Suryawanshi",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/6/55406/65f0f0ddc2e67b7c39af8004ad30dea3_o2_featured_v2.png",
+    "order_url": "/bangalore/suryawanshi-whitefield/order"
+  },
+  {
+    "name": "Express By ABs",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/1/19274791/49d490f5c4929cdbb90e124355f3f7e4_o2_featured_v2.jpg",
+    "order_url": "/bangalore/express-by-abs-whitefield-bangalore/order"
+  },
+  {
+    "name": "Globo Ice Creams of the World",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/4/19745734/d7ecf984983df10e12879e4f42415617_o2_featured_v2.jpg",
+    "order_url": "/bangalore/globo-ice-creams-of-the-world-varthur-main-road-whitefield-bangalore/order"
+  },
+  {
+    "name": "Dhaba Square",
+    "image": "https://b.zmtcdn.com/data/pictures/0/19362180/aeceb71defba86e0945e1fa052d51b1e_o2_featured_v2.jpg",
+    "order_url": "/bangalore/dhaba-square-whitefield-bangalore/order"
+  },
+  {
+    "name": "Lite Bite",
+    "image": "https://b.zmtcdn.com/data/pictures/1/20246901/545bf1dc016981d24cb7690b17988699_o2_featured_v2.jpg",
+    "order_url": "/bangalore/lite-bite-whitefield-bangalore/order"
+  },
+  {
+    "name": "Simpli Namdhari's",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/6/19362836/e85e1788fdf1cf140758097638f85c0b_o2_featured_v2.jpg",
+    "order_url": "/bangalore/simpli-namdharis-2-whitefield-bangalore/order"
+  },
+  {
+    "name": "Srinidhi Signature",
+    "image": "https://b.zmtcdn.com/data/pictures/6/19531306/37a182b49c9fe5d1104c20b2bbbb4de4_o2_featured_v2.jpg",
+    "order_url": "/bangalore/srinidhi-signature-itpl-main-road-whitefield-bangalore/order"
+  },
+  {
+    "name": "Nasi And Mee",
+    "image": "https://b.zmtcdn.com/data/pictures/7/19618787/dc3341bf843714404bb9a89b503f26c5_o2_featured_v2.jpg",
+    "order_url": "/bangalore/nasi-and-mee-brookefield-bangalore/order"
+  },
+  {
+    "name": "The Baker's Dozen",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/2/19425022/8f94494c753023c500080e0052f93e0b_o2_featured_v2.jpg",
+    "order_url": "/bangalore/the-bakers-dozen-whitefield-bangalore/order"
+  },
+  {
+    "name": "With Love From Home",
+    "image": "https://b.zmtcdn.com/data/pictures/0/19585200/95da7f722d94a0b29e09a3b212b03aed_o2_featured_v2.jpg",
+    "order_url": "/bangalore/with-love-from-home-2-brookefield-bangalore/order"
+  },
+  {
+    "name": "Keventers Ice Cream",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/7/19920527/8d8ca44c755ea86ada0c5c0784d709df_o2_featured_v2.jpg",
+    "order_url": "/bangalore/keventers-ice-cream-whitefield-bangalore/order"
+  },
+  {
+    "name": "Nizam's Kitchens",
+    "image": "https://b.zmtcdn.com/data/pictures/7/19503647/289824e3a72adfc54187b1141478a9ab_o2_featured_v2.jpg",
+    "order_url": "/bangalore/nizams-kitchens-varthur-main-road-whitefield-bangalore/order"
+  },
+  {
+    "name": "Rolls & Bowls Company",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/1/19715701/d175b27dd81bb20bc510e65da17578ba_o2_featured_v2.jpg",
+    "order_url": "/bangalore/rolls-bowls-company-whitefield-bangalore/order"
+  },
+  {
+    "name": "Asia Kitchen By Mainland China",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/4/18221544/753a377120b2caab54c0380c82c1a008_o2_featured_v2.jpg",
+    "order_url": "/bangalore/asia-kitchen-by-mainland-china-whitefield-bangalore/order"
+  },
+  {
+    "name": "Kouzina Kafe - The Food Court",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/6/19714736/61722819159bacd71858a094ad1687d1_o2_featured_v2.jpg",
+    "order_url": "/bangalore/kouzina-kafe-the-food-court-brookefield-bangalore/order"
+  },
+  {
+    "name": "Karnataka Donne Biryani",
+    "image": "https://b.zmtcdn.com/data/pictures/1/19598731/2f85a47a587a44b7b59e521b76a12b31_o2_featured_v2.jpg",
+    "order_url": "/bangalore/karnataka-donne-biryani-1-whitefield-bangalore/order"
+  },
+  {
+    "name": "Mayura Sagar",
+    "image": "https://b.zmtcdn.com/data/pictures/5/51785/1931f72242b92add87e1ec4f692fe658_o2_featured_v2.jpg",
+    "order_url": "/bangalore/mayura-sagar-brookefield/order"
+  },
+  {
+    "name": "Roj Ka Khana - Daily Meals",
+    "image": "https://b.zmtcdn.com/data/pictures/8/19160468/f174769eb8c1218f8d6c11d0f9f0dbfa_o2_featured_v2.jpg",
+    "order_url": "/bangalore/roj-ka-khana-daily-meals-whitefield-bangalore/order"
+  },
+  {
+    "name": "Srinathji's",
+    "image": "https://b.zmtcdn.com/data/pictures/8/55468/51a610ab0470459476399bd9653ba42f_o2_featured_v2.jpg",
+    "order_url": "/bangalore/srinathjis-indiranagar/order"
+  },
+  {
+    "name": "The Spice Studio",
+    "image": "https://b.zmtcdn.com/data/pictures/9/19739509/b9e729dcf3b16cf1a21a1c1a1a09ce4d_o2_featured_v2.jpg",
+    "order_url": "/bangalore/the-spice-studio-3-whitefield-bangalore/order"
+  },
+  {
+    "name": "Mayuri Multicuisine Family Restaurant",
+    "image": "https://b.zmtcdn.com/data/pictures/9/18741889/1541b1b700c6ecbe3361bcb64abb7df3_o2_featured_v2.jpg",
+    "order_url": "/bangalore/mayuri-multicuisine-family-restaurant-1-kr-puram-bangalore/order"
+  },
+  {
+    "name": "Kanti Bakes & Flakes",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/2/18772972/0646ea8f0539f2d0f03195dd7a66d884_o2_featured_v2.jpg",
+    "order_url": "/bangalore/kanti-bakes-flakes-old-madras-road-bangalore/order"
+  },
+  {
+    "name": "Kapital Kitchen",
+    "image": "https://b.zmtcdn.com/data/pictures/4/19071234/80b89c5c0c7215da47c99ff9c6dc46d7_o2_featured_v2.jpg",
+    "order_url": "/bangalore/kapital-kitchen-kr-puram-bangalore/order"
+  },
+  {
+    "name": "Santushti",
+    "image": "https://b.zmtcdn.com/data/pictures/4/19658854/f3a88d22f7bf167dfd809f4d040642cc_o2_featured_v2.jpg",
+    "order_url": "/bangalore/santushti-marathahalli-bangalore/order"
+  },
+  {
+    "name": "Brilram's Balaji Bhavan",
+    "image": "https://b.zmtcdn.com/data/pictures/9/18733579/0dc191fb7edf00894e587a798ce94cc8_o2_featured_v2.jpg",
+    "order_url": "/bangalore/brilrams-balaji-bhavan-whitefield-bangalore/order"
+  },
+  {
+    "name": "Chopstick",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/3/19167493/04c0f768b611a6853bdec476619fb46e_o2_featured_v2.jpg",
+    "order_url": "/bangalore/chopstick-brookefield-bangalore/order"
+  },
+  {
+    "name": "Bangalore Agarwal Bhavan",
+    "image": "https://b.zmtcdn.com/data/pictures/8/19940178/e7c92926723a44ca07e36c272ba66dbe_o2_featured_v2.jpg",
+    "order_url": "/bangalore/bangalore-agarwal-bhavan-varthur-main-road-whitefield-bangalore/order"
+  },
+  {
+    "name": "Si Pizza",
+    "image": "https://b.zmtcdn.com/data/pictures/1/20113731/ea148adf6a14faf8af426533e798fc0a_o2_featured_v2.jpg",
+    "order_url": "/bangalore/si-pizza-1-marathahalli-bangalore/order"
+  },
+  {
+    "name": "Sri Murugan Cafe",
+    "image": "https://b.zmtcdn.com/data/pictures/0/19525340/70e6a87f6ac1c2346536a0589ccad95c_o2_featured_v2.jpg",
+    "order_url": "/bangalore/sri-murugan-cafe-cv-raman-nagar-bangalore/order"
+  },
+  {
+    "name": "Namma Chickpet Donne Biryani",
+    "image": "https://b.zmtcdn.com/data/pictures/9/19497529/0850eed7d56c54cae9bf14cfc86c3606_o2_featured_v2.jpg",
+    "order_url": "/bangalore/namma-chickpet-donne-biryani-whitefield-bangalore/order"
+  },
+  {
+    "name": "Kwality Wall\u2019s Frozen Dessert and Ice Cream Shop",
+    "image": "https://b.zmtcdn.com/data/pictures/6/19837926/1609aeeeb34d3f286c0a2607401dbc97_o2_featured_v2.jpg",
+    "order_url": "/bangalore/kwality-walls-frozen-dessert-and-ice-cream-shop-2-kaggadasapura-bangalore/order"
+  },
+  {
+    "name": "Kabab Mirchi",
+    "image": "https://b.zmtcdn.com/data/pictures/6/55036/17a65685fb299bad96127408c9dbddf3_o2_featured_v2.jpg",
+    "order_url": "/bangalore/kabab-mirchi-marathahalli/order"
+  },
+  {
+    "name": "Hyderabadi Biryani Kitchen",
+    "image": "https://b.zmtcdn.com/data/pictures/8/19647958/a7f8ba81482d6f8b07f181ca22585b5f_o2_featured_v2.jpg",
+    "order_url": "/bangalore/hyderabadi-biryani-kitchen-kr-puram-bangalore/order"
+  },
+  {
+    "name": "New Krishna Sagar",
+    "image": "https://b.zmtcdn.com/data/pictures/5/60035/d6fb8f2eac61f737e2e656647fe43a0c_o2_featured_v2.jpg",
+    "order_url": "/bangalore/new-krishna-sagar-1-cv-raman-nagar/order"
+  },
+  {
+    "name": "Living Bowls",
+    "image": "https://b.zmtcdn.com/data/pictures/5/20298955/fb81198189a1ac8f2329b8467d4bf613_o2_featured_v2.jpg",
+    "order_url": "/bangalore/living-bowls-kalyan-nagar-bangalore/order"
+  },
+  {
+    "name": "Hotel Manu",
+    "image": "https://b.zmtcdn.com/data/pictures/0/60730/6e9ece6a798bed6c48e2194a210885de_o2_featured_v2.jpg",
+    "order_url": "/bangalore/hotel-manu-1-whitefield-bangalore/order"
+  },
+  {
+    "name": "Pinds Of Punjab",
+    "image": "https://b.zmtcdn.com/data/pictures/4/19933904/9ecc4afcb21b1dbadf4f259f02bee6b8_o2_featured_v2.jpg",
+    "order_url": "/bangalore/pinds-of-punjab-1-kr-puram-bangalore/order"
+  },
+  {
+    "name": "Maravanthe",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/9/18571539/1646f674087d702d1c7b3fa3174b155b_o2_featured_v2.jpg",
+    "order_url": "/bangalore/maravanthe-indiranagar/order"
+  },
+  {
+    "name": "Shakahari Company",
+    "image": "https://b.zmtcdn.com/data/pictures/1/19817821/0442e8d3ca0b02cec34d25975b03c4ba_o2_featured_v2.jpg",
+    "order_url": "/bangalore/shakahari-company-marathahalli-bangalore/order"
+  },
+  {
+    "name": "Laddoos",
+    "image": "https://b.zmtcdn.com/data/pictures/3/20059653/43ff714e380ecdda1e446e17cb73110d_o2_featured_v2.jpg",
+    "order_url": "/bangalore/laddoos-varthur-main-road-whitefield-bangalore/order"
+  },
+  {
+    "name": "Amar Rannaghor",
+    "image": "https://b.zmtcdn.com/data/pictures/1/19630131/f0aa663ca95806454e7eaf54d6e5b5e1_o2_featured_v2.jpg",
+    "order_url": "/bangalore/amar-rannaghor-marathahalli-bangalore/order"
+  },
+  {
+    "name": "Art Of Dum",
+    "image": "https://b.zmtcdn.com/data/pictures/5/20081045/6c906f75c00d0958115f2d0e238ea98f_o2_featured_v2.jpg",
+    "order_url": "/bangalore/art-of-dum-indiranagar-bangalore/order"
+  },
+  {
+    "name": "Barkaas- Arabic Restaurant",
+    "image": "https://b.zmtcdn.com/data/pictures/6/18821016/c04a8e387edd6dc92811990188eadc66_o2_featured_v2.jpg",
+    "order_url": "/bangalore/barkaas-arabic-restaurant-marathahalli-bangalore/order"
+  },
+  {
+    "name": "Kesar Sweet Shop & Fast Food",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/1/54011/180f0aabb3ec3406d5af80f560c46d5f_o2_featured_v2.jpg",
+    "order_url": "/bangalore/kesar-sweet-shop-fast-food-brookefield-bangalore/order"
+  },
+  {
+    "name": "Curry On Tikka",
+    "image": "https://b.zmtcdn.com/data/pictures/9/19462509/b15febe6b7dcb8f4f39893d8bfbe73fd_o2_featured_v2.jpg",
+    "order_url": "/bangalore/curry-on-tikka-1-varthur-main-road-whitefield-bangalore/order"
+  },
+  {
+    "name": "Burger It Up",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/5/19807955/50cb4cf2d90462ae7eb758501821efdf_o2_featured_v2.jpg",
+    "order_url": "/bangalore/burger-it-up-brookefield-bangalore/order"
+  },
+  {
+    "name": "Copper Chimney",
+    "image": "https://b.zmtcdn.com/data/pictures/5/19531955/13e4173de02859b12cc1014f7396c2e7_o2_featured_v2.jpg",
+    "order_url": "/bangalore/copper-chimney-1-whitefield-bangalore/order"
+  },
+  {
+    "name": "Soulful Sweets & Savories",
+    "image": "https://b.zmtcdn.com/data/pictures/3/20052303/817c678dd6f774daa052d18206d55915_o2_featured_v2.jpg",
+    "order_url": "/bangalore/soulful-sweets-savories-itpl-main-road-whitefield-bangalore/order"
+  },
+  {
+    "name": "Mann Food Court",
+    "image": "https://b.zmtcdn.com/data/pictures/2/20017442/2447d8500c9a7ed90426bed8bdefb198_o2_featured_v2.jpg",
+    "order_url": "/bangalore/mann-food-court-itpl-main-road-whitefield-bangalore/order"
+  },
+  {
+    "name": "Tadka Punjabi Restaurant",
+    "image": "https://b.zmtcdn.com/data/pictures/9/18751999/872e4bfc42ae28af514556a39c48caa6_o2_featured_v2.jpg",
+    "order_url": "/bangalore/tadka-punjabi-restaurant-whitefield-bangalore/order"
+  },
+  {
+    "name": "Biryani Mount",
+    "image": "https://b.zmtcdn.com/data/pictures/4/19534824/9ad16bf6e4e73b17d4ce9deedaee095f_o2_featured_v2.jpg",
+    "order_url": "/bangalore/biryani-mount-2-whitefield-bangalore/order"
+  },
+  {
+    "name": "Green Hyderabad Biryani House",
+    "image": "https://b.zmtcdn.com/data/pictures/5/18443115/f826617344ed26ae41682d6aa1b7c325_o2_featured_v2.jpg",
+    "order_url": "/bangalore/green-hyderabad-biryani-house-whitefield/order"
+  },
+  {
+    "name": "Blue Tokai Coffee Roasters",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/3/18893343/78ed66e5767be9b4792fd4cccda05f1a_o2_featured_v2.jpg",
+    "order_url": "/bangalore/blue-tokai-coffee-roasters-kr-puram-bangalore/order"
+  },
+  {
+    "name": "Sri Vishnu Palace",
+    "image": "https://b.zmtcdn.com/data/pictures/1/18165781/af48bade3b6565f40be493865d80bc88_o2_featured_v2.jpg",
+    "order_url": "/bangalore/sri-vishnu-palace-marathahalli-bangalore/order"
+  },
+  {
+    "name": "Nizam's Biryani House",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/4/18379634/33670c3d854435d45ca2826409a64d33_o2_featured_v2.jpg",
+    "order_url": "/bangalore/nizams-biryani-house-marathahalli/order"
+  },
+  {
+    "name": "Sri Krishna Sweets",
+    "image": "https://b.zmtcdn.com/data/pictures/9/19222829/f7ad6c90c41d633270ca0e1d79333b6e_o2_featured_v2.jpg",
+    "order_url": "/bangalore/sri-krishna-sweets-indiranagar-bangalore/order"
+  },
+  {
+    "name": "Go Native",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/1/18467761/41e54c34e58e1e958d696e26a0691258_o2_featured_v2.jpg",
+    "order_url": "/bangalore/go-native-whitefield-bangalore/order"
+  },
+  {
+    "name": "The Tandoori Tales",
+    "image": "https://b.zmtcdn.com/data/pictures/7/19965727/8838de2d4ed408b203e031257d9c4a8e_o2_featured_v2.jpg",
+    "order_url": "/bangalore/the-tandoori-tales-whitefield-bangalore/order"
+  },
+  {
+    "name": "Sri Udupi Grand",
+    "image": "https://b.zmtcdn.com/data/pictures/0/19683940/9a4ecbb78c07bbe9d90b19901605297a_o2_featured_v2.jpg",
+    "order_url": "/bangalore/sri-udupi-grand-2-kr-puram-bangalore/order"
+  },
+  {
+    "name": "Kannan Cafe",
+    "image": "https://b.zmtcdn.com/data/pictures/1/19360761/29feeec229f72ba02ab08aa5b653ad5c_o2_featured_v2.png",
+    "order_url": "/bangalore/kannan-cafe-kaggadasapura-bangalore/order"
+  },
+  {
+    "name": "Mayura Bakery & Sweets",
+    "image": "https://b.zmtcdn.com/data/pictures/5/19837805/a258d0f70dca0815448aad34eef252b5_o2_featured_v2.jpg",
+    "order_url": "/bangalore/mayura-bakery-sweets-whitefield-bangalore/order"
+  },
+  {
+    "name": "Haveli Hyderabadi Dum Biryani",
+    "image": "https://b.zmtcdn.com/data/pictures/0/19045220/adda6b7f72cf8aef03f312af9f2a5106_o2_featured_v2.jpg",
+    "order_url": "/bangalore/haveli-hyderabadi-dum-biryani-1-whitefield-bangalore/order"
+  },
+  {
+    "name": "Tandoori Taal",
+    "image": "https://b.zmtcdn.com/data/pictures/5/18369815/0717c080490e8802ca06748bfc631cb5_o2_featured_v2.jpg",
+    "order_url": "/bangalore/tandoori-taal-1-indiranagar/order"
+  },
+  {
+    "name": "New Food Magic",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/8/58408/3039d6d908f94908960ee18512d7dfd2_o2_featured_v2.jpg",
+    "order_url": "/bangalore/new-food-magic-marathahalli/order"
+  },
+  {
+    "name": "Sankranthi Veg",
+    "image": "https://b.zmtcdn.com/data/pictures/5/59045/9619faf6382e4abff0f45cae9417bf5d_o2_featured_v2.jpg",
+    "order_url": "/bangalore/sankranthi-veg-thippasandra-bangalore/order"
+  },
+  {
+    "name": "Just Andhra \u00a9",
+    "image": "https://b.zmtcdn.com/data/pictures/0/19959520/49919d16c32c57607fe14c5392ac8e48_o2_featured_v2.jpg",
+    "order_url": "/bangalore/just-andhra-marathahalli-bangalore/order"
+  },
+  {
+    "name": "Hyderabadi Biryani Hub",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/8/61648/62c28a4373790993dcfee65d8be95f40_o2_featured_v2.jpg",
+    "order_url": "/bangalore/hyderabadi-biryani-hub-bellandur-bangalore/order"
+  },
+  {
+    "name": "Hotel 7 Hills",
+    "image": "https://b.zmtcdn.com/data/pictures/5/19812745/1bc9b0fcf82bd660f9ee5d99964cb922_o2_featured_v2.jpg",
+    "order_url": "/bangalore/hotel-7-hills-marathahalli-bangalore/order"
+  },
+  {
+    "name": "Hungry Bird",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/8/18747258/0e156225bf1633acdddfe651f7594c14_o2_featured_v2.jpg",
+    "order_url": "/bangalore/hungry-bird-1-bellandur-bangalore/order"
+  },
+  {
+    "name": "Bengali Dhekur",
+    "image": "https://b.zmtcdn.com/data/pictures/4/19857484/9ddc2358b7a23ae65d7f79005f38d168_o2_featured_v2.jpg",
+    "order_url": "/bangalore/bengali-dhekur-varthur-main-road-whitefield-bangalore/order"
+  },
+  {
+    "name": "Punjabites By Empire",
+    "image": "https://b.zmtcdn.com/data/pictures/7/19829477/1bc9b0fcf82bd660f9ee5d99964cb922_o2_featured_v2.jpg",
+    "order_url": "/bangalore/punjabites-by-empire-1-whitefield-bangalore/order"
+  },
+  {
+    "name": "Chai Central",
+    "image": "https://b.zmtcdn.com/data/pictures/0/18988130/547e39fa8051cb3f483972b2985cb727_o2_featured_v2.jpg",
+    "order_url": "/bangalore/chai-central-1-whitefield-bangalore/order"
+  },
+  {
+    "name": "Boss Burger",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/0/19591770/85afd7713a4588fc90040a91ce6cd26a_o2_featured_v2.jpg",
+    "order_url": "/bangalore/boss-burger-itpl-main-road-whitefield-bangalore/order"
+  },
+  {
+    "name": "Cookie Man",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/1/51741/5ca8e8eaf3a9072e8da54b5b383f53e3_o2_featured_v2.jpg",
+    "order_url": "/bangalore/cookie-man-whitefield-bangalore/order"
+  },
+  {
+    "name": "Sundae Everyday Ice Creams",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/7/19243207/4e7c72ff8dc015d548b7e305c2dde3a6_o2_featured_v2.jpg",
+    "order_url": "/bangalore/sundae-everyday-ice-creams-brookefield-bangalore/order"
+  },
+  {
+    "name": "Backwater Bliss",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/7/19224647/d7a31ef31573e9cdbc4e9f8bc42a8d4d_o2_featured_v2.jpg",
+    "order_url": "/bangalore/backwater-bliss-2-itpl-main-road-whitefield-bangalore/order"
+  },
+  {
+    "name": "Biryani Box",
+    "image": "https://b.zmtcdn.com/data/pictures/2/19462922/39733a51923278db60c04cbca093dea7_o2_featured_v2.jpg",
+    "order_url": "/bangalore/biryani-box-whitefield-bangalore/order"
+  },
+  {
+    "name": "The Bong Tikka Connection",
+    "image": "https://b.zmtcdn.com/data/pictures/4/19581014/f1247a7dcf1e105c1ffe2e5b15e7f0aa_o2_featured_v2.jpg",
+    "order_url": "/bangalore/the-bong-tikka-connection-whitefield-bangalore/order"
+  },
+  {
+    "name": "Basco And Fry",
+    "image": "https://b.zmtcdn.com/data/pictures/4/19660524/559ef3091315638d2b5649ed2c81efcb_o2_featured_v2.jpg",
+    "order_url": "/bangalore/basco-and-fry-indiranagar-bangalore/order"
+  },
+  {
+    "name": "Happy Belly Bakes",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/3/52393/505c15aacf4f45195f1ee077c09da718_o2_featured_v2.jpg",
+    "order_url": "/bangalore/happy-belly-bakes-indiranagar-bangalore/order"
+  },
+  {
+    "name": "Park N Eat",
+    "image": "https://b.zmtcdn.com/data/pictures/7/52567/3b46be1fb5062243041e07f9332c5ec6_o2_featured_v2.jpeg",
+    "order_url": "/bangalore/park-n-eat-kr-puram/order"
+  },
+  {
+    "name": "Andhra Bhojanam",
+    "image": "https://b.zmtcdn.com/data/pictures/6/19978776/9367799d63507bf499bbb3c615ef53bb_o2_featured_v2.jpg",
+    "order_url": "/bangalore/andhra-bhojanam-whitefield-bangalore/order"
+  },
+  {
+    "name": "Kolkataz",
+    "image": "https://b.zmtcdn.com/data/pictures/6/56036/e86829a91aec308023f7ce328d813b13_o2_featured_v2.jpg",
+    "order_url": "/bangalore/kolkataz-cv-raman-nagar/order"
+  },
+  {
+    "name": "Junction Restaurant",
+    "image": "https://b.zmtcdn.com/data/pictures/5/19265965/db4be65157f462c24ee52a437c9d6f8a_o2_featured_v2.jpg",
+    "order_url": "/bangalore/junction-restaurant-varthur-main-road-whitefield-bangalore/order"
+  },
+  {
+    "name": "New Ramdev Sweets",
+    "image": "https://b.zmtcdn.com/data/pictures/7/19696057/0f65fc1d9687d06764b2edbb496b7eb5_o2_featured_v2.jpg",
+    "order_url": "/bangalore/new-ramdev-sweets-kr-puram-bangalore/order"
+  },
+  {
+    "name": "Petuk",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/6/18308766/fc1e13fcc56f2f22faa32c099b41ee27_o2_featured_v2.jpg",
+    "order_url": "/bangalore/petuk-whitefield/order"
+  },
+  {
+    "name": "Kakatiya Andhra Mess",
+    "image": "https://b.zmtcdn.com/data/pictures/2/19870592/d37a88e6e317ad24b87916cda20973a0_o2_featured_v2.jpg",
+    "order_url": "/bangalore/kakatiya-andhra-mess-kr-puram-bangalore/order"
+  },
+  {
+    "name": "NH-47 Kerala Kitchen",
+    "image": "https://b.zmtcdn.com/data/pictures/4/19320774/412e617c83bc6ca1d07c979144a652ba_o2_featured_v2.jpg",
+    "order_url": "/bangalore/nh-47-kerala-kitchen-marathahalli-bangalore/order"
+  },
+  {
+    "name": "Udupi Vaibhav Veg",
+    "image": "https://b.zmtcdn.com/data/pictures/0/20184080/f55a655a4792cf3ef0388c3e9938ab35_o2_featured_v2.jpg",
+    "order_url": "/bangalore/udupi-vaibhav-veg-marathahalli-bangalore/order"
+  },
+  {
+    "name": "Mahesh Lunch Home",
+    "image": "https://b.zmtcdn.com/data/pictures/6/19918506/01df215f0a3915dec2244b041252ec54_o2_featured_v2.jpg",
+    "order_url": "/bangalore/mahesh-lunch-home-domlur-bangalore/order"
+  },
+  {
+    "name": "East Delicious",
+    "image": "https://b.zmtcdn.com/data/pictures/7/55377/5dd1098eab290bb20307bb6bc95594c5_o2_featured_v2.jpg",
+    "order_url": "/bangalore/east-delicious-marathahalli/order"
+  },
+  {
+    "name": "Barley & Grapes Cafe",
+    "image": "https://b.zmtcdn.com/data/pictures/6/56606/6cb71d7182c597d415da355b41d6ce21_o2_featured_v2.jpg",
+    "order_url": "/bangalore/barley-grapes-cafe-whitefield-bangalore/order"
+  },
+  {
+    "name": "Red Rhino",
+    "image": "https://b.zmtcdn.com/data/pictures/0/18492910/31091dd61554b8dd1df9c7f8e2a4f944_o2_featured_v2.jpg",
+    "order_url": "/bangalore/red-rhino-whitefield-bangalore/order"
+  },
+  {
+    "name": "Auntie Fung's",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/3/19875593/df5b7ddb9c5ff0b641742f879f663a6e_o2_featured_v2.jpg",
+    "order_url": "/bangalore/auntie-fungs-marathahalli-bangalore/order"
+  },
+  {
+    "name": "Ambur Hot Dum Biriyani",
+    "image": "https://b.zmtcdn.com/data/pictures/1/19889591/4b032bbcd46e4db034cfebab158a720f_o2_featured_v2.jpg",
+    "order_url": "/bangalore/ambur-hot-dum-biriyani-kaggadasapura-bangalore/order"
+  },
+  {
+    "name": "Khanna's",
+    "image": "https://b.zmtcdn.com/data/pictures/4/20013654/fe9835382a0886f3cbb3f8086fb75905_o2_featured_v2.jpg",
+    "order_url": "/bangalore/khannas-sarjapur-road-bangalore/order"
+  },
+  {
+    "name": "The Big Barbeque",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/3/18897073/e206530efcdec0935baa2955499605b0_o2_featured_v2.jpg",
+    "order_url": "/bangalore/the-big-barbeque-marathahalli-bangalore/order"
+  },
+  {
+    "name": "Mithila Bhojanalaya",
+    "image": "https://b.zmtcdn.com/data/pictures/3/19425683/9d0373e26b2353eec02599f548fc36bd_o2_featured_v2.jpg",
+    "order_url": "/bangalore/mithila-bhojanalaya-marathahalli-bangalore/order"
+  },
+  {
+    "name": "Madurai Idly & Dosa Shop",
+    "image": "https://b.zmtcdn.com/data/pictures/9/19610569/27b4443f3be7cd8b270f29cd40467c37_o2_featured_v2.jpg",
+    "order_url": "/bangalore/madurai-idly-dosa-shop-marathahalli-bangalore/order"
+  },
+  {
+    "name": "Khane Ka Khazana",
+    "image": "https://b.zmtcdn.com/data/pictures/0/18818420/3ef166fa2ddb7c6d894a413e9ab0a454_o2_featured_v2.jpg",
+    "order_url": "/bangalore/khane-ka-khazana-marathahalli-bangalore/order"
+  },
+  {
+    "name": "Kerala Note Book",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/9/19759049/68c5f46fbbde075463d20db44db044c3_o2_featured_v2.jpg",
+    "order_url": "/bangalore/kerala-note-book-whitefield-bangalore/order"
+  },
+  {
+    "name": "Ramdev Sagar",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/4/18412124/320c0c974dce726812020e6a675ea50b_o2_featured_v2.jpg",
+    "order_url": "/bangalore/ramdev-sagar-brookefield/order"
+  },
+  {
+    "name": "Laali Da Dhaba",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/6/19765436/cff7f5edc810bfd0832f6dab505c8503_o2_featured_v2.jpg",
+    "order_url": "/bangalore/laali-da-dhaba-brookefield-bangalore/order"
+  },
+  {
+    "name": "Chinita Real Mexican Food",
+    "image": "https://b.zmtcdn.com/data/pictures/3/20101173/a5297dd63e9a4618800cde0e71f6dcc4_o2_featured_v2.jpg",
+    "order_url": "/bangalore/chinita-real-mexican-food-1-whitefield-bangalore/order"
+  },
+  {
+    "name": "The Sugar Free Keto Kafe - By Artinci",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/3/19817153/d3fa2b6ac23dc3a27023bc9697e6ba6a_o2_featured_v2.jpg",
+    "order_url": "/bangalore/the-sugar-free-keto-kafe-by-artinci-3-whitefield-bangalore/order"
+  },
+  {
+    "name": "Element3",
+    "image": "https://b.zmtcdn.com/data/pictures/0/19762190/9b656c7ea3458ab1a5067a85c20a431f_o2_featured_v2.jpg",
+    "order_url": "/bangalore/element3-1-whitefield-bangalore/order"
+  },
+  {
+    "name": "The Tea Brewery",
+    "image": "https://b.zmtcdn.com/data/pictures/5/19887425/04722e0079107b5039ad3d691b4b6833_o2_featured_v2.jpg",
+    "order_url": "/bangalore/the-tea-brewery-brookefield-bangalore/order"
+  },
+  {
+    "name": "Urbanmirchy",
+    "image": "https://b.zmtcdn.com/data/pictures/6/19507086/59050eb20556d2399f7313cf20fb0f7f_o2_featured_v2.jpg",
+    "order_url": "/bangalore/urbanmirchy-brookefield-bangalore/order"
+  },
+  {
+    "name": "The Daily Bowl",
+    "image": "https://b.zmtcdn.com/data/pictures/2/20262902/f174f1d84a5d1e2e40ce98eb84867528_o2_featured_v2.jpg",
+    "order_url": "/bangalore/the-daily-bowl-itpl-main-road-whitefield-bangalore/order"
+  },
+  {
+    "name": "Ghar Ke Phulke",
+    "image": "https://b.zmtcdn.com/data/pictures/0/18758370/0662f73d72dea3d096caad12b4a4bb78_o2_featured_v2.jpg",
+    "order_url": "/bangalore/ghar-ke-phulke-1-whitefield-bangalore/order"
+  },
+  {
+    "name": "Chaishala-Chuski Chai Wali",
+    "image": "https://b.zmtcdn.com/data/pictures/6/19604316/808c7590f2b8731e97aeaae968d0273e_o2_featured_v2.jpg",
+    "order_url": "/bangalore/chaishala-chuski-chai-wali-whitefield-bangalore/order"
+  },
+  {
+    "name": "Karim's - Original From Delhi 6 Jama Masjid",
+    "image": "https://b.zmtcdn.com/data/pictures/4/19979674/06cdd55979b574fba36fc67097fa539d_o2_featured_v2.jpg",
+    "order_url": "/bangalore/karims-original-from-delhi-6-jama-masjid-marathahalli-bangalore/order"
+  },
+  {
+    "name": "The Betel Leaf Co - Paan The Healthy Indian Dessert",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/6/19118676/86c7acb5e837ce4f18099801d3ea7b67_o2_featured_v2.jpg",
+    "order_url": "/bangalore/the-betel-leaf-co-paan-the-healthy-indian-dessert-whitefield-bangalore/order"
+  },
+  {
+    "name": "Saiko Sushi House",
+    "image": "https://b.zmtcdn.com/data/pictures/7/19562707/4310e55eac8de5e3176e30c583f87aa6_o2_featured_v2.jpg",
+    "order_url": "/bangalore/saiko-sushi-house-kaggadasapura-bangalore/order"
+  },
+  {
+    "name": "O2 Juice Bar",
+    "image": "https://b.zmtcdn.com/data/pictures/8/19104358/22292cc0ffcd7e7a01691fe8507c4284_o2_featured_v2.jpg",
+    "order_url": "/bangalore/o2-juice-bar-whitefield-bangalore/order"
+  },
+  {
+    "name": "Jubli Biryani",
+    "image": "https://b.zmtcdn.com/data/pictures/6/19720176/74c91c9f3c6399a03afe14b19a87b66a_o2_featured_v2.jpg",
+    "order_url": "/bangalore/jubli-biryani-itpl-main-road-whitefield-bangalore/order"
+  },
+  {
+    "name": "Homiez Cuisine",
+    "image": "https://b.zmtcdn.com/data/pictures/8/19863518/1f0477772f0eaf5d7f4729d4f2a24d59_o2_featured_v2.jpg",
+    "order_url": "/bangalore/homiez-cuisine-1-whitefield-bangalore/order"
+  },
+  {
+    "name": "RJ 14 Kitchen",
+    "image": "https://b.zmtcdn.com/data/pictures/2/19837332/1805afa4a11c54975b59c8ed926fbdf7_o2_featured_v2.jpg",
+    "order_url": "/bangalore/rj-14-kitchen-brookefield-bangalore/order"
+  },
+  {
+    "name": "Prowl Foods By Tiger Shroff",
+    "image": "https://b.zmtcdn.com/data/pictures/1/19851421/03e594e85c1bfced97b3240911ac2055_o2_featured_v2.jpg",
+    "order_url": "/bangalore/prowl-foods-by-tiger-shroff-marathahalli-bangalore/order"
+  },
+  {
+    "name": "Treat",
+    "image": "https://b.zmtcdn.com/data/pictures/5/18642645/d6883751420237c2174ab033239c20f1_o2_featured_v2.jpg",
+    "order_url": "/bangalore/treat-whitefield/order"
+  },
+  {
+    "name": "Just Bake",
+    "image": "https://b.zmtcdn.com/data/pictures/6/19727246/5b77ac5882f884988ae328aa801a566d_o2_featured_v2.jpg",
+    "order_url": "/bangalore/just-bake-3-whitefield-bangalore/order"
+  },
+  {
+    "name": "Kerala Chef",
+    "image": "https://b.zmtcdn.com/data/pictures/2/20034522/bf640a7132b03019f24aefeb4f0a51a9_o2_featured_v2.jpg",
+    "order_url": "/bangalore/kerala-chef-whitefield-bangalore/order"
+  },
+  {
+    "name": "Nomad Rolls & Shakes",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/4/19805244/b8551ffbd59d51f537c14936a1105ccb_o2_featured_v2.jpg",
+    "order_url": "/bangalore/nomad-rolls-shakes-whitefield-bangalore/order"
+  },
+  {
+    "name": "Haka",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/7/19434607/77786fccdc7dbfd658fa43046955416f_o2_featured_v2.jpg",
+    "order_url": "/bangalore/haka-whitefield-bangalore/order"
+  },
+  {
+    "name": "Shan's Kitchen",
+    "image": "https://b.zmtcdn.com/data/pictures/8/19317558/f48abfe4553a7f6956e3822fe34aa581_o2_featured_v2.jpg",
+    "order_url": "/bangalore/shans-kitchen-marathahalli-bangalore/order"
+  },
+  {
+    "name": "S.M.S.Evening Fast Food",
+    "image": "https://b.zmtcdn.com/data/pictures/7/18622277/0a36fdadd5638e16a28523f172aff441_o2_featured_v2.jpg",
+    "order_url": "/bangalore/s-m-s-evening-fast-food-varthur-main-road-whitefield-bangalore/order"
+  },
+  {
+    "name": "Chandni Chowk 2 Bangalore",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/2/19516482/a34c29604492a3b5e584e1e291c28010_o2_featured_v2.jpg",
+    "order_url": "/bangalore/chandni-chowk-2-bangalore-1-marathahalli-bangalore/order"
+  },
+  {
+    "name": "Donne Biryani Express",
+    "image": "https://b.zmtcdn.com/data/pictures/8/20207408/759402d428fc1f537ae51d208123b08e_o2_featured_v2.jpg",
+    "order_url": "/bangalore/donne-biryani-express-kaggadasapura-bangalore/order"
+  },
+  {
+    "name": "Shanthi Sagar",
+    "image": "https://b.zmtcdn.com/data/pictures/0/19872310/b87adbc05b8bedd2b896ccffec89d851_o2_featured_v2.jpg",
+    "order_url": "/bangalore/shanthi-sagar-1-kadubeesanahalli-bangalore/order"
+  },
+  {
+    "name": "Chatora Chaat Corner",
+    "image": "https://b.zmtcdn.com/data/pictures/9/18992799/e8a1adb4357d49f3ee2ef19a5e0486e1_o2_featured_v2.jpg",
+    "order_url": "/bangalore/chatora-chaat-corner-1-whitefield-bangalore/order"
+  },
+  {
+    "name": "Ooty Chocolates",
+    "image": "https://b.zmtcdn.com/data/pictures/7/56577/191ace9fa2c510c49e87518a9106664d_o2_featured_v2.jpg",
+    "order_url": "/bangalore/ooty-chocolates-indiranagar/order"
+  },
+  {
+    "name": "VBP Catering & Vasuda Hotel",
+    "image": "https://b.zmtcdn.com/data/pictures/4/19150574/a22d49d15f67aaa927c41eb9dd5f3b19_o2_featured_v2.jpg",
+    "order_url": "/bangalore/vbp-catering-vasuda-hotel-whitefield-bangalore/order"
+  },
+  {
+    "name": "MISU",
+    "image": "https://b.zmtcdn.com/data/pictures/9/18844279/103a18bf367202cae79e9438456217f4_o2_featured_v2.jpg",
+    "order_url": "/bangalore/misu-indiranagar-bangalore/order"
+  },
+  {
+    "name": "For Food Lovers",
+    "image": "https://b.zmtcdn.com/data/pictures/8/19518328/a876302cc360f74b8b4e4195528e484c_o2_featured_v2.jpg",
+    "order_url": "/bangalore/for-food-lovers-bellandur-bangalore/order"
+  },
+  {
+    "name": "The Fatty Bao",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/8/58268/2c8339764567f574b27d954d5fe0e242_o2_featured_v2.jpg",
+    "order_url": "/bangalore/the-fatty-bao-indiranagar-bangalore/order"
+  },
+  {
+    "name": "Rannaghar",
+    "image": "https://b.zmtcdn.com/data/pictures/6/18741136/38812be080d0f66338a9c624c8317c4e_o2_featured_v2.jpg",
+    "order_url": "/bangalore/rannaghar-1-kaggadasapura-bangalore/order"
+  },
+  {
+    "name": "Copper + Cloves @ The Organic World",
+    "image": "https://b.zmtcdn.com/data/pictures/2/19596182/90683490b1fee7374e152058948ba59e_o2_featured_v2.jpg",
+    "order_url": "/bangalore/copper-cloves-@-the-organic-world-indiranagar-bangalore/order"
+  },
+  {
+    "name": "The Bawarchi",
+    "image": "https://b.zmtcdn.com/data/pictures/8/18022298/91a79de08c6808479b0d8f96c281da88_o2_featured_v2.jpg",
+    "order_url": "/bangalore/the-bawarchi-itpl-main-road-whitefield-bangalore/order"
+  },
+  {
+    "name": "Chhapan Bhog",
+    "image": "https://b.zmtcdn.com/data/pictures/8/20118218/dada8948cca6a79cbe9d6676ae06c93a_o2_featured_v2.jpg",
+    "order_url": "/bangalore/chhapan-bhog-whitefield-bangalore/order"
+  },
+  {
+    "name": "Chinese Chaska",
+    "image": "https://b.zmtcdn.com/data/pictures/5/18562485/1f0fe2200db74d697f9fd657252283a9_o2_featured_v2.jpg",
+    "order_url": "/bangalore/chinese-chaska-whitefield/order"
+  },
+  {
+    "name": "Peppy Parathas & Rolls By Chai Point",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/2/20023632/bc6c7ddf29f96697bdad4daf7c42f2a5_o2_featured_v2.jpg",
+    "order_url": "/bangalore/peppy-parathas-rolls-by-chai-point-brookefield-bangalore/order"
+  },
+  {
+    "name": "Candice's Gourmet Sandwiches",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/3/19158743/fe107b642ee37d0a27aa84ed03fcc76b_featured_v2.jpg",
+    "order_url": "/bangalore/candices-gourmet-sandwiches-brookefield-bangalore/order"
+  },
+  {
+    "name": "Fabelle Chocolates",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/6/18323126/50dcb335201597ac9b4a5343eb7aa437_o2_featured_v2.jpg",
+    "order_url": "/bangalore/fabelle-chocolates-varthur-main-road-whitefield-bangalore/order"
+  },
+  {
+    "name": "Paris Waffle Co.",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/1/19967981/c2ecbf8dc4ea6c01743cf421b0e43ab2_o2_featured_v2.jpg",
+    "order_url": "/bangalore/paris-waffle-co-whitefield-bangalore/order"
+  },
+  {
+    "name": "Market Kitchen By Loyal World Market",
+    "image": "https://b.zmtcdn.com/data/pictures/8/19338758/5f868d503235230850d861677fcd39d9_o2_featured_v2.jpg",
+    "order_url": "/bangalore/market-kitchen-by-loyal-world-market-whitefield-bangalore/order"
+  },
+  {
+    "name": "New Paratha Express",
+    "image": "https://b.zmtcdn.com/data/pictures/1/20023191/5bf742c02537b3ed8b266e5096a8635c_o2_featured_v2.jpg",
+    "order_url": "/bangalore/new-paratha-express-brookefield-bangalore/order"
+  },
+  {
+    "name": "Oota Bangalore",
+    "image": "https://b.zmtcdn.com/data/pictures/6/18534396/a6fa01da31de552286fc2ea20c9a6f76_o2_featured_v2.jpg",
+    "order_url": "/bangalore/oota-bangalore-whitefield/order"
+  },
+  {
+    "name": "The Sandwich Station",
+    "image": "https://b.zmtcdn.com/data/pictures/6/19151276/ed0218b3fedb9bea61b6fb33a9dc94e4_o2_featured_v2.jpg",
+    "order_url": "/bangalore/the-sandwich-station-whitefield-bangalore/order"
+  },
+  {
+    "name": "Puliyogare Palace",
+    "image": "https://b.zmtcdn.com/data/pictures/1/20262901/952f4a54d1713ddcf2730133002363ca_o2_featured_v2.jpg",
+    "order_url": "/bangalore/puliyogare-palace-whitefield-bangalore/order"
+  },
+  {
+    "name": "Donburi",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/1/20117621/5d28ace6ed9048b1cdccbf5d65616e10_o2_featured_v2.jpg",
+    "order_url": "/bangalore/donburi-varthur-main-road-whitefield-bangalore/order"
+  },
+  {
+    "name": "Dine Bell",
+    "image": "https://b.zmtcdn.com/data/pictures/9/19575489/50f2b0a83566744fe56056a6c9e63140_o2_featured_v2.jpg",
+    "order_url": "/bangalore/dine-bell-marathahalli-bangalore/order"
+  },
+  {
+    "name": "Tibb's Frankie",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/8/51718/1bcc2588a2643c007805617463cf49d9_o2_featured_v2.png",
+    "order_url": "/bangalore/tibbs-frankie-kaggadasapura-bangalore/order"
+  },
+  {
+    "name": "Via Milano",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/3/51063/7ea3fc255c4a2e16b59b14c7b3a0557a_o2_featured_v2.jpg",
+    "order_url": "/bangalore/via-milano-sarjapur-road-bangalore/order"
+  },
+  {
+    "name": "Damodar Seth",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/9/18641019/cb3cf8fc677e41a388172dd88be49e69_o2_featured_v2.jpg",
+    "order_url": "/bangalore/damodar-seth-marathahalli/order"
+  },
+  {
+    "name": "Kerala Royal Food",
+    "image": "https://b.zmtcdn.com/data/pictures/0/19989880/6926a7b76549391115cc46d716cbb812_o2_featured_v2.jpg",
+    "order_url": "/bangalore/kerala-royal-food-marathahalli-bangalore/order"
+  },
+  {
+    "name": "Udupi Ruchi",
+    "image": "https://b.zmtcdn.com/data/pictures/4/19791814/942786b67571557f8156b2dbd1417286_o2_featured_v2.jpg",
+    "order_url": "/bangalore/udupi-ruchi-kr-puram-bangalore/order"
+  },
+  {
+    "name": "Mamagoto",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/8/58698/822a160b64da80bf8976d344d71489ce_o2_featured_v2.jpg",
+    "order_url": "/bangalore/mamagoto-indiranagar/order"
+  },
+  {
+    "name": "Kolkata Spicy Restaurant",
+    "image": "https://b.zmtcdn.com/data/pictures/6/18922196/f042c929c083967588db22803d9fe9ea_o2_featured_v2.jpg",
+    "order_url": "/bangalore/kolkata-spicy-restaurant-marathahalli-bangalore/order"
+  },
+  {
+    "name": "Vikas Punjabi Dhaba",
+    "image": "https://b.zmtcdn.com/data/pictures/5/19135295/1833f4912664457f5a30054bc359e835_o2_featured_v2.jpg",
+    "order_url": "/bangalore/vikas-punjabi-dhaba-marathahalli-bangalore/order"
+  },
+  {
+    "name": "Ruchira",
+    "image": "https://b.zmtcdn.com/data/pictures/2/19346642/c598cadb7f8e7d611f7f34a99dc67dea_o2_featured_v2.jpg",
+    "order_url": "/bangalore/ruchira-1-whitefield-bangalore/order"
+  },
+  {
+    "name": "The Red Box",
+    "image": "https://b.zmtcdn.com/data/pictures/3/19916903/0caa6b04d13a5e6cb74430aab4305805_o2_featured_v2.jpg",
+    "order_url": "/bangalore/the-red-box-2-marathahalli-bangalore/order"
+  },
+  {
+    "name": "Artinci - Indulge Guilt Free!",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/7/18544427/092503145b8a98ee840ac8451911f462_o2_featured_v2.jpg",
+    "order_url": "/bangalore/artinci-indulge-guilt-free-3-whitefield-bangalore/order"
+  },
+  {
+    "name": "Kathi Junction",
+    "image": "https://b.zmtcdn.com/data/pictures/9/20118729/77fff737d0481bb34ef0b9cd8b914798_o2_featured_v2.jpg",
+    "order_url": "/bangalore/kathi-junction-whitefield-bangalore/order"
+  },
+  {
+    "name": "Aditya Sweets",
+    "image": "https://b.zmtcdn.com/data/pictures/6/18650776/462cdee2c1d1064506e311beca887d0c_o2_featured_v2.jpg",
+    "order_url": "/bangalore/aditya-sweets-whitefield/order"
+  },
+  {
+    "name": "Bluebird Cafe",
+    "image": "https://b.zmtcdn.com/data/pictures/4/19851864/53ce4fb19458db364ce6887ed844ce1f_o2_featured_v2.jpg",
+    "order_url": "/bangalore/bluebird-cafe-1-marathahalli-bangalore/order"
+  },
+  {
+    "name": "Rajwadi",
+    "image": "https://b.zmtcdn.com/data/pictures/2/18911082/dc597eef108e3f31b59a51c73ee2cafc_o2_featured_v2.jpg",
+    "order_url": "/bangalore/rajwadi-brookefield-bangalore/order"
+  },
+  {
+    "name": "Sai Foods",
+    "image": "https://b.zmtcdn.com/data/pictures/5/60665/acc5c676e38cacf17de40d4e5bdae3b1_o2_featured_v2.jpg",
+    "order_url": "/bangalore/sai-foods-brookefield/order"
+  },
+  {
+    "name": "Surabhi Hut",
+    "image": "https://b.zmtcdn.com/data/pictures/0/19779660/3a8693c362feb29756ec44dede716f70_o2_featured_v2.jpg",
+    "order_url": "/bangalore/surabhi-hut-whitefield-bangalore/order"
+  },
+  {
+    "name": "Trattoria By Toscano",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/1/19426841/46dfcb8364898c0bbff4fda0e58aa5be_o2_featured_v2.jpg",
+    "order_url": "/bangalore/trattoria-by-toscano-itpl-main-road-whitefield-bangalore/order"
+  },
+  {
+    "name": "Meal@79",
+    "image": "https://b.zmtcdn.com/data/pictures/9/20176669/136279eb4f1b2b6b8a5881b078a9836e_o2_featured_v2.jpg",
+    "order_url": "/bangalore/meal@79-brookefield-bangalore/order"
+  },
+  {
+    "name": "RKD Kitchen",
+    "image": "https://b.zmtcdn.com/data/pictures/2/20076502/d019b1114aa8fb4e49849445b668607c_o2_featured_v2.jpg",
+    "order_url": "/bangalore/rkd-kitchen-1-varthur-main-road-whitefield-bangalore/order"
+  },
+  {
+    "name": "Andhra Spice Hub",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/1/19604321/b87907d1463300c34c15d6df6da5be99_o2_featured_v2.jpg",
+    "order_url": "/bangalore/andhra-spice-hub-brookefield-bangalore/order"
+  },
+  {
+    "name": "Slurpy Shakes",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/4/18711074/ca0ac659dbdb47dbeabad30bcf44ae3b_o2_featured_v2.jpg",
+    "order_url": "/bangalore/slurpy-shakes-brookefield-bangalore/order"
+  },
+  {
+    "name": "BaHa Superfoods",
+    "image": "https://b.zmtcdn.com/data/pictures/9/19581179/4e39cb8e0b25953319d17b00468ac526_o2_featured_v2.jpg",
+    "order_url": "/bangalore/baha-superfoods-varthur-main-road-whitefield-bangalore/order"
+  },
+  {
+    "name": "Canteen Central by EatFit",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/2/19413952/5245eb2f1a75713db33a61be5e8d8b58_o2_featured_v2.jpg",
+    "order_url": "/bangalore/canteen-central-by-eatfit-varthur-main-road-whitefield-bangalore/order"
+  },
+  {
+    "name": "Cake Hopper",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/7/19144207/76289122be23c0b1a307b25c7b7ac440_o2_featured_v2.jpg",
+    "order_url": "/bangalore/cake-hopper-whitefield-bangalore/order"
+  },
+  {
+    "name": "Gourmet Ice Cream Cakes By Baskin Robbins",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/0/19740330/52ff8f513a51903f544c76d14da56d39_o2_featured_v2.jpg",
+    "order_url": "/bangalore/gourmet-ice-cream-cakes-by-baskin-robbins-marathahalli-bangalore/order"
+  },
+  {
+    "name": "The Biryani Zone - By Kouzina",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/5/20024565/62a9c1f79e244814297838103f67fbc6_featured_v2.jpg",
+    "order_url": "/bangalore/the-biryani-zone-by-kouzina-whitefield-bangalore/order"
+  },
+  {
+    "name": "Soroush Biriyani",
+    "image": "https://b.zmtcdn.com/data/pictures/5/19292285/a19d9b4eaf03edfd985f8d29d594da8a_o2_featured_v2.jpg",
+    "order_url": "/bangalore/soroush-biriyani-varthur-main-road-whitefield-bangalore/order"
+  },
+  {
+    "name": "Marwadi Chaat Tiffin Services",
+    "image": "https://b.zmtcdn.com/data/pictures/6/19837266/af8349c33cc194911e3870097f79b0d5_o2_featured_v2.jpg",
+    "order_url": "/bangalore/marwadi-chaat-tiffin-services-whitefield-bangalore/order"
+  },
+  {
+    "name": "The Higher Tastew",
+    "image": "https://b.zmtcdn.com/data/pictures/4/19782454/4b27431993a61761d552a46527215ccd_o2_featured_v2.jpg",
+    "order_url": "/bangalore/the-higher-tastew-marathahalli-bangalore/order"
+  },
+  {
+    "name": "The Pallet",
+    "image": "https://b.zmtcdn.com/data/pictures/2/18595782/17df22f85bbc7502d640639ec6747641_o2_featured_v2.jpg",
+    "order_url": "/bangalore/the-pallet-2-whitefield-bangalore/order"
+  },
+  {
+    "name": "Windmills Craftworks",
+    "image": "https://b.zmtcdn.com/data/pictures/2/53872/a50a33f56b77229aa7c0b75005e9e6de_o2_featured_v2.jpg",
+    "order_url": "/bangalore/windmills-craftworks-whitefield/order"
+  },
+  {
+    "name": "Guntoor Mirchi",
+    "image": "https://b.zmtcdn.com/data/pictures/0/19177870/c35116f399044c3669c884f78d6d9755_o2_featured_v2.jpg",
+    "order_url": "/bangalore/guntoor-mirchi-itpl-main-road-whitefield-bangalore/order"
+  },
+  {
+    "name": "Amma Restaurant",
+    "image": "https://b.zmtcdn.com/data/pictures/1/19417911/c1bcbc119ae21dbd4cb46f6cb93a8ee3_o2_featured_v2.jpg",
+    "order_url": "/bangalore/amma-restaurant-whitefield-bangalore/order"
+  },
+  {
+    "name": "Nu.Tree",
+    "image": "https://b.zmtcdn.com/data/pictures/9/18718259/09d85e0aa69b16c9a7cd4daaace85744_o2_featured_v2.jpg",
+    "order_url": "/bangalore/nu-tree-whitefield-bangalore/order"
+  },
+  {
+    "name": "Cakesta",
+    "image": "https://b.zmtcdn.com/data/pictures/5/18592095/f0c230c06de454d8415a603def196442_o2_featured_v2.jpg",
+    "order_url": "/bangalore/cakesta-itpl-main-road-whitefield-bangalore/order"
+  },
+  {
+    "name": "Magic Momos",
+    "image": "https://b.zmtcdn.com/data/pictures/1/19527651/ba3e19d05bf4e741bc015f56ee15a391_o2_featured_v2.jpg",
+    "order_url": "/bangalore/magic-momos-whitefield-bangalore/order"
+  },
+  {
+    "name": "Ledikeni Sweets & Savouries",
+    "image": "https://b.zmtcdn.com/data/pictures/6/19687226/b834c2466e3e845dd9d4a1f463aff49e_o2_featured_v2.jpg",
+    "order_url": "/bangalore/ledikeni-sweets-savouries-marathahalli-bangalore/order"
+  },
+  {
+    "name": "Ohh Kolkata",
+    "image": "https://b.zmtcdn.com/data/pictures/4/19779104/83cacd506a02ba59e837910135b63f2a_o2_featured_v2.jpg",
+    "order_url": "/bangalore/ohh-kolkata-brookefield-bangalore/order"
+  },
+  {
+    "name": "Pind Balluchi",
+    "image": "https://b.zmtcdn.com/data/pictures/7/19162597/d1f83855d036ef4da96639c81ec18470_o2_featured_v2.jpg",
+    "order_url": "/bangalore/pind-balluchi-whitefield-bangalore/order"
+  },
+  {
+    "name": "Vijay Kitchen",
+    "image": "https://b.zmtcdn.com/data/pictures/2/19262022/61966f52e838e55f7e1211a13eecfbe0_o2_featured_v2.jpg",
+    "order_url": "/bangalore/vijay-kitchen-brookefield-bangalore/order"
+  },
+  {
+    "name": "Sanatani",
+    "image": "https://b.zmtcdn.com/data/pictures/3/19916093/de18f84d3767742f05193d2aeb852927_o2_featured_v2.jpg",
+    "order_url": "/bangalore/sanatani-marathahalli-bangalore/order"
+  },
+  {
+    "name": "Anjarai Petti",
+    "image": "https://b.zmtcdn.com/data/pictures/8/19359458/af48bade3b6565f40be493865d80bc88_o2_featured_v2.jpg",
+    "order_url": "/bangalore/anjarai-petti-marathahalli-bangalore/order"
+  },
+  {
+    "name": "Goodness To Go By Smoke House Deli",
+    "image": "https://b.zmtcdn.com/data/pictures/3/19106393/f6cfc33da76bf5df4d489a3b249b7b3d_o2_featured_v2.jpg",
+    "order_url": "/bangalore/goodness-to-go-by-smoke-house-deli-itpl-main-road-whitefield-bangalore/order"
+  },
+  {
+    "name": "Singh Da Punjabi Dhaba",
+    "image": "https://b.zmtcdn.com/data/pictures/2/19893022/17acbb79ca29a8a6d386b8a5af5127f8_o2_featured_v2.jpg",
+    "order_url": "/bangalore/singh-da-punjabi-dhaba-brookefield-bangalore/order"
+  },
+  {
+    "name": "Wowffles",
+    "image": "https://b.zmtcdn.com/data/pictures/6/19851186/a9f7760be20deba4da41e130546e81e0_o2_featured_v2.jpg",
+    "order_url": "/bangalore/wowffles-marathahalli-bangalore/order"
+  },
+  {
+    "name": "The Twenty Handmade Chocolates",
+    "image": "https://b.zmtcdn.com/data/pictures/3/19422023/c621b29d89d7c26875e8b063388380fe_o2_featured_v2.jpg",
+    "order_url": "/bangalore/the-twenty-handmade-chocolates-whitefield-bangalore/order"
+  },
+  {
+    "name": "U.P. Dhaba",
+    "image": "https://b.zmtcdn.com/data/pictures/7/57717/dd21ee873044ab7ec3f6a39245427d31_o2_featured_v2.jpg",
+    "order_url": "/bangalore/u-p-dhaba-whitefield-bangalore/order"
+  },
+  {
+    "name": "Delhi Kitchen",
+    "image": "https://b.zmtcdn.com/data/pictures/1/18576831/a86a5f4d5778baab63f67805875fcf92_o2_featured_v2.jpg",
+    "order_url": "/bangalore/delhi-kitchen-itpl-main-road-whitefield/order"
+  },
+  {
+    "name": "Saha Cabin Bengali Hotel",
+    "image": "https://b.zmtcdn.com/data/pictures/1/18505311/4ac66e6a04b54728c2934b687108216c_o2_featured_v2.JPG",
+    "order_url": "/bangalore/saha-cabin-bengali-hotel-whitefield/order"
+  },
+  {
+    "name": "PVR Caf\u00e9",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/7/19608047/3ea944c6047f1ddfc89b7a53bf5be5e7_o2_featured_v2.jpg",
+    "order_url": "/bangalore/pvr-caf\u00e9-itpl-main-road-whitefield-bangalore/order"
+  },
+  {
+    "name": "McCafe by McDonald's",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/4/19138934/71e6190ed79e065c6d372a43d713123a_o2_featured_v2.jpg",
+    "order_url": "/bangalore/mccafe-by-mcdonalds-kr-puram-bangalore/order"
+  },
+  {
+    "name": "Qmin",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/3/18598233/50b64e540081814e2b5f173a691fe590_o2_featured_v2.jpg",
+    "order_url": "/bangalore/qmin-itpl-main-road-whitefield-bangalore/order"
+  },
+  {
+    "name": "Edesia By Freshmenu",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/6/19292176/356b3fcefcbf1c74ff91f33b2228f254_o2_featured_v2.jpg",
+    "order_url": "/bangalore/edesia-by-freshmenu-1-whitefield-bangalore/order"
+  },
+  {
+    "name": "Wok With Chung",
+    "image": "https://b.zmtcdn.com/data/pictures/7/51077/0d15a74ca3504a0ac3f157e61276ccb4_o2_featured_v2.jpg",
+    "order_url": "/bangalore/wok-with-chung-marathahalli/order"
+  },
+  {
+    "name": "H\u00e4agen Dazs",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/6/53196/9cd94afc6b6f5d785de0d165d042ddba_o2_featured_v2.jpg",
+    "order_url": "/bangalore/h\u00e4agen-dazs-whitefield-bangalore/order"
+  },
+  {
+    "name": "Litti House",
+    "image": "https://b.zmtcdn.com/data/pictures/6/18541906/ee60414da01dd56c664c70b476d65f57_o2_featured_v2.jpg",
+    "order_url": "/bangalore/litti-house-brookefield/order"
+  },
+  {
+    "name": "Fresh Paratha Menu",
+    "image": "https://b.zmtcdn.com/data/pictures/0/19223360/c52a09661ae6073b8cfe389b02a6a342_o2_featured_v2.jpg",
+    "order_url": "/bangalore/fresh-paratha-menu-whitefield-bangalore/order"
+  },
+  {
+    "name": "Iyengars Bread Basket",
+    "image": "https://b.zmtcdn.com/data/pictures/6/19036546/0595953cf8e6e1d3060ca37d7b451d3f_o2_featured_v2.jpg",
+    "order_url": "/bangalore/iyengars-bread-basket-brookefield-bangalore/order"
+  },
+  {
+    "name": "Imperial Restaurant",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/2/50502/7a0aa9db2460a1da9d8dd346ad732c4e_o2_featured_v2.jpg",
+    "order_url": "/bangalore/imperial-restaurant-1-marathahalli/order"
+  },
+  {
+    "name": "Rekha Restaurant",
+    "image": "https://b.zmtcdn.com/data/pictures/8/57058/fdbe61011fcc6e748866964e2e15d361_o2_featured_v2.jpg",
+    "order_url": "/bangalore/rekha-restaurant-brookefield/order"
+  },
+  {
+    "name": "Masha Allah Restaurant",
+    "image": "https://b.zmtcdn.com/data/pictures/8/19774288/4b032bbcd46e4db034cfebab158a720f_o2_featured_v2.jpg",
+    "order_url": "/bangalore/masha-allah-restaurant-varthur-main-road-whitefield-bangalore/order"
+  },
+  {
+    "name": "153 Biere Street",
+    "image": "https://b.zmtcdn.com/data/pictures/7/56467/207194b87391f820bd211eda6cfa2db6_o2_featured_v2.jpg",
+    "order_url": "/bangalore/153-biere-street-whitefield-bangalore/order"
+  },
+  {
+    "name": "TN 81",
+    "image": "https://b.zmtcdn.com/data/pictures/7/20073727/59a9804acd93fe58635451333b054c30_o2_featured_v2.jpg",
+    "order_url": "/bangalore/tn-81-marathahalli-bangalore/order"
+  },
+  {
+    "name": "Deccan Paradise",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/6/19096016/6b83bfa4de1fe73a0b36e65d83ddfe9f_o2_featured_v2.jpg",
+    "order_url": "/bangalore/deccan-paradise-whitefield-bangalore/order"
+  },
+  {
+    "name": "Hotel Nalamaharaja",
+    "image": "https://b.zmtcdn.com/data/pictures/7/20074157/7feaafa91f147bb3e13da0ab51e7c66a_o2_featured_v2.jpg",
+    "order_url": "/bangalore/hotel-nalamaharaja-whitefield-bangalore/order"
+  },
+  {
+    "name": "Uncle Peter's Pancakes",
+    "image": "https://b.zmtcdn.com/data/pictures/9/19829299/6a0637549383061e67ca8e43c989238c_o2_featured_v2.jpg",
+    "order_url": "/bangalore/uncle-peters-pancakes-whitefield-bangalore/order"
+  },
+  {
+    "name": "Keshari Sweets & Snacks",
+    "image": "https://b.zmtcdn.com/data/pictures/1/19879761/b137d0b286ce3f82eab23df536c51c2d_o2_featured_v2.jpg",
+    "order_url": "/bangalore/keshari-sweets-snacks-whitefield-bangalore/order"
+  },
+  {
+    "name": "Baker's Home Cakes & Desserts",
+    "image": "https://b.zmtcdn.com/data/pictures/0/19265990/2368ea85509d787a6321354b50bde059_o2_featured_v2.jpg",
+    "order_url": "/bangalore/bakers-home-cakes-desserts-whitefield-bangalore/order"
+  },
+  {
+    "name": "Kerala Kafe",
+    "image": "https://b.zmtcdn.com/data/pictures/4/18989174/0c6a47e0ab11b713e69ce9649af773d6_o2_featured_v2.jpg",
+    "order_url": "/bangalore/kerala-kafe-whitefield-bangalore/order"
+  },
+  {
+    "name": "Sabzi Aur Roti",
+    "image": "https://b.zmtcdn.com/data/pictures/1/19837321/4af0563689dd3dd2a1e30a80ffceb1a8_o2_featured_v2.jpg",
+    "order_url": "/bangalore/sabzi-aur-roti-whitefield-bangalore/order"
+  },
+  {
+    "name": "Hungry Panda- Deliciously Chinese",
+    "image": "https://b.zmtcdn.com/data/pictures/5/20124705/a4839877b60328649751c2cfe1381bf6_o2_featured_v2.jpg",
+    "order_url": "/bangalore/hungry-panda-deliciously-chinese-kr-puram-bangalore/order"
+  },
+  {
+    "name": "Kaaapi Central",
+    "image": "https://b.zmtcdn.com/data/pictures/0/19769450/f790ab4774b2268fb2e9565254de35b5_o2_featured_v2.jpg",
+    "order_url": "/bangalore/kaaapi-central-whitefield-bangalore/order"
+  },
+  {
+    "name": "Punjabi Kitchen",
+    "image": "https://b.zmtcdn.com/data/pictures/9/19970899/039600dbb265121ea1341708876e2667_o2_featured_v2.jpg",
+    "order_url": "/bangalore/punjabi-kitchen-whitefield-bangalore/order"
+  },
+  {
+    "name": "Brunch Hub",
+    "image": "https://b.zmtcdn.com/data/pictures/7/19458397/ccb3b3645183b388a6bd0c2cd663dbbb_o2_featured_v2.jpg",
+    "order_url": "/bangalore/brunch-hub-whitefield-bangalore/order"
+  },
+  {
+    "name": "Trattoria By Toscano",
+    "image": "https://b.zmtcdn.com/data/pictures/5/19473535/71548db59cacc7306e62508e2076fa0d_o2_featured_v2.jpg",
+    "order_url": "/bangalore/trattoria-by-toscano-whitefield-bangalore/order"
+  },
+  {
+    "name": "Hard Rock Cafe",
+    "image": "https://b.zmtcdn.com/data/pictures/3/19264693/ed5cc5b94269f62ad33f4a42ceccd983_o2_featured_v2.jpg",
+    "order_url": "/bangalore/hard-rock-cafe-whitefield-bangalore/order"
+  },
+  {
+    "name": "E@t at tripti",
+    "image": "https://b.zmtcdn.com/data/pictures/6/20106446/504cfc1d09f7c099dbfdb5fa94ba2506_o2_featured_v2.jpg",
+    "order_url": "/bangalore/e@t-at-tripti-whitefield-bangalore/order"
+  },
+  {
+    "name": "Chaat Lane",
+    "image": "https://b.zmtcdn.com/data/pictures/7/19321247/e240dbc9ed2092e15014f19557e32d16_o2_featured_v2.jpg",
+    "order_url": "/bangalore/chaat-lane-whitefield-bangalore/order"
+  },
+  {
+    "name": "Tea Time",
+    "image": "https://b.zmtcdn.com/data/pictures/6/19891646/82eb8282c5da048c41db1e407bcf5d2f_o2_featured_v2.jpg",
+    "order_url": "/bangalore/tea-time-brookefield-bangalore/order"
+  },
+  {
+    "name": "Si Pizza",
+    "image": "https://b.zmtcdn.com/data/pictures/0/20007360/ea148adf6a14faf8af426533e798fc0a_o2_featured_v2.jpg",
+    "order_url": "/bangalore/si-pizza-2-whitefield-bangalore/order"
+  },
+  {
+    "name": "Seheru's Kitchen",
+    "image": "https://b.zmtcdn.com/data/pictures/7/19701237/25dd3875f36317e24d724044ea932c14_o2_featured_v2.jpg",
+    "order_url": "/bangalore/seherus-kitchen-whitefield-bangalore/order"
+  },
+  {
+    "name": "Ironhill Bengaluru",
+    "image": "https://b.zmtcdn.com/data/pictures/7/19672427/6850f9ded84a8cb0bee4febdcc6cc222_o2_featured_v2.jpg",
+    "order_url": "/bangalore/ironhill-bengaluru-marathahalli-bangalore/order"
+  },
+  {
+    "name": "R K Restaurant",
+    "image": "https://b.zmtcdn.com/data/pictures/8/19864438/91a619e7993a3fd2a7885d8818634989_o2_featured_v2.jpg",
+    "order_url": "/bangalore/r-k-restaurant-whitefield-bangalore/order"
+  },
+  {
+    "name": "Mega Biryani",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/2/20007212/92662db00e6b17f9bf4cc876667643e8_o2_featured_v2.jpg",
+    "order_url": "/bangalore/mega-biryani-2-whitefield-bangalore/order"
+  },
+  {
+    "name": "The Coffee House",
+    "image": "https://b.zmtcdn.com/data/pictures/4/19532814/ec4f84be13c03e960537c4fc47a7d288_o2_featured_v2.jpg",
+    "order_url": "/bangalore/the-coffee-house-itpl-main-road-whitefield-bangalore/order"
+  },
+  {
+    "name": "Biergarten",
+    "image": "https://b.zmtcdn.com/data/pictures/1/18313531/d34593d0faea7fb4bb27af37d4ee1709_o2_featured_v2.jpg",
+    "order_url": "/bangalore/biergarten-whitefield/order"
+  },
+  {
+    "name": "The Burrito Company",
+    "image": "https://b.zmtcdn.com/data/pictures/6/19998276/f2410041dd1ae893dcc28b1712949d94_o2_featured_v2.jpg",
+    "order_url": "/bangalore/the-burrito-company-brookefield-bangalore/order"
+  },
+  {
+    "name": "Ghar Ka Tadka",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/4/19350614/d1d2b924f5670badf7d1f1b28ab54425_o2_featured_v2.jpg",
+    "order_url": "/bangalore/ghar-ka-tadka-1-whitefield-bangalore/order"
+  },
+  {
+    "name": "Andhra Kafe",
+    "image": "https://b.zmtcdn.com/data/pictures/2/19866912/001fa23cfa8af46fec7bef6d908f295b_o2_featured_v2.jpg",
+    "order_url": "/bangalore/andhra-kafe-1-brookefield-bangalore/order"
+  },
+  {
+    "name": "Burgerito",
+    "image": "https://b.zmtcdn.com/data/pictures/7/20087687/d9b6eda816a7ed2aeb9430cc41977546_o2_featured_v2.jpg",
+    "order_url": "/bangalore/burgerito-whitefield-bangalore/order"
+  },
+  {
+    "name": "Collage By Toscano",
+    "image": "https://b.zmtcdn.com/data/pictures/9/19808909/37de4ecdf4011ac58d7ae5b1b42703da_o2_featured_v2.jpg",
+    "order_url": "/bangalore/collage-by-toscano-whitefield-bangalore/order"
+  },
+  {
+    "name": "Cakebee",
+    "image": "https://b.zmtcdn.com/data/pictures/4/19881144/5fa46d7375312ce0d62a575d8ccca029_o2_featured_v2.jpg",
+    "order_url": "/bangalore/cakebee-kr-puram-bangalore/order"
+  },
+  {
+    "name": "Ponnusamy Hotel",
+    "image": "https://b.zmtcdn.com/data/pictures/8/20001968/ac453b2d722ed9d87b317429564b4382_o2_featured_v2.jpg",
+    "order_url": "/bangalore/ponnusamy-hotel-itpl-main-road-whitefield-bangalore/order"
+  },
+  {
+    "name": "Ciro's Pizzeria",
+    "image": "https://b.zmtcdn.com/data/pictures/3/19951933/790cf10052435e87c777763555c06a18_o2_featured_v2.jpg",
+    "order_url": "/bangalore/ciros-pizzeria-itpl-main-road-whitefield-bangalore/order"
+  },
+  {
+    "name": "Sonar Bangla",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/8/19324758/3126f1e969e4a91bf1cb22ec13bfe9f0_o2_featured_v2.jpg",
+    "order_url": "/bangalore/sonar-bangla-varthur-main-road-whitefield-bangalore/order"
+  },
+  {
+    "name": "Biryani@99",
+    "image": "https://b.zmtcdn.com/data/pictures/9/20151539/3a62909d29f9efad397e18ea003f269f_o2_featured_v2.jpg",
+    "order_url": "/bangalore/biryani@99-brookefield-bangalore/order"
+  },
+  {
+    "name": "Chatpata India",
+    "image": "https://b.zmtcdn.com/data/pictures/5/18448355/f73f9a58b5b2d0e019241ac1b89ec1cc_o2_featured_v2.jpg",
+    "order_url": "/bangalore/chatpata-india-whitefield/order"
+  },
+  {
+    "name": "Shanghai Social",
+    "image": "https://b.zmtcdn.com/data/pictures/9/19751749/4e9630aa19d3fabaa42ffb15478b42e8_o2_featured_v2.jpg",
+    "order_url": "/bangalore/shanghai-social-brookefield-bangalore/order"
+  },
+  {
+    "name": "Punjabi Chulha",
+    "image": "https://b.zmtcdn.com/data/pictures/5/18980275/890e85b100c3099d3f8802b4b61c103e_o2_featured_v2.jpg",
+    "order_url": "/bangalore/punjabi-chulha-brookefield-bangalore/order"
+  },
+  {
+    "name": "New Gfc Gowdas Biriyani",
+    "image": "https://b.zmtcdn.com/data/pictures/1/20004151/2f8f36f1f1641cba9fd8cae597506c55_o2_featured_v2.jpg",
+    "order_url": "/bangalore/new-gfc-gowdas-biriyani-brookefield-bangalore/order"
+  },
+  {
+    "name": "Fresca",
+    "image": "https://b.zmtcdn.com/data/pictures/6/19873266/1f0477772f0eaf5d7f4729d4f2a24d59_o2_featured_v2.jpg",
+    "order_url": "/bangalore/fresca-1-brookefield-bangalore/order"
+  },
+  {
+    "name": "Paratha Chai House",
+    "image": "https://b.zmtcdn.com/data/pictures/2/19305842/625e4ed35e9846158b58fdbae6507d97_o2_featured_v2.jpg",
+    "order_url": "/bangalore/paratha-chai-house-marathahalli-bangalore/order"
+  },
+  {
+    "name": "Sandwich 2 Poha",
+    "image": "https://b.zmtcdn.com/images/res_avatar_476_320_1x_new.png",
+    "order_url": "/bangalore/sandwich-2-poha-brookefield-bangalore/order"
+  },
+  {
+    "name": "Wrap It",
+    "image": "https://b.zmtcdn.com/images/res_avatar_476_320_1x_new.png",
+    "order_url": "/bangalore/wrap-it-whitefield-bangalore/order"
+  },
+  {
+    "name": "Chiness Food Corner(CFC)",
+    "image": "https://b.zmtcdn.com/data/pictures/8/19916918/82444e29181708318c124b7829c76cc8_o2_featured_v2.jpg",
+    "order_url": "/bangalore/chiness-food-corner-cfc-brookefield-bangalore/order"
+  },
+  {
+    "name": "Mast Momos",
+    "image": "https://b.zmtcdn.com/data/pictures/8/19064748/641404384459083130e72907a677ab88_o2_featured_v2.jpg",
+    "order_url": "/bangalore/mast-momos-whitefield-bangalore/order"
+  },
+  {
+    "name": "Tasty Ambur Hot Dum Biryani",
+    "image": "https://b.zmtcdn.com/data/pictures/2/19534452/8dd3b54204794c8a9920028f27c8e822_o2_featured_v2.jpg",
+    "order_url": "/bangalore/tasty-ambur-hot-dum-biryani-whitefield-bangalore/order"
+  },
+  {
+    "name": "Lola",
+    "image": "https://b.zmtcdn.com/data/pictures/6/19539526/e5f7d9bff753559d33d05ce1f6602de9_o2_featured_v2.jpg",
+    "order_url": "/bangalore/lola-whitefield-bangalore/order"
+  },
+  {
+    "name": "The Foody Station",
+    "image": "https://b.zmtcdn.com/data/pictures/6/19445276/861552739de3c2f425580989e6ef3f0b_o2_featured_v2.jpg",
+    "order_url": "/bangalore/the-foody-station-whitefield-bangalore/order"
+  },
+  {
+    "name": "Kheer Kadamb Bengali Sweets",
+    "image": "https://b.zmtcdn.com/data/pictures/4/19630054/476906f135f98b9198207e8f0d4750b2_o2_featured_v2.jpg",
+    "order_url": "/bangalore/kheer-kadamb-bengali-sweets-whitefield-bangalore/order"
+  },
+  {
+    "name": "Biryani Plate",
+    "image": "https://b.zmtcdn.com/data/pictures/2/19064282/cc5c122fa98bedc58666de8f3f04924e_o2_featured_v2.jpg",
+    "order_url": "/bangalore/biryani-plate-whitefield-bangalore/order"
+  },
+  {
+    "name": "House Of Juice",
+    "image": "https://b.zmtcdn.com/data/pictures/7/19969347/3534a8f1624475de8913ef5e5cfa4bbf_o2_featured_v2.jpg",
+    "order_url": "/bangalore/house-of-juice-varthur-main-road-whitefield-bangalore/order"
+  },
+  {
+    "name": "Abhiruchi Andhra Mess",
+    "image": "https://b.zmtcdn.com/data/pictures/7/18549507/8cba7eeceb59fb2860b5243e706ecdac_o2_featured_v2.jpg",
+    "order_url": "/bangalore/abhiruchi-andhra-mess-marathahalli-bangalore/order"
+  },
+  {
+    "name": "Uruvalu Biryani",
+    "image": "https://b.zmtcdn.com/data/pictures/4/19624944/7550b63bce377e6312a81d5e6abc1284_o2_featured_v2.jpg",
+    "order_url": "/bangalore/uruvalu-biryani-whitefield-bangalore/order"
+  },
+  {
+    "name": "Delhi Kitchen",
+    "image": "https://b.zmtcdn.com/data/pictures/6/19837486/4e9630aa19d3fabaa42ffb15478b42e8_o2_featured_v2.jpg",
+    "order_url": "/bangalore/delhi-kitchen-1-whitefield-bangalore/order"
+  },
+  {
+    "name": "Myra's Kitchen",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/2/20151922/a180335c4c8d9184e61e6bba6914c6db_o2_featured_v2.jpg",
+    "order_url": "/bangalore/myras-kitchen-brookefield-bangalore/order"
+  },
+  {
+    "name": "Rolls First",
+    "image": "https://b.zmtcdn.com/data/pictures/3/19309273/1b2a1181005485e0443e9ae7f175bba8_o2_featured_v2.jpg",
+    "order_url": "/bangalore/rolls-first-marathahalli-bangalore/order"
+  },
+  {
+    "name": "Raithula Ruchi",
+    "image": "https://b.zmtcdn.com/data/pictures/6/19462076/c03490c0c82780d568dc56740d339894_o2_featured_v2.jpg",
+    "order_url": "/bangalore/raithula-ruchi-1-whitefield-bangalore/order"
+  },
+  {
+    "name": "Vijayawada Heights",
+    "image": "https://b.zmtcdn.com/data/pictures/9/18766269/6bd55fb4601f6cd2cf42e6e76ea06956_o2_featured_v2.jpg",
+    "order_url": "/bangalore/vijayawada-heights-whitefield-bangalore/order"
+  },
+  {
+    "name": "Cafe Oye Lassi",
+    "image": "https://b.zmtcdn.com/data/pictures/1/19602511/d692b1aec6faec87d3a717562a3c3271_o2_featured_v2.jpg",
+    "order_url": "/bangalore/cafe-oye-lassi-whitefield-bangalore/order"
+  },
+  {
+    "name": "The Lunch Box",
+    "image": "https://b.zmtcdn.com/data/pictures/0/19982920/0b380ba6f4033df3acc272da0a01f044_o2_featured_v2.jpg",
+    "order_url": "/bangalore/the-lunch-box-varthur-main-road-whitefield-bangalore/order"
+  },
+  {
+    "name": "House Of Mughals",
+    "image": "https://b.zmtcdn.com/data/pictures/6/20174106/455346f289af643079721e05e945d0f8_o2_featured_v2.jpg",
+    "order_url": "/bangalore/house-of-mughals-brookefield-bangalore/order"
+  },
+  {
+    "name": "Bhojanashala",
+    "image": "https://b.zmtcdn.com/data/pictures/7/20240447/4d4cc2fd8cae57372bc02139ad47222f_o2_featured_v2.jpg",
+    "order_url": "/bangalore/bhojanashala-whitefield-bangalore/order"
+  },
+  {
+    "name": "Toscano's Crafted Cakes & Desserts",
+    "image": "https://b.zmtcdn.com/data/pictures/7/19626637/1b7a72ff0213a5ce8f7aa7e4a92899a5_o2_featured_v2.jpg",
+    "order_url": "/bangalore/toscanos-crafted-cakes-desserts-whitefield-bangalore/order"
+  },
+  {
+    "name": "Green Cravings",
+    "image": "https://b.zmtcdn.com/images/res_avatar_476_320_1x_new.png",
+    "order_url": "/bangalore/green-cravings-varthur-main-road-whitefield-bangalore/order"
+  },
+  {
+    "name": "Indian Burrito Company",
+    "image": "https://b.zmtcdn.com/data/pictures/0/19562430/22e54ab4e7df6c0ee3a3fd0bd4327ed3_o2_featured_v2.jpg",
+    "order_url": "/bangalore/indian-burrito-company-varthur-main-road-whitefield-bangalore/order"
+  },
+  {
+    "name": "Bay Leaves",
+    "image": "https://b.zmtcdn.com/data/pictures/9/19554099/4c8601dc099d4e5d55002c564ca7e10c_o2_featured_v2.jpg",
+    "order_url": "/bangalore/bay-leaves-whitefield-bangalore/order"
+  },
+  {
+    "name": "Brood Buns",
+    "image": "https://b.zmtcdn.com/data/pictures/0/20191580/457352a19419c2c2147958d280431b39_o2_featured_v2.jpg",
+    "order_url": "/bangalore/brood-buns-marathahalli-bangalore/order"
+  },
+  {
+    "name": "Wall Street Shack",
+    "image": "https://b.zmtcdn.com/data/pictures/7/19933477/5d89f50c31699104d550a86d6d1d2897_o2_featured_v2.jpg",
+    "order_url": "/bangalore/wall-street-shack-whitefield-bangalore/order"
+  },
+  {
+    "name": "Tasty Dum Biryani",
+    "image": "https://b.zmtcdn.com/data/pictures/7/19609017/9bb27c74e36c957a7ed095b713b45d5a_o2_featured_v2.jpg",
+    "order_url": "/bangalore/tasty-dum-biryani-whitefield-bangalore/order"
   }
 ]
