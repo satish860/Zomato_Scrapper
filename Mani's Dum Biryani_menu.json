@@ -1,0 +1,469 @@
+[
+  {
+    "name": "D'lite Chicken IPL Biryani [Serves 1, 12 Pieces]",
+    "price": "\u20b9299",
+    "image": ""
+  },
+  {
+    "name": "D'lite Chicken 65 Biryani [Serves 1, 3 Pieces]",
+    "price": "\u20b9299",
+    "image": ""
+  },
+  {
+    "name": "D'lite Chicken Biryani [Serves 1, 2 Pieces]",
+    "price": "\u20b9299",
+    "image": ""
+  },
+  {
+    "name": "Chicken Kabab Biryani [Regular, Serves 1]",
+    "price": "\u20b9379",
+    "image": ""
+  },
+  {
+    "name": "Chicken Biryani Full [Serves 1-2, 4 Pieces]",
+    "price": "\u20b9429",
+    "image": ""
+  },
+  {
+    "name": "Egg Biryani [Regular, Serves 1, 2 Eggs]",
+    "price": "\u20b9259",
+    "image": ""
+  },
+  { "name": "Veg Biryani Half [Serves 1]", "price": "\u20b9259", "image": "" },
+  {
+    "name": "Hot and Spice Chicken [Small Cubes, 30 Pieces]",
+    "price": "\u20b9299",
+    "image": ""
+  },
+  {
+    "name": "Paneer Biryani [Regular, Serves 1]",
+    "price": "\u20b9359",
+    "image": ""
+  },
+  {
+    "name": "Paneer Biryani Full [Serves-2]",
+    "price": "\u20b9449",
+    "image": ""
+  },
+  {
+    "name": "Boneless Chicken Biryani Half [Serves 1, 12 Pieces]",
+    "price": "\u20b9339",
+    "image": ""
+  },
+  {
+    "name": "Chicken Biryani [Regular, Serves 1, 3 Pieces]",
+    "price": "\u20b9339",
+    "image": ""
+  },
+  {
+    "name": "Egg Biryani Half [Serves 1, 2 Eggs]",
+    "price": "\u20b9239",
+    "image": ""
+  },
+  {
+    "name": "Chicken Biryani [Family Pack, Serves 3-4, 8 Pieces]",
+    "price": "\u20b9879",
+    "image": ""
+  },
+  {
+    "name": "Boneless Chicken Biryani Full [Serves 1-2, 16 Pieces]",
+    "price": "\u20b9449",
+    "image": ""
+  },
+  {
+    "name": "Paneer Biryani Half [Serves 1]",
+    "price": "\u20b9339",
+    "image": ""
+  },
+  {
+    "name": "Veg Biryani Full [Serves 1-2]",
+    "price": "\u20b9349",
+    "image": "https://b.zmtcdn.com/data/dish_photos/92c/be3d456073ed5a5ef217c3872c54292c.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Achari Chicken Kabab [Small Cubes]",
+    "price": "\u20b9269",
+    "image": "https://b.zmtcdn.com/data/dish_photos/65c/164672d2701cc9f9139d7a6ae5eaa65c.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Chicken Kabab Biryani Full [Serves 1-2]",
+    "price": "\u20b9499",
+    "image": "https://b.zmtcdn.com/data/dish_photos/29c/98abff52ed3ebbd240cf90d4175a329c.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Chicken Kabab Biryani Half [Serves 1]",
+    "price": "\u20b9359",
+    "image": "https://b.zmtcdn.com/data/dish_photos/539/3c89763794dc1350864a8988d9800539.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Boneless Chicken 65 [Medium, 4 Pieces]",
+    "price": "\u20b9179",
+    "image": "https://b.zmtcdn.com/data/dish_photos/7fc/62317ebcdffd48ed1594bfae6b77b7fc.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Boneless Chicken 65 [Medium, 8 Pieces]",
+    "price": "\u20b9299",
+    "image": "https://b.zmtcdn.com/data/dish_photos/594/fd80f4d5658fce6bb4a85a447badd594.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Fish Kabab [Medium, 8 Pieces]",
+    "price": "\u20b9349",
+    "image": ""
+  },
+  {
+    "name": "Chicken Kabab Biryani [Large, Serves 2-3]",
+    "price": "\u20b9729",
+    "image": ""
+  },
+  {
+    "name": "Dum Biryani without Pieces [Full, Serves 1-2]",
+    "price": "\u20b9249",
+    "image": ""
+  },
+  {
+    "name": "Egg Biryani Full [Serves 1-2, 2 Eggs]",
+    "price": "\u20b9329",
+    "image": ""
+  },
+  {
+    "name": "D'lite Chicken Kuska [Serves 1]",
+    "price": "\u20b9199",
+    "image": ""
+  },
+  {
+    "name": "Chicken Leg Piece Biryani Half [Serves 1, 1 Piece]",
+    "price": "\u20b9339",
+    "image": ""
+  },
+  {
+    "name": "Veg Biryani [Family Pack, Serves 3-4]",
+    "price": "\u20b9729",
+    "image": ""
+  },
+  {
+    "name": "Veg Biryani [Large, Serves 2-3]",
+    "price": "\u20b9529",
+    "image": ""
+  },
+  {
+    "name": "D'lite Chicken Biryani [Serves 1, 2 Pieces]",
+    "price": "\u20b9299",
+    "image": ""
+  },
+  {
+    "name": "D'lite Chicken 65 Biryani [Serves 1, 3 Pieces]",
+    "price": "\u20b9299",
+    "image": ""
+  },
+  {
+    "name": "D'lite Chicken IPL Biryani [Serves 1, 12 Pieces]",
+    "price": "\u20b9299",
+    "image": ""
+  },
+  {
+    "name": "D'lite Chicken Kuska [Serves 1]",
+    "price": "\u20b9199",
+    "image": ""
+  },
+  {
+    "name": "Chicken Biryani Half [Serves 1, 3 Pieces]",
+    "price": "\u20b9319",
+    "image": ""
+  },
+  {
+    "name": "Chicken Leg Piece Biryani Half [Serves 1, 1 Piece]",
+    "price": "\u20b9339",
+    "image": ""
+  },
+  {
+    "name": "Boneless Chicken Biryani Half [Serves 1, 12 Pieces]",
+    "price": "\u20b9339",
+    "image": ""
+  },
+  {
+    "name": "Chicken Kabab Biryani Half [Serves 1]",
+    "price": "\u20b9359",
+    "image": ""
+  },
+  {
+    "name": "Fish Biryani Half [Serves 1, 12 Pieces]",
+    "price": "\u20b9389",
+    "image": ""
+  },
+  {
+    "name": "Egg Biryani Half [Serves 1, 2 Eggs]",
+    "price": "\u20b9239",
+    "image": ""
+  },
+  {
+    "name": "Dum Biryani without Pieces Half [Serves 1]",
+    "price": "\u20b9179",
+    "image": ""
+  },
+  { "name": "Veg Biryani Half [Serves 1]", "price": "\u20b9259", "image": "" },
+  {
+    "name": "Paneer Biryani Half [Serves 1]",
+    "price": "\u20b9339",
+    "image": ""
+  },
+  {
+    "name": "Chicken Biryani [Regular, Serves 1, 3 Pieces]",
+    "price": "\u20b9339",
+    "image": ""
+  },
+  {
+    "name": "Chicken Leg Piece Biryani [Regular, Serves 1, 1 Piece]",
+    "price": "\u20b9359",
+    "image": ""
+  },
+  {
+    "name": "Boneless Chicken Biryani [Regular, Serves 1, 12 Pieces]",
+    "price": "\u20b9359",
+    "image": ""
+  },
+  {
+    "name": "Chicken Kabab Biryani [Regular, Serves 1]",
+    "price": "\u20b9379",
+    "image": ""
+  },
+  {
+    "name": "Fish Biryani [Regular, Serves 1, 12 Pieces]",
+    "price": "\u20b9409",
+    "image": ""
+  },
+  {
+    "name": "Egg Biryani [Regular, Serves 1, 2 Eggs]",
+    "price": "\u20b9259",
+    "image": ""
+  },
+  {
+    "name": "Dum Biryani without Pieces [Regular, Serves 1]",
+    "price": "\u20b9219",
+    "image": ""
+  },
+  {
+    "name": "Veg Biryani [Regular, Serves 1]",
+    "price": "\u20b9309",
+    "image": ""
+  },
+  {
+    "name": "Paneer Biryani [Regular, Serves 1]",
+    "price": "\u20b9359",
+    "image": ""
+  },
+  {
+    "name": "Chicken Biryani Full [Serves 1-2, 4 Pieces]",
+    "price": "\u20b9429",
+    "image": ""
+  },
+  {
+    "name": "Chicken Leg Piece Biryani Full [Serves 1-2, 2 Pieces]",
+    "price": "\u20b9449",
+    "image": ""
+  },
+  {
+    "name": "Boneless Chicken Biryani Full [Serves 1-2, 16 Pieces]",
+    "price": "\u20b9449",
+    "image": ""
+  },
+  {
+    "name": "Chicken Kabab Biryani Full [Serves 1-2]",
+    "price": "\u20b9499",
+    "image": ""
+  },
+  {
+    "name": "Fish Biryani Full [Serves 1-2, 16 Pieces]",
+    "price": "\u20b9549",
+    "image": ""
+  },
+  {
+    "name": "Egg Biryani Full [Serves 1-2, 2 Eggs]",
+    "price": "\u20b9329",
+    "image": ""
+  },
+  {
+    "name": "Dum Biryani without Pieces [Full, Serves 1-2]",
+    "price": "\u20b9249",
+    "image": ""
+  },
+  {
+    "name": "Veg Biryani Full [Serves 1-2]",
+    "price": "\u20b9349",
+    "image": ""
+  },
+  {
+    "name": "Paneer Biryani Full [Serves-2]",
+    "price": "\u20b9449",
+    "image": ""
+  },
+  {
+    "name": "Chicken Biryani [Large, Serves 2-3, 6 Pieces]",
+    "price": "\u20b9629",
+    "image": ""
+  },
+  {
+    "name": "Chicken Leg Piece Biryani [Large, Serves 2-3, 3 Pieces]",
+    "price": "\u20b9729",
+    "image": ""
+  },
+  {
+    "name": "Boneless Chicken Biryani [Large, Serves 2-3, 24 Pieces]",
+    "price": "\u20b9729",
+    "image": ""
+  },
+  {
+    "name": "Chicken Kabab Biryani [Large, Serves 2-3]",
+    "price": "\u20b9729",
+    "image": ""
+  },
+  {
+    "name": "Egg Biryani [Large, Serves 2-3, 4 Eggs]",
+    "price": "\u20b9479",
+    "image": ""
+  },
+  {
+    "name": "Dum Biryani without Pieces [Large, Serves 2-3]",
+    "price": "\u20b9329",
+    "image": ""
+  },
+  {
+    "name": "Veg Biryani [Large, Serves 2-3]",
+    "price": "\u20b9529",
+    "image": ""
+  },
+  {
+    "name": "Paneer Biryani [Large, Serves 2-3]",
+    "price": "\u20b9629",
+    "image": ""
+  },
+  {
+    "name": "Chicken Biryani [Family Pack, Serves 3-4, 8 Pieces]",
+    "price": "\u20b9879",
+    "image": ""
+  },
+  {
+    "name": "Chicken Leg Piece Biryani [Family Pack, Serves 3-4, 4 Pieces]",
+    "price": "\u20b9929",
+    "image": ""
+  },
+  {
+    "name": "Boneless Chicken Biryani [Family Pack, Serves 3-4, 34 Pieces]",
+    "price": "\u20b91029",
+    "image": ""
+  },
+  {
+    "name": "Chicken Kabab Biryani [Family Pack, Serves 3-4]",
+    "price": "\u20b91029",
+    "image": ""
+  },
+  {
+    "name": "Egg Biryani [Family Pack, Serves 3-4, 6 Eggs]",
+    "price": "\u20b9679",
+    "image": ""
+  },
+  {
+    "name": "Dum Biryani without Pieces [Family Pack, Serves 3-4]",
+    "price": "\u20b9509",
+    "image": ""
+  },
+  {
+    "name": "Veg Biryani [Family Pack, Serves 3-4]",
+    "price": "\u20b9729",
+    "image": ""
+  },
+  {
+    "name": "Paneer Biryani [Family Pack, Serves 3-4]",
+    "price": "\u20b91029",
+    "image": ""
+  },
+  {
+    "name": "Chicken Biryani [1 Bucket, Serves 6-7, 12 Pieces]",
+    "price": "\u20b91599",
+    "image": ""
+  },
+  {
+    "name": "Chicken Leg Piece Biryani [1 Bucket, Serves 6-7, 3 Pieces]",
+    "price": "\u20b91799",
+    "image": ""
+  },
+  {
+    "name": "Boneless Chicken Biryani [1 Bucket, Serves 6-7, 60 Pieces]",
+    "price": "\u20b91799",
+    "image": ""
+  },
+  {
+    "name": "Egg Biryani [1 Bucket, Serves 6-7, 12 Eggs]",
+    "price": "\u20b91099",
+    "image": ""
+  },
+  {
+    "name": "Dum Biryani without Pieces [1 Bucket, Serves 6-7]",
+    "price": "\u20b9849",
+    "image": ""
+  },
+  {
+    "name": "Veg Biryani [1 Bucket, Serves 6-7]",
+    "price": "\u20b91299",
+    "image": ""
+  },
+  {
+    "name": "Paneer Thukuda Fry [15 Pieces]",
+    "price": "\u20b9299",
+    "image": ""
+  },
+  {
+    "name": "Boneless Chicken 65 [Medium, 4 Pieces]",
+    "price": "\u20b9179",
+    "image": ""
+  },
+  {
+    "name": "Boneless Chicken 65 [Medium, 8 Pieces]",
+    "price": "\u20b9299",
+    "image": ""
+  },
+  {
+    "name": "Achari Chicken Kabab [Small Cubes]",
+    "price": "\u20b9269",
+    "image": ""
+  },
+  {
+    "name": "Hot and Spice Chicken [Small Cubes, 30 Pieces]",
+    "price": "\u20b9299",
+    "image": ""
+  },
+  {
+    "name": "Fish Kabab [Medium, 8 Pieces]",
+    "price": "\u20b9349",
+    "image": ""
+  },
+  {
+    "name": "Thees Thukuda Machi Fry [Small Cubes, 30 Pieces]",
+    "price": "\u20b9349",
+    "image": ""
+  },
+  { "name": "Gulab Jamun [2 Pieces]", "price": "\u20b963", "image": "" },
+  { "name": "Veg biryani Family Combo", "price": "\u20b91101", "image": "" },
+  { "name": "Egg Biryani Family Combo", "price": "\u20b91048", "image": "" },
+  {
+    "name": "Chicken Biryani Family Combo",
+    "price": "\u20b91258",
+    "image": ""
+  },
+  { "name": "Veg Biryani Bucket Combo", "price": "\u20b91783", "image": "" },
+  { "name": "Egg Biryani Bucket Combo", "price": "\u20b91573", "image": "" },
+  {
+    "name": "Chicken Biryani Bucket Combo",
+    "price": "\u20b92098",
+    "image": ""
+  },
+  {
+    "name": "Chicken Biryani Leg Piece Bucket Combo",
+    "price": "\u20b92308",
+    "image": ""
+  },
+  {
+    "name": "Chicken Biryani Boneless Bucket Combo",
+    "price": "\u20b92308",
+    "image": ""
+  }
+]

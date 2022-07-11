@@ -1,0 +1,124 @@
+[
+  {
+    "name": "Hyderabadi Chicken Dum Biriyani",
+    "price": "\u20b9340",
+    "image": "https://b.zmtcdn.com/data/dish_photos/b66/5fd8518d1c6fab74c4d6f1c10b249b66.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Hyderabadi Chicken Biriyani Boneless Family Pack",
+    "price": "\u20b9749",
+    "image": "https://b.zmtcdn.com/data/dish_photos/de2/f6d040f4f0f7135fe0124e7e3fbd5de2.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Hyderabadi Mutton Dum Biriyani",
+    "price": "\u20b9360",
+    "image": "https://b.zmtcdn.com/data/dish_photos/a10/f0ab54b2c3e7cc1259147aba6aff4a10.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  { "name": "Chicken Lollipop", "price": "\u20b9319", "image": "" },
+  {
+    "name": "Tandoori Chicken (Half)",
+    "price": "\u20b9320",
+    "image": "https://b.zmtcdn.com/data/dish_photos/b13/2d66151e1fd10df90cf208dfa664eb13.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Veg Biriyani Family Pack",
+    "price": "\u20b9540",
+    "image": "https://b.zmtcdn.com/data/dish_photos/09c/f59dca07c7114adb60be1033cc6a109c.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Guntur Chicken Dry",
+    "price": "\u20b9290",
+    "image": "https://b.zmtcdn.com/data/dish_photos/0f5/839ec04d93b9d122e07cdea79b7db0f5.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Chicken Tikka Masala",
+    "price": "\u20b9320",
+    "image": "https://b.zmtcdn.com/data/dish_photos/fd5/c036736f6daeb78963c7adc77d526fd5.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  { "name": "Butter Chicken (Boneless)", "price": "\u20b9320", "image": "" },
+  { "name": "Chicken Kabab", "price": "\u20b9290", "image": "" },
+  { "name": "Paneer Butter Masala", "price": "\u20b9265", "image": "" },
+  { "name": "Gobi Manchurian", "price": "\u20b9240", "image": "" },
+  { "name": "Kalmi Kebab (2 Pieces )", "price": "\u20b9210", "image": "" },
+  { "name": "Egg Biriyani (Non Veg Rice)", "price": "\u20b9240", "image": "" },
+  { "name": "Murgh Malai Kabab", "price": "\u20b9340", "image": "" },
+  { "name": "Chilli Chicken (B/L)", "price": "\u20b9319", "image": "" },
+  { "name": "Tandoori Chicken (Full)", "price": "\u20b9640", "image": "" },
+  { "name": "Curd Rice", "price": "\u20b9130", "image": "" },
+  { "name": "Butter Naan", "price": "\u20b970", "image": "" },
+  { "name": "Mutton Seekh Kabab", "price": "\u20b9360", "image": "" },
+  { "name": "Hariyali Chicken Kabab", "price": "\u20b9340", "image": "" },
+  { "name": "Kaju Curry (Spicy)", "price": "\u20b9290", "image": "" },
+  { "name": "Tangdi Kabab (2 Pieces)", "price": "\u20b9360", "image": "" },
+  { "name": "Chicken Tikka", "price": "\u20b9340", "image": "" },
+  { "name": "Paneer 65", "price": "\u20b9280", "image": "" },
+  { "name": "Paneer Tikka", "price": "\u20b9265", "image": "" },
+  {
+    "name": "Hyderabadi Chicken Dum Biriyani",
+    "price": "\u20b9340",
+    "image": ""
+  },
+  {
+    "name": "Hyderabadi Mutton Dum Biriyani",
+    "price": "\u20b9360",
+    "image": ""
+  },
+  { "name": "Mutton Keema Biriyani", "price": "\u20b9380", "image": "" },
+  { "name": "Egg Biriyani (Non Veg Rice)", "price": "\u20b9240", "image": "" },
+  {
+    "name": "Hyderabadi Chicken Biriyani Boneless Family Pack",
+    "price": "\u20b9749",
+    "image": ""
+  },
+  { "name": "Veg Biriyani Family Pack", "price": "\u20b9540", "image": "" },
+  {
+    "name": "Boneless Chicken Biriyani Full",
+    "price": "\u20b9360",
+    "image": ""
+  },
+  {
+    "name": "Boneless Chicken Biriyani Small",
+    "price": "\u20b9260",
+    "image": ""
+  },
+  { "name": "Paneer Biriyani Full", "price": "\u20b9320", "image": "" },
+  { "name": "Paneer Biriyani Small", "price": "\u20b9240", "image": "" },
+  { "name": "Guntur Chicken Dry", "price": "\u20b9290", "image": "" },
+  { "name": "Chicken Kabab", "price": "\u20b9290", "image": "" },
+  { "name": "Chilli Chicken (B/L)", "price": "\u20b9319", "image": "" },
+  { "name": "Lemon Chicken Dry", "price": "\u20b9319", "image": "" },
+  { "name": "Chicken Lollipop", "price": "\u20b9319", "image": "" },
+  { "name": "Chicken Pepper Dry (B/L)", "price": "\u20b9319", "image": "" },
+  { "name": "Chicken Sholay Kabab (B/L)", "price": "\u20b9319", "image": "" },
+  { "name": "Garlic Chicken", "price": "\u20b9319", "image": "" },
+  { "name": "Kalmi Kebab (2 Pieces )", "price": "\u20b9210", "image": "" },
+  { "name": "Tandoori Chicken (Full)", "price": "\u20b9640", "image": "" },
+  { "name": "Tandoori Chicken (Half)", "price": "\u20b9320", "image": "" },
+  { "name": "Chicken Tikka", "price": "\u20b9340", "image": "" },
+  { "name": "Hariyali Chicken Kabab", "price": "\u20b9340", "image": "" },
+  { "name": "Murgh Malai Kabab", "price": "\u20b9340", "image": "" },
+  { "name": "Tangdi Kabab (2 Pieces)", "price": "\u20b9360", "image": "" },
+  { "name": "Tandoori Prawns", "price": "\u20b9375", "image": "" },
+  { "name": "Mutton Pepper Dry", "price": "\u20b9360", "image": "" },
+  { "name": "Mutton Roast", "price": "\u20b9360", "image": "" },
+  { "name": "Mutton Seekh Kabab", "price": "\u20b9360", "image": "" },
+  { "name": "Prawns Pepper Dry", "price": "\u20b9380", "image": "" },
+  { "name": "Gobi Manchurian", "price": "\u20b9240", "image": "" },
+  { "name": "Paneer 65", "price": "\u20b9280", "image": "" },
+  { "name": "Mixed Veg Raitha", "price": "\u20b9110", "image": "" },
+  { "name": "Mushroom 65", "price": "\u20b9250", "image": "" },
+  { "name": "Paneer Tikka", "price": "\u20b9265", "image": "" },
+  { "name": "Stuffed Mushroom Tikka", "price": "\u20b9265", "image": "" },
+  { "name": "Butter Roti", "price": "\u20b955", "image": "" },
+  { "name": "Butter Naan", "price": "\u20b970", "image": "" },
+  { "name": "Butter Kulcha", "price": "\u20b960", "image": "" },
+  { "name": "Garlic Naan", "price": "\u20b975", "image": "" },
+  { "name": "Butter Chicken (Boneless)", "price": "\u20b9320", "image": "" },
+  { "name": "Chicken Pepper Masala", "price": "\u20b9285", "image": "" },
+  { "name": "Chicken Tikka Masala", "price": "\u20b9320", "image": "" },
+  { "name": "Dal Fry", "price": "\u20b9200", "image": "" },
+  { "name": "Paneer Butter Masala", "price": "\u20b9265", "image": "" },
+  { "name": "Kaju Curry (Spicy)", "price": "\u20b9290", "image": "" },
+  { "name": "Kaju Curry (Sweet)", "price": "\u20b9290", "image": "" },
+  { "name": "Curd Rice", "price": "\u20b9130", "image": "" }
+]

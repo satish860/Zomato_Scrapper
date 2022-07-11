@@ -1,0 +1,50 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Restaurant",
+  "name": "Sri Udupi Food Hub",
+  "url": "/bangalore/sri-udupi-food-hub-whitefield-bangalore",
+  "openingHours": "7am – 10:30pm (Today)",
+  "hasmap": "https://maps.zomato.com/php/staticmap?center=12.9687846054,77.7354912880&maptype=zomato&markers=12.9687846054,77.7354912880,pin_res32&sensor=false&scale=2&zoom=16&language=en&size=240x150&size=400x240",
+  "menu": "/bangalore/sri-udupi-food-hub-whitefield-bangalore/menu",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "908/216, Nallurahalli, Siddapura Road, Whitefield, Bangalore",
+    "addressLocality": "Whitefield, Bangalore",
+    "addressRegion": "Bangalore",
+    "postalCode": "560066",
+    "addressCountry": "India"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "12.9687846054",
+    "longitude": "77.7354912880"
+  },
+  "potentialAction": {
+    "@type": "OrderAction",
+    "deliveryMethod": ["http://purl.org/goodrelations/v1#DeliveryModeOwnFleet"],
+    "target": {
+      "@type": "EntryPoint",
+      "inLanguage": "en-US",
+      "url": "/bangalore/sri-udupi-food-hub-whitefield-bangalore/book",
+      "actionPlatform": [
+        "http://schema.org/DesktopWebPlatform",
+        "http://schema.org/MobileWebPlatform",
+        "http://schema.org/IOSPlatform",
+        "http://schema.org/AndroidPlatform"
+      ]
+    },
+    "inLanguage": ""
+  },
+  "telephone": "+919535274406",
+  "priceRange": "",
+  "paymentAccepted": "",
+  "image": "https://b.zmtcdn.com/data/reviews_photos/76e/61a3457bdbc010ad12e59d25fbd9376e_1651469878.jpg",
+  "servesCuisine": "South Indian, North Indian, Chinese, Street Food, Ice Cream, Desserts, Shake, Beverages",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.0",
+    "ratingCount": 10,
+    "bestRating": 5,
+    "worstRating": 0
+  }
+}

@@ -1,0 +1,135 @@
+[
+  { "name": "Gobi Manchurian (Dry)", "price": "\u20b979", "image": "" },
+  { "name": "Roti Curry", "price": "\u20b999", "image": "" },
+  { "name": "Masala Dosa", "price": "\u20b949", "image": "" },
+  { "name": "Paneer Manchurian (Dry)", "price": "\u20b9109", "image": "" },
+  { "name": "Kulcha Curry", "price": "\u20b999", "image": "" },
+  { "name": "Chilli Garlic Noodles", "price": "\u20b985", "image": "" },
+  { "name": "2 Idly", "price": "\u20b945", "image": "" },
+  { "name": "Mini Tiffin Combo", "price": "\u20b9159", "image": "" },
+  { "name": "2 Idly Vada", "price": "\u20b965", "image": "" },
+  { "name": "Veg Noodles", "price": "\u20b979", "image": "" },
+  { "name": "Schezwan Fried Rice", "price": "\u20b985", "image": "" },
+  { "name": "2 Vada", "price": "\u20b949", "image": "" },
+  { "name": "Plain Dosa", "price": "\u20b945", "image": "" },
+  { "name": "Naan Curry", "price": "\u20b999", "image": "" },
+  { "name": "Fruit Salad 250gm", "price": "\u20b965", "image": "" },
+  { "name": "Gulab Jamun (2 Pcs)", "price": "\u20b959", "image": "" },
+  { "name": "Buttermilk", "price": "\u20b935", "image": "" },
+  { "name": "Cold Badam Milk", "price": "\u20b959", "image": "" },
+  { "name": "Paneer Capsicum Noodles", "price": "\u20b989", "image": "" },
+  { "name": "Cream Of Tomato Soup", "price": "\u20b945", "image": "" },
+  { "name": "Roti (2 Pcs)", "price": "\u20b949", "image": "" },
+  { "name": "Fruit Salad 250gm", "price": "\u20b965", "image": "" },
+  { "name": "Gulab Jamun (2 Pcs)", "price": "\u20b959", "image": "" },
+  { "name": "Buttermilk", "price": "\u20b935", "image": "" },
+  { "name": "Cold Badam Milk", "price": "\u20b959", "image": "" },
+  { "name": "Pulpy Grape", "price": "\u20b949", "image": "" },
+  { "name": "Sweet Lassi", "price": "\u20b949", "image": "" },
+  { "name": "Kulcha Curry", "price": "\u20b999", "image": "" },
+  { "name": "Naan Curry", "price": "\u20b999", "image": "" },
+  { "name": "Roti Curry", "price": "\u20b999", "image": "" },
+  { "name": "Kulcha", "price": "\u20b945", "image": "" },
+  { "name": "Naan", "price": "\u20b945", "image": "" },
+  { "name": "Roti (2 Pcs)", "price": "\u20b949", "image": "" },
+  { "name": "Cream Of Tomato Soup", "price": "\u20b945", "image": "" },
+  { "name": "Hot & Sour Soup", "price": "\u20b959", "image": "" },
+  { "name": "Manchow Soup", "price": "\u20b959", "image": "" },
+  { "name": "Sweet Corn Soup", "price": "\u20b959", "image": "" },
+  { "name": "Baby Corn Manchurian (Dry)", "price": "\u20b989", "image": "" },
+  { "name": "Gobi Manchurian (Dry)", "price": "\u20b979", "image": "" },
+  { "name": "Mushroom Manchurian (Dry)", "price": "\u20b999", "image": "" },
+  { "name": "Paneer Manchurian (Dry)", "price": "\u20b9109", "image": "" },
+  {
+    "name": "Asha Special Veg Biryani (Mini)",
+    "price": "\u20b989",
+    "image": ""
+  },
+  {
+    "name": "Asha Special Veg Biryani (Regular)",
+    "price": "\u20b9119",
+    "image": ""
+  },
+  { "name": "Paneer Capsicum Fried Rice", "price": "\u20b989", "image": "" },
+  { "name": "Schezwan Fried Rice", "price": "\u20b985", "image": "" },
+  { "name": "Veg Fried Rice", "price": "\u20b979", "image": "" },
+  { "name": "Chilli Garlic Noodles", "price": "\u20b985", "image": "" },
+  { "name": "Paneer Capsicum Noodles", "price": "\u20b989", "image": "" },
+  {
+    "name": "Veg Noodles",
+    "price": "\u20b979",
+    "image": "https://b.zmtcdn.com/data/dish_photos/a9d/85d93e9aab31ca6296618b2b77b21a9d.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "2 Idly Vada",
+    "price": "\u20b965",
+    "image": "https://b.zmtcdn.com/data/dish_photos/ebe/f6a9f9a0cf8c48064225cb7d35dd9ebe.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "2 Idly",
+    "price": "\u20b945",
+    "image": "https://b.zmtcdn.com/data/dish_photos/a94/a98dd33ba445bf0c2359bf032bf19a94.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "2 Vada",
+    "price": "\u20b949",
+    "image": "https://b.zmtcdn.com/data/dish_photos/fa8/87459f466622c6a4cfc13e28c09f2fa8.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Chow Chow Bath",
+    "price": "\u20b965",
+    "image": "https://b.zmtcdn.com/data/dish_photos/4f5/c60c2f44a004e4adee38af653f0124f5.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  { "name": "Kesari Bath", "price": "\u20b935", "image": "" },
+  {
+    "name": "Khara Bath",
+    "price": "\u20b935",
+    "image": "https://b.zmtcdn.com/data/dish_photos/717/9938fb4e7552edea1f58ac22cf132717.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Masala Dosa",
+    "price": "\u20b949",
+    "image": "https://b.zmtcdn.com/data/dish_photos/b3d/d117421a7a863110128af6fcdb1c3b3d.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Mini Tiffin Combo",
+    "price": "\u20b9159",
+    "image": "https://b.zmtcdn.com/data/dish_photos/aed/9687e2be47cd91a77ffc17d5da251aed.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Plain Dosa",
+    "price": "\u20b945",
+    "image": "https://b.zmtcdn.com/data/dish_photos/ea6/43618b592a8a7ffa8c796a70315f5ea6.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  { "name": "Cold Coffee 275 Ml", "price": "\u20b989", "image": "" },
+  {
+    "name": "Oreo Milkshake 275 Ml",
+    "price": "\u20b985",
+    "image": "https://b.zmtcdn.com/data/dish_photos/cf0/16a33426ff465fe56b31150f34917cf0.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Blackcurrant Icecream Milkshake(275 Ml)",
+    "price": "\u20b979",
+    "image": "https://b.zmtcdn.com/data/dish_photos/ff1/8e937968c6502cc4d9c29306c0d3dff1.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Butterscotch Icecream Milkshake(275 Ml)",
+    "price": "\u20b979",
+    "image": "https://b.zmtcdn.com/data/dish_photos/eb3/25164cff11502e0d60cc86384d5d9eb3.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Chocolate Icecream Milkshake(275 Ml)",
+    "price": "\u20b979",
+    "image": "https://b.zmtcdn.com/data/dish_photos/c1b/d5fa105caedbc5341156fbe48faeec1b.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Strawberry Icecream Milkshake(275 Ml)",
+    "price": "\u20b979",
+    "image": ""
+  },
+  {
+    "name": "Vanilla Caramel Icecream Milkshake(275 Ml)",
+    "price": "\u20b979",
+    "image": "https://b.zmtcdn.com/data/dish_photos/cc0/8b2ab1f0700845fda2ed2b913b346cc0.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  }
+]

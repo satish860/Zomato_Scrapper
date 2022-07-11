@@ -1,0 +1,706 @@
+[
+  { "name": "Grilled Chicken", "price": "\u20b9250", "image": "" },
+  { "name": "Al Faham Chicken", "price": "\u20b9270", "image": "" },
+  { "name": "Malabar Chicken Biryani", "price": "\u20b9220", "image": "" },
+  { "name": "Hyderabadi Chicken Biryani", "price": "\u20b9240", "image": "" },
+  {
+    "name": "Butter Naan {2 Nos + Butter Chicken + Chilly Chicken",
+    "price": "\u20b9224",
+    "image": ""
+  },
+  { "name": "Chicken Tandoori", "price": "\u20b9149", "image": "" },
+  {
+    "name": "Imperio Special Chicken Kebab",
+    "price": "\u20b9145",
+    "image": ""
+  },
+  { "name": "Hyderabadi Biryani Combo", "price": "\u20b9254", "image": "" },
+  { "name": "Imperio Chicken Leaf Biryani", "price": "\u20b9304", "image": "" },
+  { "name": "Egg Biryani", "price": "\u20b9180", "image": "" },
+  {
+    "name": "Ghee Rice+ Butter Chicken +Chilly Chicken",
+    "price": "\u20b9224",
+    "image": ""
+  },
+  { "name": "Malabar Biryani Combo", "price": "\u20b9254", "image": "" },
+  { "name": "Tandoori Combo", "price": "\u20b9304", "image": "" },
+  { "name": "Chapathi Combo", "price": "\u20b9204", "image": "" },
+  { "name": "Death By Chocolate", "price": "\u20b9199", "image": "" },
+  { "name": "Chicken Fried Rice", "price": "\u20b9165", "image": "" },
+  { "name": "Ghee Rice Nonveg Combo", "price": "\u20b9224", "image": "" },
+  { "name": "Special Shavarma", "price": "\u20b999", "image": "" },
+  { "name": "Chicken Schezwan Noodles", "price": "\u20b9184", "image": "" },
+  { "name": "Veg Biriyani", "price": "\u20b9180", "image": "" },
+  { "name": "Non Veg Thalli", "price": "\u20b9304", "image": "" },
+  { "name": "Mushroom Biryani", "price": "\u20b9250", "image": "" },
+  { "name": "Kalmi Kebab", "price": "\u20b9159", "image": "" },
+  { "name": "Veg Thali", "price": "\u20b9269", "image": "" },
+  { "name": "Imperio Crispy Chicken", "price": "\u20b995", "image": "" },
+  { "name": "Egg Fried Rice", "price": "\u20b9164", "image": "" },
+  { "name": "Gobi Manchurian Dry", "price": "\u20b9109", "image": "" },
+  { "name": "Fruit Salad With Ice Cream", "price": "\u20b9145", "image": "" },
+  { "name": "Plate Shavarma", "price": "\u20b9150", "image": "" },
+  {
+    "name": "Boneless Chicken 65 Biriyani With (250Mlcoke Free)",
+    "price": "\u20b9299",
+    "image": ""
+  },
+  { "name": "Blue Curacao Mojito", "price": "\u20b9129", "image": "" },
+  { "name": "Olivier salad (veg)", "price": "\u20b9299", "image": "" },
+  { "name": "Caesar salad ( Non-veg )", "price": "\u20b9289", "image": "" },
+  { "name": "Caesar salad ( veg )", "price": "\u20b9249", "image": "" },
+  { "name": "Imperio Crispy Chicken", "price": "\u20b995", "image": "" },
+  { "name": "4Pc IFC Crunch Chicken Wings", "price": "\u20b9139", "image": "" },
+  {
+    "name": "8Pcs IFC Crunch Chicken Wings",
+    "price": "\u20b9249",
+    "image": ""
+  },
+  {
+    "name": "Boneless Chicken strips 4 Pcs",
+    "price": "\u20b9149",
+    "image": ""
+  },
+  {
+    "name": "Boneless Chicken strips 8 Pcs",
+    "price": "\u20b9299",
+    "image": ""
+  },
+  {
+    "name": "Boneless Chicken strips Bucket (10 Pcs)",
+    "price": "\u20b9399",
+    "image": ""
+  },
+  { "name": "Imperio Smilies ( 8 Pcs)", "price": "\u20b989", "image": "" },
+  {
+    "name": "Chilli Garlic Potato Pops (8pcs)",
+    "price": "\u20b979",
+    "image": ""
+  },
+  { "name": "Crispy Aloo Tikka (6 Pcs)", "price": "\u20b999", "image": "" },
+  { "name": "Veggie Finger (6 Pcs)", "price": "\u20b989", "image": "" },
+  { "name": "Finger Chips", "price": "\u20b979", "image": "" },
+  { "name": "Regular Popcorn", "price": "\u20b989", "image": "" },
+  { "name": "Medium Popcorn", "price": "\u20b9129", "image": "" },
+  { "name": "Large Popcorn", "price": "\u20b9169", "image": "" },
+  { "name": "IFC Crunch Chicken Burger", "price": "\u20b9149", "image": "" },
+  {
+    "name": "IFC Jumbo Crunch Chicken Burger",
+    "price": "\u20b9189",
+    "image": ""
+  },
+  { "name": "Classic Veg Burger", "price": "\u20b9119", "image": "" },
+  { "name": "Chicken Cheese Burger", "price": "\u20b9139", "image": "" },
+  { "name": "Veg Cheese Burger", "price": "\u20b9139", "image": "" },
+  {
+    "name": "IFC Tandoori Crunch Chicken Burger",
+    "price": "\u20b9149",
+    "image": ""
+  },
+  {
+    "name": "IFC Jumbo Tandoori Crunch Chicken Burger",
+    "price": "\u20b9189",
+    "image": ""
+  },
+  { "name": "Jumbo Double Patty Burger", "price": "\u20b9179", "image": "" },
+  { "name": "Classic Chicken Burger", "price": "\u20b9139", "image": "" },
+  { "name": "Basha Fish Tawa Fry", "price": "\u20b9379", "image": "" },
+  { "name": "Mushroom Biryani", "price": "\u20b9250", "image": "" },
+  { "name": "Satay Prawns Tawa Fry", "price": "\u20b9249", "image": "" },
+  { "name": "Imperio Chicken Leaf Biryani", "price": "\u20b9304", "image": "" },
+  { "name": "Imperio Mutton Leaf Biryani", "price": "\u20b9329", "image": "" },
+  { "name": "Imperio Prawns Leaf Biryani", "price": "\u20b9329", "image": "" },
+  { "name": "Imperio Fish Leaf Biryani", "price": "\u20b9369", "image": "" },
+  {
+    "name": "Satay Piri Piri Chicken Boneless",
+    "price": "\u20b9320",
+    "image": ""
+  },
+  { "name": "Satay Piri Piri Wings", "price": "\u20b9280", "image": "" },
+  {
+    "name": "Satay Grilled Tawa Boneless Chicken",
+    "price": "\u20b9299",
+    "image": ""
+  },
+  { "name": "Paneer Biryani", "price": "\u20b9249", "image": "" },
+  { "name": "Chicken Lollypop Biryani", "price": "\u20b9304", "image": "" },
+  { "name": "Kakinadu Chicken", "price": "\u20b9294", "image": "" },
+  { "name": "Andhra Chicken", "price": "\u20b9294", "image": "" },
+  { "name": "Royal Seema", "price": "\u20b9294", "image": "" },
+  { "name": "Curry Leaf Chicken", "price": "\u20b9294", "image": "" },
+  { "name": "Guntur Chicken", "price": "\u20b9294", "image": "" },
+  { "name": "Prawns Biryani", "price": "\u20b9290", "image": "" },
+  { "name": "Chicken Tikka Biryani", "price": "\u20b9279", "image": "" },
+  { "name": "Fish Biryani", "price": "\u20b9289", "image": "" },
+  { "name": "Plain Rice", "price": "\u20b975", "image": "" },
+  { "name": "Lemon Rice", "price": "\u20b9149", "image": "" },
+  { "name": "Ghee Rice", "price": "\u20b999", "image": "" },
+  { "name": "Curd Rice", "price": "\u20b9130", "image": "" },
+  { "name": "Biryani Rice", "price": "\u20b9109", "image": "" },
+  { "name": "Hyderabadi Chicken Biryani", "price": "\u20b9240", "image": "" },
+  { "name": "Egg Biryani", "price": "\u20b9180", "image": "" },
+  { "name": "Veg Biriyani", "price": "\u20b9180", "image": "" },
+  { "name": "Malabar Chicken Biryani", "price": "\u20b9220", "image": "" },
+  { "name": "Tandoori Biriyani", "price": "\u20b9249", "image": "" },
+  { "name": "Grill Chicken Biriyani", "price": "\u20b9249", "image": "" },
+  { "name": "Jeera Rice", "price": "\u20b9130", "image": "" },
+  { "name": "Paneer Tikka Biryani", "price": "\u20b9269", "image": "" },
+  {
+    "name": "Ghee Rice+ Butter Chicken +Chilly Chicken",
+    "price": "\u20b9224",
+    "image": ""
+  },
+  {
+    "name": "Butter Naan {2 Nos + Butter Chicken + Chilly Chicken",
+    "price": "\u20b9224",
+    "image": ""
+  },
+  { "name": "Chapathi Combo", "price": "\u20b9204", "image": "" },
+  { "name": "Hyderabadi Biryani Combo", "price": "\u20b9254", "image": "" },
+  { "name": "Malabar Biryani Combo", "price": "\u20b9254", "image": "" },
+  { "name": "Wheat Parota Combo", "price": "\u20b9224", "image": "" },
+  { "name": "Kerala Parota Combo", "price": "\u20b9224", "image": "" },
+  { "name": "Ghee Rice Nonveg Combo", "price": "\u20b9224", "image": "" },
+  { "name": "Ghee Rice Veg Combo", "price": "\u20b9204", "image": "" },
+  { "name": "Non Veg Thalli", "price": "\u20b9304", "image": "" },
+  { "name": "Veg Thali", "price": "\u20b9269", "image": "" },
+  { "name": "Tandoori Combo", "price": "\u20b9304", "image": "" },
+  {
+    "name": "Boneless Chicken 65 Biriyani With (250Mlcoke Free)",
+    "price": "\u20b9299",
+    "image": ""
+  },
+  {
+    "name": "Boneless Chilli Chicken Biriyani With (250Mlcoke Free)",
+    "price": "\u20b9299",
+    "image": ""
+  },
+  {
+    "name": "Boneless Mutton Pepper Biriyani With (250Mlcoke Free)",
+    "price": "\u20b9329",
+    "image": ""
+  },
+  {
+    "name": "Boneless Chilly Fish Biriyani With (250Mlcoke Free)",
+    "price": "\u20b9299",
+    "image": ""
+  },
+  { "name": "Al Faham Chicken", "price": "\u20b9270", "image": "" },
+  { "name": "Grilled Chicken", "price": "\u20b9250", "image": "" },
+  { "name": "Mayonnaise", "price": "\u20b950", "image": "" },
+  { "name": "Boneless Chicken 65", "price": "\u20b9149", "image": "" },
+  { "name": "Chicken Lollipop", "price": "\u20b9149", "image": "" },
+  { "name": "Chicken Manchurian Boneless", "price": "\u20b9130", "image": "" },
+  { "name": "Chilly Chicken", "price": "\u20b9140", "image": "" },
+  {
+    "name": "Imperio Special Chicken Kebab",
+    "price": "\u20b9145",
+    "image": ""
+  },
+  { "name": "Pepper Chicken Dry", "price": "\u20b9110", "image": "" },
+  { "name": "Wings Pepper", "price": "\u20b9199", "image": "" },
+  { "name": "Boneless Chilly Chicken", "price": "\u20b9160", "image": "" },
+  { "name": "Pepper Chicken Dry Boneless", "price": "\u20b9149", "image": "" },
+  { "name": "Chicken Tandoori", "price": "\u20b9149", "image": "" },
+  { "name": "Chicken Tikka", "price": "\u20b9140", "image": "" },
+  { "name": "Kalmi Kebab", "price": "\u20b9159", "image": "" },
+  { "name": "Paneer Tikka", "price": "\u20b9149", "image": "" },
+  { "name": "Plate Shavarma", "price": "\u20b9150", "image": "" },
+  { "name": "Shavarma Roll", "price": "\u20b980", "image": "" },
+  { "name": "Special Shavarma", "price": "\u20b999", "image": "" },
+  { "name": "Spicy Shavarama", "price": "\u20b980", "image": "" },
+  { "name": "Kp shavarama", "price": "\u20b980", "image": "" },
+  { "name": "Chilly Fish Boneless", "price": "\u20b9160", "image": "" },
+  { "name": "Fish Manchurian", "price": "\u20b9140", "image": "" },
+  { "name": "Fish Pepper Dry", "price": "\u20b9160", "image": "" },
+  { "name": "Prawns Chilly Dry", "price": "\u20b9179", "image": "" },
+  { "name": "Prawns Manchurian", "price": "\u20b9140", "image": "" },
+  { "name": "Prawns Pepper Dry", "price": "\u20b9179", "image": "" },
+  { "name": "Fish Curry", "price": "\u20b9180", "image": "" },
+  { "name": "Prawns Masala", "price": "\u20b9189", "image": "" },
+  { "name": "Mutton Ghee Roast", "price": "\u20b9428", "image": "" },
+  { "name": "Pepper Mutton Dry", "price": "\u20b9179", "image": "" },
+  { "name": "Pepper Mutton Dry Boneless", "price": "\u20b9179", "image": "" },
+  { "name": "Mutton 65", "price": "\u20b9145", "image": "" },
+  { "name": "Boiled Egg [3 Pieces]", "price": "\u20b999", "image": "" },
+  { "name": "Egg Bhurji [3 Pieces]", "price": "\u20b9130", "image": "" },
+  { "name": "Egg Chilly Dry [3 Pieces]", "price": "\u20b9140", "image": "" },
+  { "name": "Egg Fry [3 Pieces]", "price": "\u20b9139", "image": "" },
+  { "name": "Egg Masala [3 Pieces]", "price": "\u20b9149", "image": "" },
+  { "name": "Egg Omelette", "price": "\u20b999", "image": "" },
+  { "name": "Baby Corn Manchurian Dry", "price": "\u20b9120", "image": "" },
+  { "name": "Gobi Chilly Dry", "price": "\u20b9109", "image": "" },
+  { "name": "Gobi Manchurian Dry", "price": "\u20b9109", "image": "" },
+  { "name": "Gobi Pepper Dry", "price": "\u20b9109", "image": "" },
+  { "name": "Mushroom Manchurian Dry", "price": "\u20b9119", "image": "" },
+  { "name": "Mushroom Pepper Dry", "price": "\u20b9119", "image": "" },
+  { "name": "Paneer Chilly Dry", "price": "\u20b9129", "image": "" },
+  { "name": "Paneer Manchurian", "price": "\u20b9129", "image": "" },
+  { "name": "Paneer Pepper Dry", "price": "\u20b9129", "image": "" },
+  { "name": "Ceylon Parotta", "price": "\u20b935", "image": "" },
+  { "name": "Chicken Kheema Parota", "price": "\u20b9150", "image": "" },
+  { "name": "Coin Parotta", "price": "\u20b928", "image": "" },
+  { "name": "Dry Chapathi", "price": "\u20b923", "image": "" },
+  { "name": "Egg Parotta", "price": "\u20b9120", "image": "" },
+  { "name": "Ghee Chapathi", "price": "\u20b945", "image": "" },
+  { "name": "Imperio Mix Parotta", "price": "\u20b9140", "image": "" },
+  { "name": "Kerala Parotta", "price": "\u20b935", "image": "" },
+  { "name": "Malabar Parotta", "price": "\u20b925", "image": "" },
+  { "name": "Wheat Parotta", "price": "\u20b935", "image": "" },
+  { "name": "Butter Kulcha", "price": "\u20b955", "image": "" },
+  { "name": "Butter Roti", "price": "\u20b945", "image": "" },
+  { "name": "Kulcha", "price": "\u20b940", "image": "" },
+  { "name": "Tandoori Parotta", "price": "\u20b940", "image": "" },
+  { "name": "Tandoori Roti", "price": "\u20b935", "image": "" },
+  { "name": "Butter Naan", "price": "\u20b955", "image": "" },
+  { "name": "Masala Naan", "price": "\u20b975", "image": "" },
+  { "name": "Tandoori Naan", "price": "\u20b940", "image": "" },
+  { "name": "Aloo Parotta", "price": "\u20b985", "image": "" },
+  { "name": "Romali Rotti", "price": "\u20b935", "image": "" },
+  { "name": "Chicken Fried Rice", "price": "\u20b9165", "image": "" },
+  { "name": "Chicken Schezwan Fried Rice", "price": "\u20b9184", "image": "" },
+  { "name": "Egg Fried Rice", "price": "\u20b9164", "image": "" },
+  { "name": "Egg Schezwan Fried Rice", "price": "\u20b9174", "image": "" },
+  { "name": "Mutton Fried Rice", "price": "\u20b9185", "image": "" },
+  { "name": "Mutton Schezwan Fried Rice", "price": "\u20b9195", "image": "" },
+  { "name": "Prawns Fried Rice", "price": "\u20b9185", "image": "" },
+  { "name": "Prawns Schezwan Fried Rice", "price": "\u20b9195", "image": "" },
+  { "name": "Paneer Fried Rice", "price": "\u20b9154", "image": "" },
+  { "name": "Veg Fried Rice", "price": "\u20b9145", "image": "" },
+  { "name": "Veg Schezwan Fried Rice", "price": "\u20b9165", "image": "" },
+  { "name": "Baby Corn Fried Rice", "price": "\u20b9144", "image": "" },
+  {
+    "name": "Baby Corn Schezwan Fried Rice",
+    "price": "\u20b9154",
+    "image": ""
+  },
+  { "name": "Mushroom Fried Rice", "price": "\u20b9154", "image": "" },
+  { "name": "Mushroom Schezwan Fried Rice", "price": "\u20b9185", "image": "" },
+  { "name": "Chicken Noodles", "price": "\u20b9165", "image": "" },
+  { "name": "Chicken Schezwan Noodles", "price": "\u20b9184", "image": "" },
+  { "name": "Egg Noodles", "price": "\u20b9149", "image": "" },
+  { "name": "Egg Schezwan Noodles", "price": "\u20b9174", "image": "" },
+  { "name": "Mutton Noodles", "price": "\u20b9185", "image": "" },
+  { "name": "Mutton Schezwan Noodles", "price": "\u20b9125", "image": "" },
+  { "name": "Prawns Noodles", "price": "\u20b9185", "image": "" },
+  { "name": "Prawns Schezwan Noodles", "price": "\u20b9179", "image": "" },
+  { "name": "Paneer Noodles", "price": "\u20b9165", "image": "" },
+  { "name": "Veg Noodles", "price": "\u20b9130", "image": "" },
+  { "name": "Veg Schezwan Noodles", "price": "\u20b9150", "image": "" },
+  { "name": "Baby Corn Noodles", "price": "\u20b9129", "image": "" },
+  { "name": "Baby Corn Schezwan Noodles", "price": "\u20b9110", "image": "" },
+  { "name": "Mushroom Noodles", "price": "\u20b9139", "image": "" },
+  { "name": "Mushroom Schezwan Noodles", "price": "\u20b9160", "image": "" },
+  { "name": "Mix Veg Noodles", "price": "\u20b9129", "image": "" },
+  { "name": "Boneless Butter Chicken", "price": "\u20b9175", "image": "" },
+  { "name": "Butter Chicken", "price": "\u20b9145", "image": "" },
+  { "name": "Chicken Achari", "price": "\u20b9184", "image": "" },
+  { "name": "Boneless Chicken Achari", "price": "\u20b9194", "image": "" },
+  { "name": "Chicken Curry", "price": "\u20b9145", "image": "" },
+  { "name": "Boneless Chicken Curry", "price": "\u20b9155", "image": "" },
+  { "name": "Chicken Handi", "price": "\u20b9184", "image": "" },
+  { "name": "Boneless Chicken Handi", "price": "\u20b9194", "image": "" },
+  { "name": "Chicken Hyderabadi", "price": "\u20b9155", "image": "" },
+  { "name": "Boneless Chicken Hyderabadi", "price": "\u20b9155", "image": "" },
+  { "name": "Chicken Kolhapuri", "price": "\u20b9184", "image": "" },
+  { "name": "Boneless Chicken Kolhapuri", "price": "\u20b9184", "image": "" },
+  { "name": "Chicken Kurma", "price": "\u20b9174", "image": "" },
+  { "name": "Boneless Chicken Kurma", "price": "\u20b9174", "image": "" },
+  { "name": "Chicken Keema Semi Dry", "price": "\u20b9145", "image": "" },
+  { "name": "Chicken Masala", "price": "\u20b9169", "image": "" },
+  { "name": "Boneless Chicken Masala", "price": "\u20b9194", "image": "" },
+  { "name": "Chicken Muglai", "price": "\u20b9174", "image": "" },
+  { "name": "Boneless Chicken Muglai", "price": "\u20b9194", "image": "" },
+  { "name": "Chicken Tandoori Masala", "price": "\u20b9204", "image": "" },
+  {
+    "name": "Boneless Chicken Tikka Masala",
+    "price": "\u20b9184",
+    "image": ""
+  },
+  { "name": "Chicken Varval", "price": "\u20b9159", "image": "" },
+  { "name": "Boneless Chicken Varval", "price": "\u20b9184", "image": "" },
+  { "name": "Kadai Chicken", "price": "\u20b9174", "image": "" },
+  {
+    "name": "Boneless Kadai Chicken Boneless",
+    "price": "\u20b9174",
+    "image": ""
+  },
+  { "name": "Pepper Chicken Masala", "price": "\u20b9174", "image": "" },
+  {
+    "name": "Boneless Pepper Chicken Masala",
+    "price": "\u20b9184",
+    "image": ""
+  },
+  { "name": "Mutton Curry", "price": "\u20b9170", "image": "" },
+  {
+    "name": "Boneless Mutton Curry",
+    "price": "\u20b9185",
+    "image": "https://b.zmtcdn.com/data/dish_photos/a8e/31289a791a2144ed7d8684c551a2ba8e.png?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Mutton Handi",
+    "price": "\u20b9160",
+    "image": "https://b.zmtcdn.com/data/dish_photos/74c/bc060e93b1fa1c58fa1cbda48fdb574c.png?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Boneless Mutton Handi",
+    "price": "\u20b9185",
+    "image": "https://b.zmtcdn.com/data/dish_photos/721/11bba80355517d67c76a6af9addd2721.png?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Mutton Kadai",
+    "price": "\u20b9160",
+    "image": "https://b.zmtcdn.com/data/dish_photos/b9d/06425612c9ad75ad19b2483bd62c1b9d.png?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Boneless Mutton Kadai",
+    "price": "\u20b9190",
+    "image": "https://b.zmtcdn.com/data/dish_photos/08a/b38a49083ea89cd455bd8c97cd95c08a.png?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  { "name": "Mutton Kurma", "price": "\u20b9160", "image": "" },
+  {
+    "name": "Boneless Mutton Kurma",
+    "price": "\u20b9190",
+    "image": "https://b.zmtcdn.com/data/dish_photos/d15/db347cd363f8e0a81405a442ddcbed15.png?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Mutton Masala",
+    "price": "\u20b9160",
+    "image": "https://b.zmtcdn.com/data/dish_photos/af2/61ecaa595b5f06fed23469cc9927faf2.png?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Boneless Mutton Masala",
+    "price": "\u20b9190",
+    "image": "https://b.zmtcdn.com/data/dish_photos/b28/c6031b96e9d27606a3b7d1156ff6bb28.png?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Mutton Varval",
+    "price": "\u20b9160",
+    "image": "https://b.zmtcdn.com/data/dish_photos/6c1/feff2c2528f7880a9cf8badc90ffb6c1.png?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Boneless Mutton Varval",
+    "price": "\u20b9190",
+    "image": "https://b.zmtcdn.com/data/dish_photos/297/426f520e4aa09df6d41cd603c4f86297.png?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  { "name": "Pepper Mutton Masala", "price": "\u20b9160", "image": "" },
+  {
+    "name": "Boneless Pepper Mutton Masala",
+    "price": "\u20b9190",
+    "image": "https://b.zmtcdn.com/data/dish_photos/9d9/b4576226a330e04e31dfe9197ef8c9d9.png?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Mutton Kolhapuri Masala",
+    "price": "\u20b9160",
+    "image": "https://b.zmtcdn.com/data/dish_photos/7bc/fa7bcceab2fb16234ecaae6005f9a7bc.png?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Alu Masala",
+    "price": "\u20b9110",
+    "image": "https://b.zmtcdn.com/data/dish_photos/6f9/7814806d4f2c13f7f5062af52ab036f9.png?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Alu Palak",
+    "price": "\u20b9110",
+    "image": "https://b.zmtcdn.com/data/dish_photos/94f/beb72ad2874a8a5d94e876e7baf1494f.png?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Dal Fry",
+    "price": "\u20b980",
+    "image": "https://b.zmtcdn.com/data/dish_photos/bd0/86e9c64a24e96f2059a6d0ce63677bd0.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Dal Palak",
+    "price": "\u20b990",
+    "image": "https://b.zmtcdn.com/data/dish_photos/cf7/87e4551650289dd08a86a03f126c5cf7.png?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Dal Tadka",
+    "price": "\u20b990",
+    "image": "https://b.zmtcdn.com/data/dish_photos/aaa/cf6db63341b22adb9b85d0142ef42aaa.png?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Kadai Paneer",
+    "price": "\u20b9130",
+    "image": "https://b.zmtcdn.com/data/dish_photos/0b0/d6e241e3c26fa8540bd2c7d44a3870b0.png?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Mushroom Kadai",
+    "price": "\u20b9130",
+    "image": "https://b.zmtcdn.com/data/dish_photos/9e0/b4bb55fc9f213629ba46658c86fc09e0.png?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Mushroom Masala",
+    "price": "\u20b9130",
+    "image": "https://b.zmtcdn.com/data/dish_photos/6bc/a1c47bbc1fba66f97ee704f0413b86bc.png?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  { "name": "Palak Paneer", "price": "\u20b9120", "image": "" },
+  {
+    "name": "Paneer Butter Masala",
+    "price": "\u20b9130",
+    "image": "https://b.zmtcdn.com/data/dish_photos/72d/3206c9efc369d62601c26cdc569b372d.png?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Paneer Tikka Masala",
+    "price": "\u20b9139",
+    "image": "https://b.zmtcdn.com/data/dish_photos/f9d/df0a645ce364370097a9c18e1a1caf9d.png?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Plain Palak",
+    "price": "\u20b9120",
+    "image": "https://b.zmtcdn.com/data/dish_photos/d43/3a972adc375fae75ed9772f4cdd29d43.png?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Raitha",
+    "price": "\u20b9120",
+    "image": "https://b.zmtcdn.com/data/dish_photos/687/687b09833c259ab5f364fea159522687.png?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Veg Curry",
+    "price": "\u20b990",
+    "image": "https://b.zmtcdn.com/data/dish_photos/757/ccbffcf95ea48dc393b007f7eccb9757.png?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  { "name": "Veg Kadai", "price": "\u20b9120", "image": "" },
+  {
+    "name": "Veg Kolhapuri",
+    "price": "\u20b9120",
+    "image": "https://b.zmtcdn.com/data/dish_photos/5f5/d3d81e5514524776d95b82afaca845f5.png?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Veg Kurma",
+    "price": "\u20b9120",
+    "image": "https://b.zmtcdn.com/data/dish_photos/099/8c06120da2be347bdd9fa7df51b23099.png?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Veg Sandwich",
+    "price": "\u20b985",
+    "image": "https://b.zmtcdn.com/data/dish_photos/851/9162f0e619bf135bdb21257a644a4851.png?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Paneer Sandwich",
+    "price": "\u20b995",
+    "image": "https://b.zmtcdn.com/data/dish_photos/4d0/ce04714b503a1db6d6d0834cafb554d0.png?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Cheese Sandwich",
+    "price": "\u20b995",
+    "image": "https://b.zmtcdn.com/data/dish_photos/064/59781e33b86acb99f28564203ff01064.png?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Chicken Sandwich",
+    "price": "\u20b999",
+    "image": "https://b.zmtcdn.com/data/dish_photos/fc5/c10aba0d7da15643dd15de584c9f5fc5.png?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Chicken Cheese Sandwich",
+    "price": "\u20b995",
+    "image": "https://b.zmtcdn.com/data/dish_photos/d32/fd6a7a57f148918ae3df2ec771564d32.png?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Egg Bolied Sandwich",
+    "price": "\u20b985",
+    "image": "https://b.zmtcdn.com/data/dish_photos/df4/2ba6e50a375bb2994cb4a3e4bddcedf4.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Spicy Chicken Sandwich",
+    "price": "\u20b995",
+    "image": "https://b.zmtcdn.com/data/dish_photos/82a/b5fcc94bbccf1cd2ceb007848657182a.png?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Chicken Tikka Sandwich",
+    "price": "\u20b999",
+    "image": "https://b.zmtcdn.com/data/dish_photos/df4/2ba6e50a375bb2994cb4a3e4bddcedf4.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  { "name": "Veg Cheese Sandwich", "price": "\u20b995", "image": "" },
+  {
+    "name": "3 In 1 With Nuts",
+    "price": "\u20b9199",
+    "image": "https://b.zmtcdn.com/data/dish_photos/848/0f99103c8e7b6672425eb180db0f9848.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Chocolate Fudge",
+    "price": "\u20b9199",
+    "image": "https://b.zmtcdn.com/data/dish_photos/3c4/2157e7832ce3be8d8b3d62556d1c23c4.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Death By Chocolate",
+    "price": "\u20b9199",
+    "image": "https://b.zmtcdn.com/data/dish_photos/b96/d90a2c56556b74151ad9458e34b24b96.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Dry Fruit Sundae",
+    "price": "\u20b9199",
+    "image": "https://b.zmtcdn.com/data/dish_photos/b75/f832b80cec138c5bb855b83a780a9b75.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  { "name": "Gudbud With Icecream", "price": "\u20b9179", "image": "" },
+  {
+    "name": "Royal Park",
+    "price": "\u20b9199",
+    "image": "https://b.zmtcdn.com/data/dish_photos/3cf/ab4081eefab3e9d616ed002e148523cf.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Mango Punch",
+    "price": "\u20b9139",
+    "image": "https://b.zmtcdn.com/data/dish_photos/566/da061ef857a40b9c120cc90fccec5566.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Strawberry Fudge",
+    "price": "\u20b9199",
+    "image": "https://b.zmtcdn.com/data/dish_photos/574/39c2907bb59a2875a22b754c0119c574.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Kiwi Fruit Sundae",
+    "price": "\u20b9199",
+    "image": "https://b.zmtcdn.com/data/dish_photos/3f9/c2586cfb52f896ff323d97d7ebf4f3f9.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Mango Malba",
+    "price": "\u20b9159",
+    "image": "https://b.zmtcdn.com/data/dish_photos/585/2fff96d72fabc403561a19e3b4f2b585.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Fruit Salad With Ice Cream",
+    "price": "\u20b9145",
+    "image": "https://b.zmtcdn.com/data/dish_photos/d2c/3114eac6b64f75476b5cebe5a61b9d2c.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Fruit Salad Without Ice Cream",
+    "price": "\u20b9129",
+    "image": "https://b.zmtcdn.com/data/dish_photos/19d/906195ee475680c9d060228b41f9919d.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Vanilla Icecream ( 2 Scoops )",
+    "price": "\u20b9139",
+    "image": "https://b.zmtcdn.com/data/dish_photos/4a9/453346d0f00e488b2bfa5bc8763fa4a9.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Butter Scotch Icecream ( 2 Scoops )",
+    "price": "\u20b9139",
+    "image": "https://b.zmtcdn.com/data/dish_photos/11e/e54ab6c6cd1c6d1e39cea13eddc7b11e.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Mango Icecream ( 2 Scoops )",
+    "price": "\u20b9139",
+    "image": "https://b.zmtcdn.com/data/dish_photos/884/d7d8586aa317b22edd8ccc5c025b1884.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  { "name": "Pista Icecream ( 2 Scoops )", "price": "\u20b9139", "image": "" },
+  {
+    "name": "Strawberry Icecream ( 2 Scoops )",
+    "price": "\u20b9139",
+    "image": "https://b.zmtcdn.com/data/dish_photos/ba9/3bb996126eba2d353fc91b0c5765eba9.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Chocolate Icecream ( 2 Scoops )",
+    "price": "\u20b9139",
+    "image": "https://b.zmtcdn.com/data/dish_photos/edd/903aed4f8262ebf86e62b7fc5abb8edd.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Tutti Fruity Icecream ( 2 Scoops )",
+    "price": "\u20b9139",
+    "image": "https://b.zmtcdn.com/data/dish_photos/0a6/13b444ea5ee3114ef94e261c9db520a6.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Delight Icecream ( 2 Scoops )",
+    "price": "\u20b9139",
+    "image": "https://b.zmtcdn.com/data/dish_photos/e00/ccf15b2f2e424d35215cfddb9f1c2e00.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Figg & Honey Icecream ( 2 Scoops )",
+    "price": "\u20b9139",
+    "image": "https://b.zmtcdn.com/data/dish_photos/e00/ccf15b2f2e424d35215cfddb9f1c2e00.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Black Current Icecream ( 2 Scoops )",
+    "price": "\u20b9139",
+    "image": ""
+  },
+  { "name": "Falooda Fruity", "price": "\u20b9149", "image": "" },
+  { "name": "Kashmir Falooda", "price": "\u20b9159", "image": "" },
+  { "name": "Pistah Falooda", "price": "\u20b9159", "image": "" },
+  { "name": "Royal Falooda", "price": "\u20b9159", "image": "" },
+  { "name": "Kesar Badam Kulfi", "price": "\u20b966", "image": "" },
+  { "name": "Special Falooda Jar", "price": "\u20b9149", "image": "" },
+  { "name": "Cucumber Mojito", "price": "\u20b9129", "image": "" },
+  { "name": "Green Apple Mojito", "price": "\u20b9129", "image": "" },
+  { "name": "Blue Curacao Mojito", "price": "\u20b9129", "image": "" },
+  { "name": "Strawberry Mojito", "price": "\u20b9129", "image": "" },
+  { "name": "Watermilon Mojito", "price": "\u20b9129", "image": "" },
+  { "name": "Mojito Mint", "price": "\u20b9129", "image": "" },
+  { "name": "Raspberry Mojito", "price": "\u20b9129", "image": "" },
+  { "name": "Chocolate Coffee", "price": "\u20b9139", "image": "" },
+  { "name": "Cold Coffee", "price": "\u20b9139", "image": "" },
+  { "name": "Scotch Coffee", "price": "\u20b9139", "image": "" },
+  { "name": "Anjeer Lassi", "price": "\u20b999", "image": "" },
+  { "name": "Black Current Lassi", "price": "\u20b999", "image": "" },
+  { "name": "Chocolate Lassi", "price": "\u20b999", "image": "" },
+  { "name": "Dry Fruit Lassi", "price": "\u20b999", "image": "" },
+  { "name": "Mango Lassi", "price": "\u20b999", "image": "" },
+  { "name": "Royal Lassi", "price": "\u20b999", "image": "" },
+  { "name": "Sweet Lassi", "price": "\u20b999", "image": "" },
+  { "name": "Lassi Combo ( 3 Flavours )", "price": "\u20b9199", "image": "" },
+  { "name": "Lassi Combo ( 5 Flavours )", "price": "\u20b9299", "image": "" },
+  { "name": "Anar Milk Shake", "price": "\u20b9109", "image": "" },
+  { "name": "Anjeer Milk Shake", "price": "\u20b9119", "image": "" },
+  { "name": "Apple Milk Shake", "price": "\u20b9109", "image": "" },
+  { "name": "Banana Milk Shake", "price": "\u20b9109", "image": "" },
+  { "name": "Chikkoo Milk Shake", "price": "\u20b9109", "image": "" },
+  { "name": "Chocalate Milk Shake", "price": "\u20b9169", "image": "" },
+  { "name": "Chocloate Banana Milk Shake", "price": "\u20b9119", "image": "" },
+  {
+    "name": "Cocktail Milk Shake",
+    "price": "\u20b9119",
+    "image": "https://b.zmtcdn.com/data/dish_photos/12b/25c71124892bc27594d7434cef52a12b.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Mango Milk Shake",
+    "price": "\u20b9109",
+    "image": "https://b.zmtcdn.com/data/dish_photos/83c/5785e65c15992367dd258e510d6ff83c.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Musk Melon Milk Shake",
+    "price": "\u20b9109",
+    "image": "https://b.zmtcdn.com/data/dish_photos/91e/7dd28b3a0dc1851c7229116afbecf91e.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Oreo Milk Shake",
+    "price": "\u20b9139",
+    "image": "https://b.zmtcdn.com/data/dish_photos/651/29c8388abc9dc52e0a3ba766d19d9651.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Papaya Milk Shake",
+    "price": "\u20b9109",
+    "image": "https://b.zmtcdn.com/data/dish_photos/916/5773013ddbfaf04b2d2aada74895b916.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Pista Milk Shake",
+    "price": "\u20b9169",
+    "image": "https://b.zmtcdn.com/data/dish_photos/a49/3bfc75b194e188f399ecfd070f649a49.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  { "name": "Rose Milk Milk Shake", "price": "\u20b9109", "image": "" },
+  { "name": "Sharjah Milk Shake", "price": "\u20b9129", "image": "" },
+  { "name": "Strawberry Milk Shake", "price": "\u20b9169", "image": "" },
+  { "name": "Vanilla Milk Shake", "price": "\u20b9169", "image": "" },
+  { "name": "Special Rose Milk Shake", "price": "\u20b9109", "image": "" },
+  { "name": "Tender Coconut Milkshake", "price": "\u20b9109", "image": "" },
+  { "name": "Royal Dry Fruit Milk Shake", "price": "\u20b9169", "image": "" },
+  { "name": "Blue Lime Soda", "price": "\u20b969", "image": "" },
+  { "name": "Ginger Lime Soda", "price": "\u20b969", "image": "" },
+  { "name": "Jal Jeera Soda", "price": "\u20b970", "image": "" },
+  { "name": "Jeera Masala Soda", "price": "\u20b970", "image": "" },
+  { "name": "Jeera Mint Soda", "price": "\u20b970", "image": "" },
+  { "name": "Lime Soda", "price": "\u20b960", "image": "" },
+  { "name": "Mexican Soda", "price": "\u20b970", "image": "" },
+  { "name": "Mint Lime Soda", "price": "\u20b970", "image": "" },
+  { "name": "Red Lime Soda", "price": "\u20b970", "image": "" },
+  { "name": "Anar Juice", "price": "\u20b9109", "image": "" },
+  { "name": "Arebian Grape Juice", "price": "\u20b999", "image": "" },
+  { "name": "Kiwi Juice", "price": "\u20b999", "image": "" },
+  { "name": "Lime Juice", "price": "\u20b950", "image": "" },
+  { "name": "Mint Lime Juice", "price": "\u20b960", "image": "" },
+  { "name": "Mosambi Juice", "price": "\u20b999", "image": "" },
+  { "name": "Musk Melon Juice", "price": "\u20b999", "image": "" },
+  { "name": "Pineapple Juice", "price": "\u20b999", "image": "" },
+  { "name": "Watermelon Juice", "price": "\u20b999", "image": "" },
+  { "name": "Grape juice", "price": "\u20b999", "image": "" },
+  { "name": "Fresh Mango Juice", "price": "\u20b999", "image": "" }
+]

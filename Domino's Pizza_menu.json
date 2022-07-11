@@ -1,0 +1,792 @@
+[
+  {
+    "name": "Non Veg Loaded",
+    "price": "\u20b9179",
+    "image": "https://b.zmtcdn.com/data/dish_photos/05b/9ad3bf1b3b9680d315d2841c2b71405b.png?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Pepper Barbecue Chicken",
+    "price": "\u20b9125",
+    "image": "https://b.zmtcdn.com/data/dish_photos/3ea/b4a3ce93ec36396c5248b0dd18c393ea.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Indi Tandoori Paneer",
+    "price": "\u20b9319",
+    "image": "https://b.zmtcdn.com/data/dish_photos/665/febfde767bd3543e6b8d9094f2531665.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Paneer & Onion",
+    "price": "\u20b9125",
+    "image": "https://b.zmtcdn.com/data/dish_photos/e9a/175ba829bfae3a0eceee540e15329e9a.png?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Farmhouse",
+    "price": "\u20b9269",
+    "image": "https://b.zmtcdn.com/data/dish_photos/a3d/7ca006ec8907c2ae13fd006cf0853a3d.png?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Moroccan Spice Pasta Pizza - Veg",
+    "price": "\u20b9189",
+    "image": ""
+  },
+  {
+    "name": "Chicken Sausage",
+    "price": "\u20b9209",
+    "image": "https://b.zmtcdn.com/data/dish_photos/d2a/c18538736a55b9dc57945345cd306d2a.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Choco Lava Cake",
+    "price": "\u20b9109",
+    "image": "https://b.zmtcdn.com/data/dish_photos/9d2/0fa448c8d1113386c031b9e57095e9d2.png?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Garlic Breadsticks",
+    "price": "\u20b9109",
+    "image": "https://b.zmtcdn.com/data/dish_photos/03b/787727453bd857cff70be6560bfb603b.png?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Pepsi (500ml)",
+    "price": "\u20b957.14",
+    "image": "https://b.zmtcdn.com/data/dish_photos/835/6a3cd91ddf842a6c4671c3aad9d41835.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Veg Parcel",
+    "price": "\u20b945",
+    "image": "https://b.zmtcdn.com/data/dish_photos/be2/66f67dd17a8aa5d9ca828c732a696be2.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Cheesy",
+    "price": "\u20b9115",
+    "image": "https://b.zmtcdn.com/data/dish_photos/029/1337a0025935951df41d0d16b1b01029.png?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Chicken Maximus",
+    "price": "\u20b9399",
+    "image": "https://b.zmtcdn.com/data/dish_photos/152/e90f19ee75c9b1c548ebba9a082be152.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Chicken Parcel",
+    "price": "\u20b955",
+    "image": "https://b.zmtcdn.com/data/dish_photos/fda/59ce33aed3ca481649123657d3f27fda.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Onion",
+    "price": "\u20b975",
+    "image": "https://b.zmtcdn.com/data/dish_photos/7e0/3d11c50d64f2057d4d7499731a3a87e0.png?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Peppy Paneer",
+    "price": "\u20b9269",
+    "image": "https://b.zmtcdn.com/data/dish_photos/410/06c9dcc4f29d4c1ef77171844560a410.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Meal for 4: Veg Pizza Mania Party Combo",
+    "price": "\u20b9451",
+    "image": "https://b.zmtcdn.com/data/dish_photos/c28/6baa33c6b4a02ec9db5d8640abae3c28.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Double Cheese Margherita",
+    "price": "\u20b9219",
+    "image": "https://b.zmtcdn.com/data/dish_photos/f47/db2fb46200a9d41110d7a552e4f69f47.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Boneless Chicken Wings Peri-Peri",
+    "price": "\u20b9189",
+    "image": "https://b.zmtcdn.com/data/dish_photos/099/4997ab8fc381e1df6866d5370fb8d099.png?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Indi Chicken Tikka",
+    "price": "\u20b9369",
+    "image": "https://b.zmtcdn.com/data/dish_photos/9ba/e49151f4532f1dd3200f5f20839a69ba.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Chicken Pepperoni",
+    "price": "\u20b9369",
+    "image": "https://b.zmtcdn.com/data/dish_photos/374/239089cbab2704d08c570a0d6854e374.png?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "The 4 Cheese Pizza",
+    "price": "\u20b9349",
+    "image": "https://b.zmtcdn.com/data/dish_photos/bac/fa9897b2639fab22862c1ef36db20bac.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "The Cheese Dominator",
+    "price": "\u20b9349",
+    "image": "https://b.zmtcdn.com/data/dish_photos/90f/65d0843e1ded20ff18f82b743af2490f.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Classic Non Veg Buddy Combo",
+    "price": "\u20b9161",
+    "image": "https://b.zmtcdn.com/data/dish_photos/07e/94d8e70f1d9bc24ca0c32844886a907e.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "The Unthinkable Pizza",
+    "price": "\u20b9319",
+    "image": "https://b.zmtcdn.com/data/dish_photos/39d/39f1b9e0ac64810d2a56f6ae0232339d.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Potato Cheese Shots",
+    "price": "\u20b979",
+    "image": "https://b.zmtcdn.com/data/dish_photos/329/de7738bb3caffca0996376540dc31329.png?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Chicken Meatballs Peri-Peri Sauce",
+    "price": "\u20b9155",
+    "image": "https://b.zmtcdn.com/data/dish_photos/514/173f4c11b9ef3096bd8ee183d39ff514.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Value Combo: 1 Garlic Bread and 1 Choco Lava Cake",
+    "price": "\u20b9198",
+    "image": "https://b.zmtcdn.com/data/dish_photos/b59/724acb71de1cfcb19d555bd79744eb59.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Paneer Tikka Stuffed Garlic Bread",
+    "price": "\u20b9169",
+    "image": ""
+  },
+  {
+    "name": "Chicken Pepperoni Stuffed Garlic Bread",
+    "price": "\u20b9169",
+    "image": "https://b.zmtcdn.com/data/dish_photos/17f/731e22c58e4b9571db474c7099b1817f.png?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Paneer Paratha Pizza",
+    "price": "\u20b9219",
+    "image": "https://b.zmtcdn.com/data/dish_photos/81e/08507f103a5d23b3ce04d69f16d3e81e.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Chicken Keema Paratha Pizza",
+    "price": "\u20b9259",
+    "image": "https://b.zmtcdn.com/data/dish_photos/b5b/9506b693e0af620b996ee178a0298b5b.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "The 4 Cheese Pizza",
+    "price": "\u20b9349",
+    "image": "https://b.zmtcdn.com/data/dish_photos/bac/fa9897b2639fab22862c1ef36db20bac.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Spiced Double Chicken",
+    "price": "\u20b9309",
+    "image": "https://b.zmtcdn.com/data/dish_photos/129/f59f38cb1800193ccf196f1f9646b129.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Chicken Maximus",
+    "price": "\u20b9399",
+    "image": "https://b.zmtcdn.com/data/dish_photos/152/e90f19ee75c9b1c548ebba9a082be152.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "The 5 Chicken Feast Pizza",
+    "price": "\u20b9399",
+    "image": "https://b.zmtcdn.com/data/dish_photos/4e2/f3b7422765e4b85e212099c3e4ded4e2.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Indo Fusion Chicken Pizza",
+    "price": "\u20b9399",
+    "image": "https://b.zmtcdn.com/data/dish_photos/b4b/075e3ca67da88b2883c41b44facbab4b.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "The Cheese Dominator",
+    "price": "\u20b9349",
+    "image": "https://b.zmtcdn.com/data/dish_photos/90f/65d0843e1ded20ff18f82b743af2490f.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Paneer Tikka Stuffed Garlic Bread",
+    "price": "\u20b9169",
+    "image": "https://b.zmtcdn.com/data/dish_photos/b50/cd8771aa298ee2eddb5610395e4bcb50.png?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Chicken Pepperoni Stuffed Garlic Bread",
+    "price": "\u20b9169",
+    "image": "https://b.zmtcdn.com/data/dish_photos/17f/731e22c58e4b9571db474c7099b1817f.png?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Red Velvet Lava Cake",
+    "price": "\u20b9139",
+    "image": "https://b.zmtcdn.com/data/dish_photos/529/6bb15cdb281e3da5627147e0dd8a2529.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "The Unthinkable Pizza",
+    "price": "\u20b9319",
+    "image": "https://b.zmtcdn.com/data/dish_photos/39d/39f1b9e0ac64810d2a56f6ae0232339d.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Paneer Paratha Pizza",
+    "price": "\u20b9219",
+    "image": "https://b.zmtcdn.com/data/dish_photos/81e/08507f103a5d23b3ce04d69f16d3e81e.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Chicken Keema Paratha Pizza",
+    "price": "\u20b9259",
+    "image": "https://b.zmtcdn.com/data/dish_photos/b5b/9506b693e0af620b996ee178a0298b5b.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Creamy Tomato Pasta Pizza - Veg",
+    "price": "\u20b9269",
+    "image": ""
+  },
+  {
+    "name": "Moroccan Spice Pasta Pizza - Veg",
+    "price": "\u20b9189",
+    "image": "https://b.zmtcdn.com/data/dish_photos/7bf/5c4d9929d3455665e9410609eea297bf.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Paneer Paratha Pizza",
+    "price": "\u20b9219",
+    "image": "https://b.zmtcdn.com/data/dish_photos/81e/08507f103a5d23b3ce04d69f16d3e81e.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "The Cheese Dominator",
+    "price": "\u20b9349",
+    "image": "https://b.zmtcdn.com/data/dish_photos/90f/65d0843e1ded20ff18f82b743af2490f.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "The 4 Cheese Pizza",
+    "price": "\u20b9349",
+    "image": "https://b.zmtcdn.com/data/dish_photos/bac/fa9897b2639fab22862c1ef36db20bac.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Margherita",
+    "price": "\u20b9109",
+    "image": "https://b.zmtcdn.com/data/dish_photos/f47/db2fb46200a9d41110d7a552e4f69f47.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  { "name": "Double Cheese Margherita", "price": "\u20b9219", "image": "" },
+  {
+    "name": "Farmhouse",
+    "price": "\u20b9269",
+    "image": "https://b.zmtcdn.com/data/dish_photos/a3d/7ca006ec8907c2ae13fd006cf0853a3d.png?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Peppy Paneer",
+    "price": "\u20b9269",
+    "image": "https://b.zmtcdn.com/data/dish_photos/410/06c9dcc4f29d4c1ef77171844560a410.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Mexican Green Wave",
+    "price": "\u20b9269",
+    "image": "https://b.zmtcdn.com/data/dish_photos/88d/5ef2c365e674702a912387184ff3c88d.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Fresh Veggie",
+    "price": "\u20b9219",
+    "image": "https://b.zmtcdn.com/data/dish_photos/aaf/8bacfcb74be6aa7d5a8e935d5d14faaf.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Paneer Makhani",
+    "price": "\u20b9319",
+    "image": "https://b.zmtcdn.com/data/dish_photos/167/9bb5bd3a9091dfff002a6bc953c2c167.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  { "name": "Indi Tandoori Paneer", "price": "\u20b9319", "image": "" },
+  {
+    "name": "Cheese n Tomato",
+    "price": "\u20b9219",
+    "image": "https://b.zmtcdn.com/data/dish_photos/2a8/7f830f98efe5c4aa7b8005f60f0ec2a8.png?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Achari Do Pyaza",
+    "price": "\u20b9189",
+    "image": "https://b.zmtcdn.com/data/dish_photos/71d/a1c0b853e1efe132feb04c0ce277e71d.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "The Unthinkable Pizza",
+    "price": "\u20b9319",
+    "image": "https://b.zmtcdn.com/data/dish_photos/39d/39f1b9e0ac64810d2a56f6ae0232339d.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Pepsi (500ml)",
+    "price": "\u20b957.14",
+    "image": "https://b.zmtcdn.com/data/dish_photos/835/6a3cd91ddf842a6c4671c3aad9d41835.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  { "name": "7Up (500ml)", "price": "\u20b957.14", "image": "" },
+  {
+    "name": "Mirinda (500ml)",
+    "price": "\u20b957.14",
+    "image": "https://b.zmtcdn.com/data/dish_photos/1be/e14c758cec8df918d5e628dfaa3aa1be.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Pepsi Black Can",
+    "price": "\u20b957.14",
+    "image": "https://b.zmtcdn.com/data/dish_photos/e30/5fb87df8d7edd4a0ab223e099a871e30.png?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "B Natural Alphonsos from Ratnagiri (300 ml)",
+    "price": "\u20b966.67",
+    "image": "https://b.zmtcdn.com/data/dish_photos/e7b/e1693e5f0edabae2ab2b70992b0fce7b.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "B Natural Pink Guavas from Dakshin India (300 ml)",
+    "price": "\u20b966.67",
+    "image": "https://b.zmtcdn.com/data/dish_photos/f81/8b3526e3f649af048ad64d427c805f81.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "B Natural Mixed Fruit from Himalayas (300 ml)",
+    "price": "\u20b966.67",
+    "image": "https://b.zmtcdn.com/data/dish_photos/7a0/fb198c9f27756bfaaf34805a67fe37a0.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  { "name": "Bailley One (500ml)", "price": "\u20b919.05", "image": "" },
+  {
+    "name": "Nimbooz ( 350ml )",
+    "price": "\u20b957.14",
+    "image": "https://b.zmtcdn.com/data/dish_photos/eb0/59b15e686af81dbb72797ba7ccee4eb0.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Lipton Ice Tea ( 350 ml)",
+    "price": "\u20b957.14",
+    "image": "https://b.zmtcdn.com/data/dish_photos/e18/c1ad776387443fa5657558b17df01e18.png?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Creamy Tomato Pasta Pizza - Non Veg",
+    "price": "\u20b9289",
+    "image": "https://b.zmtcdn.com/data/dish_photos/b1f/b33c5c010ef9458bdf571b044553cb1f.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Moroccan Spice Pasta Pizza - Non Veg",
+    "price": "\u20b9289",
+    "image": "https://b.zmtcdn.com/data/dish_photos/a67/d9d8db012462fa5b69a2113ecfb9ea67.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  { "name": "Chicken Keema Paratha Pizza", "price": "\u20b9259", "image": "" },
+  {
+    "name": "Spiced Double Chicken",
+    "price": "\u20b9309",
+    "image": "https://b.zmtcdn.com/data/dish_photos/129/f59f38cb1800193ccf196f1f9646b129.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Chicken Maximus",
+    "price": "\u20b9399",
+    "image": "https://b.zmtcdn.com/data/dish_photos/152/e90f19ee75c9b1c548ebba9a082be152.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "The 5 Chicken Feast Pizza",
+    "price": "\u20b9399",
+    "image": "https://b.zmtcdn.com/data/dish_photos/4e2/f3b7422765e4b85e212099c3e4ded4e2.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Indo Fusion Chicken Pizza",
+    "price": "\u20b9399",
+    "image": "https://b.zmtcdn.com/data/dish_photos/b4b/075e3ca67da88b2883c41b44facbab4b.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Chicken Dominator",
+    "price": "\u20b9369",
+    "image": "https://b.zmtcdn.com/data/dish_photos/587/e49cb122543d7895346050a0c7528587.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  { "name": "Non Veg Supreme", "price": "\u20b9369", "image": "" },
+  {
+    "name": "Chicken Sausage",
+    "price": "\u20b9209",
+    "image": "https://b.zmtcdn.com/data/dish_photos/d2a/c18538736a55b9dc57945345cd306d2a.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Pepper Barbecue Chicken",
+    "price": "\u20b9259",
+    "image": "https://b.zmtcdn.com/data/dish_photos/bf5/a582280010d84ddc28abd0772c46ebf5.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Chicken Fiesta",
+    "price": "\u20b9319",
+    "image": "https://b.zmtcdn.com/data/dish_photos/619/adb19863d18166fcc63b03f7811c0619.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Chicken Pepperoni",
+    "price": "\u20b9369",
+    "image": "https://b.zmtcdn.com/data/dish_photos/374/239089cbab2704d08c570a0d6854e374.png?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Indi Chicken Tikka",
+    "price": "\u20b9369",
+    "image": "https://b.zmtcdn.com/data/dish_photos/9ba/e49151f4532f1dd3200f5f20839a69ba.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Keema Do Pyaza",
+    "price": "\u20b9259",
+    "image": "https://b.zmtcdn.com/data/dish_photos/f03/d3e34cfd6f2e911869c4e305c546df03.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Spiced Double Chicken",
+    "price": "\u20b9309",
+    "image": "https://b.zmtcdn.com/data/dish_photos/129/f59f38cb1800193ccf196f1f9646b129.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Indo Fusion Chicken Pizza",
+    "price": "\u20b9399",
+    "image": "https://b.zmtcdn.com/data/dish_photos/b4b/075e3ca67da88b2883c41b44facbab4b.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Chicken Maximus",
+    "price": "\u20b9399",
+    "image": "https://b.zmtcdn.com/data/dish_photos/152/e90f19ee75c9b1c548ebba9a082be152.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "The 5 Chicken Feast Pizza",
+    "price": "\u20b9399",
+    "image": "https://b.zmtcdn.com/data/dish_photos/4e2/f3b7422765e4b85e212099c3e4ded4e2.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Chicken Meatballs Peri-Peri Seasoning",
+    "price": "\u20b9155",
+    "image": "https://b.zmtcdn.com/data/dish_photos/a0c/b3961222b36e6888472a0d1fe866ba0c.png?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Boneless Chicken Wings Peri-Peri",
+    "price": "\u20b9189",
+    "image": "https://b.zmtcdn.com/data/dish_photos/099/4997ab8fc381e1df6866d5370fb8d099.png?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Chicken Meatballs Peri-Peri Sauce",
+    "price": "\u20b9155",
+    "image": "https://b.zmtcdn.com/data/dish_photos/514/173f4c11b9ef3096bd8ee183d39ff514.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Paneer Tikka Stuffed Garlic Bread",
+    "price": "\u20b9169",
+    "image": "https://b.zmtcdn.com/data/dish_photos/b50/cd8771aa298ee2eddb5610395e4bcb50.png?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Chicken Pepperoni Stuffed Garlic Bread",
+    "price": "\u20b9169",
+    "image": "https://b.zmtcdn.com/data/dish_photos/17f/731e22c58e4b9571db474c7099b1817f.png?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  { "name": "Red Velvet Lava Cake", "price": "\u20b9139", "image": "" },
+  {
+    "name": "Tomato Ketchup",
+    "price": "\u20b90.95",
+    "image": "https://b.zmtcdn.com/data/dish_photos/075/84be31f0253200e1613fc2a84782c075.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Garlic Breadsticks",
+    "price": "\u20b9109",
+    "image": "https://b.zmtcdn.com/data/dish_photos/03b/787727453bd857cff70be6560bfb603b.png?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Choco Lava Cake",
+    "price": "\u20b9109",
+    "image": "https://b.zmtcdn.com/data/dish_photos/9d2/0fa448c8d1113386c031b9e57095e9d2.png?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Cheesy Dip",
+    "price": "\u20b928.57",
+    "image": "https://b.zmtcdn.com/data/dish_photos/25a/5c3d3778ea3570a357fc533f2f82625a.png?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Cheesy Jalapeno Dip",
+    "price": "\u20b928.57",
+    "image": "https://b.zmtcdn.com/data/dish_photos/39e/71f99d65641c945cae5d460ddc1dd39e.png?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  { "name": "Butterscotch Mousse Cake", "price": "\u20b9103.81", "image": "" },
+  {
+    "name": "Chicken Parcel",
+    "price": "\u20b955",
+    "image": "https://b.zmtcdn.com/data/dish_photos/fda/59ce33aed3ca481649123657d3f27fda.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Burger Pizza - Classic Non Veg",
+    "price": "\u20b9169",
+    "image": "https://b.zmtcdn.com/data/dish_photos/bd7/80a97cf541b892fcfbade73768e8bbd7.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Burger Pizza - Classic Veg",
+    "price": "\u20b9125",
+    "image": "https://b.zmtcdn.com/data/dish_photos/818/1a6dfee94b54c82519f0c8cdd5452818.png?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Burger Pizza - Premium Veg",
+    "price": "\u20b9155",
+    "image": "https://b.zmtcdn.com/data/dish_photos/818/1a6dfee94b54c82519f0c8cdd5452818.png?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Crunchy Strips",
+    "price": "\u20b975",
+    "image": "https://b.zmtcdn.com/data/dish_photos/a6b/91fa371c0cb1d8f6d6f0744eb1bcda6b.png?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Potato Cheese Shots",
+    "price": "\u20b979",
+    "image": "https://b.zmtcdn.com/data/dish_photos/329/de7738bb3caffca0996376540dc31329.png?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Crinkle Fries",
+    "price": "\u20b975",
+    "image": "https://b.zmtcdn.com/data/dish_photos/44c/52883728a119234e22ae240592ccc44c.png?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Brownie Fantasy",
+    "price": "\u20b979",
+    "image": "https://b.zmtcdn.com/data/dish_photos/5d0/f9d46e891a6368e9cdc6f245434675d0.png?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Creamy Tomato Pasta Veg",
+    "price": "\u20b9145",
+    "image": "https://b.zmtcdn.com/data/dish_photos/7fd/7af6e48f6fa67d25862bd589c28f97fd.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Tikka Masala Pasta Veg",
+    "price": "\u20b9145",
+    "image": "https://b.zmtcdn.com/data/dish_photos/818/bc730b95f7b6dea378b14aa936d11818.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Moroccan Spice Pasta Veg",
+    "price": "\u20b9145",
+    "image": "https://b.zmtcdn.com/data/dish_photos/5d5/64cb47180105c470890bee79281015d5.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Creamy Tomato Pasta Non Veg",
+    "price": "\u20b9155",
+    "image": "https://b.zmtcdn.com/data/dish_photos/ea6/66f134172d46255333e61d55b93e5ea6.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Tikka Masala Pasta Non Veg",
+    "price": "\u20b9155",
+    "image": "https://b.zmtcdn.com/data/dish_photos/3b6/d18f3a4d3ca8914ffa5573b55b8973b6.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Moroccan Spice Pasta Non Veg",
+    "price": "\u20b9169",
+    "image": "https://b.zmtcdn.com/data/dish_photos/45c/f5bc577aab451117c6943f0a008f645c.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Taco Mexicana Non Veg",
+    "price": "\u20b9179",
+    "image": "https://b.zmtcdn.com/data/dish_photos/dd7/c572e3dc63d5ffdb0f70e13cf6ae5dd7.png?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Taco Mexicana Veg",
+    "price": "\u20b9145",
+    "image": "https://b.zmtcdn.com/data/dish_photos/96f/ff6245e26e081b4dd1bc7016c7db096f.png?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Taco Mexicana Veg",
+    "price": "\u20b979",
+    "image": "https://b.zmtcdn.com/data/dish_photos/96f/ff6245e26e081b4dd1bc7016c7db096f.png?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Veg Parcel",
+    "price": "\u20b945",
+    "image": "https://b.zmtcdn.com/data/dish_photos/be2/66f67dd17a8aa5d9ca828c732a696be2.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Non Veg Loaded",
+    "price": "\u20b9179",
+    "image": "https://b.zmtcdn.com/data/dish_photos/05b/9ad3bf1b3b9680d315d2841c2b71405b.png?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Paneer & Onion",
+    "price": "\u20b9125",
+    "image": "https://b.zmtcdn.com/data/dish_photos/e9a/175ba829bfae3a0eceee540e15329e9a.png?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Pepper Barbecue Chicken",
+    "price": "\u20b9125",
+    "image": "https://b.zmtcdn.com/data/dish_photos/3ea/b4a3ce93ec36396c5248b0dd18c393ea.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Cheesy",
+    "price": "\u20b9115",
+    "image": "https://b.zmtcdn.com/data/dish_photos/029/1337a0025935951df41d0d16b1b01029.png?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Chicken Sausage",
+    "price": "\u20b9115",
+    "image": "https://b.zmtcdn.com/data/dish_photos/cff/681edaf1b392aa53a18cc5015fc35cff.png?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Capsicum",
+    "price": "\u20b995",
+    "image": "https://b.zmtcdn.com/data/dish_photos/1e6/c606fc4d04f2a99162885e47224521e6.png?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Tomato",
+    "price": "\u20b965",
+    "image": "https://b.zmtcdn.com/data/dish_photos/c97/2f964909a06bb45fb21e6f893d1c8c97.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Onion",
+    "price": "\u20b975",
+    "image": "https://b.zmtcdn.com/data/dish_photos/7e0/3d11c50d64f2057d4d7499731a3a87e0.png?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Work from Home Veg Treat",
+    "price": "\u20b9239",
+    "image": "https://b.zmtcdn.com/data/dish_photos/4cd/60ec1e03c559bc6995680e91dcfef4cd.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  { "name": "Work from Home Non Veg Treat", "price": "\u20b9229", "image": "" },
+  {
+    "name": "Pizza & Juice Partnership - Paneer Spl Combo (Meal for 1)",
+    "price": "\u20b9299",
+    "image": "https://b.zmtcdn.com/data/dish_photos/78b/c7693c338f3a88d0f47f7acc5819278b.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Pizza & Juice Partnership - Veg Combo (Meal for 1)",
+    "price": "\u20b9299",
+    "image": "https://b.zmtcdn.com/data/dish_photos/329/7bbb086e4b19a5d01fdce653a5798329.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Classic Veg Buddy Combo",
+    "price": "\u20b9109",
+    "image": "https://b.zmtcdn.com/data/dish_photos/653/622343a6044d1178d8cada87ca64b653.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Spicy Buddy Combo",
+    "price": "\u20b9131",
+    "image": "https://b.zmtcdn.com/data/dish_photos/5f3/ebdeefc927b677326c72a55e1f9d05f3.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Golden Corn Buddy Combo",
+    "price": "\u20b9133",
+    "image": "https://b.zmtcdn.com/data/dish_photos/0c7/d9e5ffc2731f500c03adac437fb690c7.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  { "name": "Paneer Special Buddy Combo", "price": "\u20b9161", "image": "" },
+  {
+    "name": "Cheesy Buddy Combo",
+    "price": "\u20b9153",
+    "image": "https://b.zmtcdn.com/data/dish_photos/a09/6fa508546ae8ebf2855fc57791546a09.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Sausage Buddy Combo",
+    "price": "\u20b9151",
+    "image": "https://b.zmtcdn.com/data/dish_photos/580/c261acd6bf7af8be536e64dc9958c580.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Classic Non Veg Buddy Combo",
+    "price": "\u20b9161",
+    "image": "https://b.zmtcdn.com/data/dish_photos/07e/94d8e70f1d9bc24ca0c32844886a907e.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Tomato Buddy Combo",
+    "price": "\u20b999",
+    "image": "https://b.zmtcdn.com/data/dish_photos/b06/d028631480a762760a03179a67e0cb06.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Loaded Veg Buddy Combo",
+    "price": "\u20b9201",
+    "image": "https://b.zmtcdn.com/data/dish_photos/9b5/34fcdc5d6cf0a62be1da1925731659b5.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Loaded Non-Veg Buddy Combo",
+    "price": "\u20b9211",
+    "image": "https://b.zmtcdn.com/data/dish_photos/000/80aea0722812e54838995870d8f17000.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Family Treat Veg Meals",
+    "price": "\u20b9555",
+    "image": "https://b.zmtcdn.com/data/dish_photos/32b/5eee219b3f71cd2eadd0f9f5ac9ad32b.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Family Treat Paneer Meals",
+    "price": "\u20b9555",
+    "image": "https://b.zmtcdn.com/data/dish_photos/cd7/2c40880548bbb51bc24eb79455105cd7.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Family Treat Non Veg Meals",
+    "price": "\u20b9605",
+    "image": "https://b.zmtcdn.com/data/dish_photos/447/4411aef0f8bc69c3dec81629a6f6f447.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Pizza & Juice Partnership - Non-Veg Combo (Meal for 2)",
+    "price": "\u20b9639",
+    "image": "https://b.zmtcdn.com/data/dish_photos/2f9/83d2c2412d7f41111ddef934412272f9.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Pizza & Juice Partnership - Paneer Spl Comb (Meal for 2)",
+    "price": "\u20b9639",
+    "image": ""
+  },
+  {
+    "name": "Couples Combo - Veg",
+    "price": "\u20b9634",
+    "image": "https://b.zmtcdn.com/data/dish_photos/454/37969618a4a4267a3533cab4ab8c2454.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Couples Combo - Non Veg",
+    "price": "\u20b9665",
+    "image": "https://b.zmtcdn.com/data/dish_photos/fea/45f5d887f3bac45b3dd2dded8caf1fea.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Meal for 2: Chicken Dominator Combo",
+    "price": "\u20b9608",
+    "image": "https://b.zmtcdn.com/data/dish_photos/8ee/1c74221f82249f55b982098d271788ee.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Value Combo: 2 Garlic Breads",
+    "price": "\u20b9198",
+    "image": "https://b.zmtcdn.com/data/dish_photos/3c1/211de54bad2d180edf6faf61224643c1.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Value Combo: 2 Choco Lava Cake",
+    "price": "\u20b9198",
+    "image": "https://b.zmtcdn.com/data/dish_photos/701/c4e57e03af745106a6a85f4c609df701.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Value Combo: 1 Garlic Bread and 1 Choco Lava Cake",
+    "price": "\u20b9198",
+    "image": ""
+  },
+  {
+    "name": "Value Combo: 1 Regular Margherita and 1 Choco Lava Cake",
+    "price": "\u20b9198",
+    "image": "https://b.zmtcdn.com/data/dish_photos/1b0/929bd3a38f02828563442b49c674e1b0.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Value Combo: 1 Regular Margherita and 1 Garlic Bread",
+    "price": "\u20b9198",
+    "image": "https://b.zmtcdn.com/data/dish_photos/12b/5a184af498f78b629ba4e4fcc53f612b.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Meal for 4: Farmhouse & Peppy Paneer Combo",
+    "price": "\u20b91050",
+    "image": "https://b.zmtcdn.com/data/dish_photos/0f7/b062cd8e81777fdcb87349e5ea0790f7.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Meal for 4: Indi Tandoori Paneer & Peppy Paneer Combo",
+    "price": "\u20b91090",
+    "image": "https://b.zmtcdn.com/data/dish_photos/e29/7a1e837e6fa21aa5df765f7e9c93ee29.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Meal for 4: Chicken Dominator Combo",
+    "price": "\u20b91051",
+    "image": ""
+  },
+  {
+    "name": "Meal for 4: Veg Pizza Mania Party Combo",
+    "price": "\u20b9451",
+    "image": "https://b.zmtcdn.com/data/dish_photos/c28/6baa33c6b4a02ec9db5d8640abae3c28.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Meal for 4: Non-Veg Pizza Mania Party Combo",
+    "price": "\u20b9516",
+    "image": "https://b.zmtcdn.com/data/dish_photos/778/ee0b95edf9072777b8157095e620d778.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Family House Party \u2013 Veg Value Combo",
+    "price": "\u20b91059",
+    "image": "https://b.zmtcdn.com/data/dish_photos/a9f/b17ddc61d6a8909e8c97949e2686ca9f.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Family House Party \u2013 Non Veg Value Combo",
+    "price": "\u20b91119",
+    "image": "https://b.zmtcdn.com/data/dish_photos/5a8/6b05b8b0fff33b153227c22dbf1025a8.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Family House Party \u2013 Veg Deluxe Combo",
+    "price": "\u20b91459",
+    "image": ""
+  },
+  {
+    "name": "Red Velvet Lava Cake",
+    "price": "\u20b9139",
+    "image": "https://b.zmtcdn.com/data/dish_photos/529/6bb15cdb281e3da5627147e0dd8a2529.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Choco Lava Cake",
+    "price": "\u20b9109",
+    "image": "https://b.zmtcdn.com/data/dish_photos/9d2/0fa448c8d1113386c031b9e57095e9d2.png?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Butterscotch Mousse Cake",
+    "price": "\u20b9103.81",
+    "image": "https://b.zmtcdn.com/data/dish_photos/76a/7c961cd3ab18d04613db72c62d0ec76a.png?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Brownie Fantasy",
+    "price": "\u20b979",
+    "image": "https://b.zmtcdn.com/data/dish_photos/5d0/f9d46e891a6368e9cdc6f245434675d0.png?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  }
+]
