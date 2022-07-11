@@ -1,5 +1,9 @@
 import requests
 from bs4 import BeautifulSoup
+from pyld import jsonld
+import json
+import extruct as ex
+
 url = "https://www.zomato.com/bangalore/delivery-in-brookefield"
 # -*- coding: utf-8 -*-
 
@@ -10,8 +14,15 @@ headers = {
 response = requests.get(url, headers=headers)
 
 
-soup = BeautifulSoup(response.text, 'html.parser')
+# soup = BeautifulSoup(response.text, 'html.parser')
 
-for scripttag in soup.find_all('script',{'type':'application/ld+json'}):
-    print("-----------------------------------------")
-    print(scripttag.text)
+ldjson = ex.extract(response.text, syntaxes=['json-ld'])
+for item in ldjson['json-ld']:
+    print("--------------------------")
+    if "ListItem" == item["@type"] or "ItemList" == item["@type"]:
+        print(item)
+
+# for scripttag in soup.find_all('script',{'type':'application/ld+json'}):
+#     print("-----------------------------------------")
+#     expanded = jsonld.expand(scripttag.text)
+#     print(json.dumps(expanded, indent=4))
