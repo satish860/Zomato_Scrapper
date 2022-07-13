@@ -1,0 +1,600 @@
+[
+  {
+    "name": "Roti Rice Meals",
+    "price": "\u20b9111",
+    "image": "https://b.zmtcdn.com/data/dish_photos/960/3d5c6abd5c3952db46b0a001a4cd0960.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Mutter Paneer With 3 Plain Paratha",
+    "price": "\u20b9111",
+    "image": "https://b.zmtcdn.com/data/dish_photos/008/1e338e2d5158033a6b4ac7e50c865008.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Aloo Paratha",
+    "price": "\u20b940",
+    "image": "https://b.zmtcdn.com/data/dish_photos/898/1eae2d9c6f641508b211dbbd4ce1e898.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Kadai Paneer With 3 Plain Paratha",
+    "price": "\u20b9111",
+    "image": "https://b.zmtcdn.com/data/dish_photos/b8e/b224af4ad3d290d3728794ec0a653b8e.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Roti Meals",
+    "price": "\u20b9111",
+    "image": "https://b.zmtcdn.com/data/dish_photos/a0c/42e74dc4f44eb0a75a078775a63e8a0c.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Egg Bhurji With 4 Roti",
+    "price": "\u20b999",
+    "image": "https://b.zmtcdn.com/data/dish_photos/df9/c5e5a558f6cf84c18e90de4a6a537df9.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Chicken Masala [4 Pieces]",
+    "price": "\u20b9120",
+    "image": "https://b.zmtcdn.com/data/dish_photos/4fc/12497daab79edfee7c6bc70ef7d364fc.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Mattar Paneer",
+    "price": "\u20b9110",
+    "image": "https://b.zmtcdn.com/data/dish_photos/dd5/8e6a10e84b487cb5e8041f05b8380dd5.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Boneless Chicken Masala",
+    "price": "\u20b9130",
+    "image": "https://b.zmtcdn.com/data/dish_photos/fd9/351115bc0b1d78b97c5c417cd4c38fd9.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Mutton Meal",
+    "price": "\u20b9200",
+    "image": "https://b.zmtcdn.com/data/dish_photos/6d0/7f64a90b7dba50d1d41014abf25606d0.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  { "name": "Mini Meals", "price": "\u20b970", "image": "" },
+  {
+    "name": "Egg Meals",
+    "price": "\u20b9130",
+    "image": "https://b.zmtcdn.com/data/dish_photos/ea9/20ca6aa40701afa0cd6aa7ffaf91bea9.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Aloo Jeera",
+    "price": "\u20b980",
+    "image": "https://b.zmtcdn.com/data/dish_photos/b2c/5f509d3fa65af38dd8acea88f0f58b2c.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Kadai Paneer",
+    "price": "\u20b9110",
+    "image": "https://b.zmtcdn.com/data/dish_photos/42f/a7637162728483ca7c490905a679b42f.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Egg Bhurji",
+    "price": "\u20b950",
+    "image": "https://b.zmtcdn.com/data/dish_photos/bbe/b5972707e314e44cc2ad9431bf4b7bbe.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Paneer Paratha",
+    "price": "\u20b960",
+    "image": "https://b.zmtcdn.com/data/dish_photos/b3f/13d0c23834517e69160324aff11bfb3f.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Roti",
+    "price": "\u20b911",
+    "image": "https://b.zmtcdn.com/data/dish_photos/0f8/0289dbefe142ceb8466d74b2c57a50f8.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Chicken Egg Fried Rice",
+    "price": "\u20b9110",
+    "image": "https://b.zmtcdn.com/data/dish_photos/a7b/bc59003f8dcf2d8761ecc8c40754ca7b.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Egg Masala",
+    "price": "\u20b990",
+    "image": "https://b.zmtcdn.com/data/dish_photos/74f/103039aee4904dbc6fb9fde374de074f.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Chicken Curry [4 Pieces]",
+    "price": "\u20b9110",
+    "image": "https://b.zmtcdn.com/data/dish_photos/68e/d0b9a2abb04058a3c01671cbbd30f68e.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Gobi Paratha",
+    "price": "\u20b940",
+    "image": "https://b.zmtcdn.com/data/dish_photos/d00/a853a63e52521d570ed08f9e2387ed00.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Egg Masala With 3 Plain Paratha",
+    "price": "\u20b9111",
+    "image": "https://b.zmtcdn.com/data/dish_photos/40a/b27e91b18b84ff7725152ab2b0b7740a.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Plain Paratha Meals",
+    "price": "\u20b9111",
+    "image": "https://b.zmtcdn.com/data/dish_photos/55d/b792762cd4b28d2538a6637d64e8455d.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Paneer Bhurji",
+    "price": "\u20b9100",
+    "image": "https://b.zmtcdn.com/data/dish_photos/7cb/d9f63271ec3c95422d7f29158f5317cb.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Fish Curry [2 Pieces]",
+    "price": "\u20b9120",
+    "image": "https://b.zmtcdn.com/data/dish_photos/817/bec60d4a3c88232896d588000cb82817.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Bhindi Masala",
+    "price": "\u20b9100",
+    "image": "https://b.zmtcdn.com/data/dish_photos/95a/c67844846471618454c8d20b5327095a.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  { "name": "Sattu Paratha", "price": "\u20b950", "image": "" },
+  {
+    "name": "Dal Fry",
+    "price": "\u20b980",
+    "image": "https://b.zmtcdn.com/data/dish_photos/3d2/511f50945bb6e640bb52ec70b05123d2.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  { "name": "Ajwain Paratha", "price": "\u20b940", "image": "" },
+  {
+    "name": "Aloo Paratha",
+    "price": "\u20b940",
+    "image": "https://b.zmtcdn.com/data/dish_photos/898/1eae2d9c6f641508b211dbbd4ce1e898.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Gobi Paratha",
+    "price": "\u20b940",
+    "image": "https://b.zmtcdn.com/data/dish_photos/d00/a853a63e52521d570ed08f9e2387ed00.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Methi Paratha",
+    "price": "\u20b940",
+    "image": "https://b.zmtcdn.com/data/dish_photos/9cf/55b34858fed14a47816c66defeaaf9cf.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Onion Paratha",
+    "price": "\u20b940",
+    "image": "https://b.zmtcdn.com/data/dish_photos/983/b68c4b4597facdb0ca440436ce056983.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Palak Paratha",
+    "price": "\u20b940",
+    "image": "https://b.zmtcdn.com/data/dish_photos/5c8/3f8979307cb3e95cf6a76be4e83525c8.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Aloo Butter Paratha",
+    "price": "\u20b950",
+    "image": "https://b.zmtcdn.com/data/dish_photos/461/b66ff8ab805479cd5f596268faa7a461.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Mixed Veg Paratha",
+    "price": "\u20b950",
+    "image": "https://b.zmtcdn.com/data/dish_photos/b6a/2be7c8a90e90e9e37d7d9ca2670a4b6a.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Sattu Paratha",
+    "price": "\u20b950",
+    "image": "https://b.zmtcdn.com/data/dish_photos/762/95d5653d2d6448572e75743b7be47762.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Paneer Paratha",
+    "price": "\u20b960",
+    "image": "https://b.zmtcdn.com/data/dish_photos/b3f/13d0c23834517e69160324aff11bfb3f.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Cheese Paratha",
+    "price": "\u20b980",
+    "image": "https://b.zmtcdn.com/data/dish_photos/9e5/e8f62a0b89df84960cbccc07c55be9e5.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  { "name": "Aloo Egg Paratha", "price": "\u20b960", "image": "" },
+  {
+    "name": "Egg Paratha",
+    "price": "\u20b960",
+    "image": "https://b.zmtcdn.com/data/dish_photos/b22/1bc6ba2d5736856b98a60025abf3ab22.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Special Egg Paratha",
+    "price": "\u20b960",
+    "image": "https://b.zmtcdn.com/data/dish_photos/33d/5b336e9a31bbf2c416432f5ecd67c33d.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Chicken Paratha",
+    "price": "\u20b980",
+    "image": "https://b.zmtcdn.com/data/dish_photos/1cc/41e89f3c90adb46b5c32ea84500f51cc.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Butter Roti",
+    "price": "\u20b915",
+    "image": "https://b.zmtcdn.com/data/dish_photos/860/e36aae51a2be990ed575a83d7ef32860.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Roti",
+    "price": "\u20b911",
+    "image": "https://b.zmtcdn.com/data/dish_photos/0f8/0289dbefe142ceb8466d74b2c57a50f8.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Ghee Roti",
+    "price": "\u20b916",
+    "image": "https://b.zmtcdn.com/data/dish_photos/aa9/228007381d59e4ee7b615caef9517aa9.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Kerala Paratha",
+    "price": "\u20b920",
+    "image": "https://b.zmtcdn.com/data/dish_photos/790/35353401748e18a349ebda2f6c483790.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Laccha Paratha",
+    "price": "\u20b920",
+    "image": "https://b.zmtcdn.com/data/dish_photos/b91/139bec79b3386e17fc40a42e59423b91.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Plain Paratha",
+    "price": "\u20b918",
+    "image": "https://b.zmtcdn.com/data/dish_photos/9eb/785c3d8925c69f21174943e9dd9dd9eb.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Single Half Fry Egg",
+    "price": "\u20b920",
+    "image": "https://b.zmtcdn.com/data/dish_photos/9c1/330c872439085d1d0b1e03fa283989c1.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Egg Bhurji",
+    "price": "\u20b950",
+    "image": "https://b.zmtcdn.com/data/dish_photos/bbe/b5972707e314e44cc2ad9431bf4b7bbe.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Single Omelette",
+    "price": "\u20b925",
+    "image": "https://b.zmtcdn.com/data/dish_photos/945/b88d134b9bdb12ef9911ce23c4c6e945.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Double Half Fry Egg",
+    "price": "\u20b940",
+    "image": "https://b.zmtcdn.com/data/dish_photos/46f/01f9c97153938c3b6231c81c95eb046f.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Fried Egg Bread",
+    "price": "\u20b935",
+    "image": "https://b.zmtcdn.com/data/dish_photos/947/25879739121c2b39da5ab30f41e17947.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Double Omelette",
+    "price": "\u20b950",
+    "image": "https://b.zmtcdn.com/data/dish_photos/e3d/795a60d5a87a7a2b7885cc8516d83e3d.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Double Bread Omelette",
+    "price": "\u20b960",
+    "image": "https://b.zmtcdn.com/data/dish_photos/cd8/10ee77794bd1aec444ff1e52d50c2cd8.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  { "name": "Veg Roll", "price": "\u20b950", "image": "" },
+  {
+    "name": "Mushroom Roll",
+    "price": "\u20b979",
+    "image": "https://b.zmtcdn.com/data/dish_photos/da6/37eba047978dd7e85678d0d685857da6.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Paneer Roll",
+    "price": "\u20b970",
+    "image": "https://b.zmtcdn.com/data/dish_photos/303/31be4fb8544dc8baecaf179461d74303.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Single Egg Roll",
+    "price": "\u20b950",
+    "image": "https://b.zmtcdn.com/data/dish_photos/fd8/96769144a39384f8d8a3a89b83064fd8.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Double Egg Roll",
+    "price": "\u20b960",
+    "image": "https://b.zmtcdn.com/data/dish_photos/cba/fd2fde2ea6ef869eabb5feec3b1efcba.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  { "name": "Mushroom Egg Roll", "price": "\u20b989", "image": "" },
+  {
+    "name": "Paneer Egg Roll",
+    "price": "\u20b989",
+    "image": "https://b.zmtcdn.com/data/dish_photos/f71/425eb2702b302625fe84dceaa5fbdf71.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Chicken Roll",
+    "price": "\u20b970",
+    "image": "https://b.zmtcdn.com/data/dish_photos/a9b/f124ac0a23a5d2659bb5ef5a91c5ba9b.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Chicken Egg Roll",
+    "price": "\u20b980",
+    "image": "https://b.zmtcdn.com/data/dish_photos/ace/ec45fbc8010d88d26a0332d0b077cace.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Dal Fry",
+    "price": "\u20b980",
+    "image": "https://b.zmtcdn.com/data/dish_photos/3d2/511f50945bb6e640bb52ec70b05123d2.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  { "name": "Dal Tadka", "price": "\u20b990", "image": "" },
+  {
+    "name": "Aloo Jeera",
+    "price": "\u20b980",
+    "image": "https://b.zmtcdn.com/data/dish_photos/b2c/5f509d3fa65af38dd8acea88f0f58b2c.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Aloo Gobi Masala",
+    "price": "\u20b9100",
+    "image": "https://b.zmtcdn.com/data/dish_photos/0e1/d53aa5955aee5e1140aaef2d451be0e1.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Aloo Mattar",
+    "price": "\u20b980",
+    "image": "https://b.zmtcdn.com/data/dish_photos/33f/2c6e634b3ccfd23305515fe976f7f33f.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Bhindi Masala",
+    "price": "\u20b9100",
+    "image": "https://b.zmtcdn.com/data/dish_photos/95a/c67844846471618454c8d20b5327095a.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Chana Masala",
+    "price": "\u20b9100",
+    "image": "https://b.zmtcdn.com/data/dish_photos/ef1/edef518950c8e98e8f9b643cec24aef1.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Dal Palak",
+    "price": "\u20b9100",
+    "image": "https://b.zmtcdn.com/data/dish_photos/ff9/7de190be7e50d544e1c7d41cd15f3ff9.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Kadai Paneer",
+    "price": "\u20b9110",
+    "image": "https://b.zmtcdn.com/data/dish_photos/42f/a7637162728483ca7c490905a679b42f.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Paneer Butter Masala",
+    "price": "\u20b9110",
+    "image": "https://b.zmtcdn.com/data/dish_photos/a52/4165063c06eca3a299366f598ff15a52.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Kadai Mushroom",
+    "price": "\u20b9110",
+    "image": "https://b.zmtcdn.com/data/dish_photos/e65/bb781a712f9e1d8b0644dd036586ee65.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Mushroom Masala",
+    "price": "\u20b9110",
+    "image": "https://b.zmtcdn.com/data/dish_photos/fbc/d5f33ba8fae0c360f9cd03e9ab4e7fbc.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Mattar Paneer",
+    "price": "\u20b9110",
+    "image": "https://b.zmtcdn.com/data/dish_photos/dd5/8e6a10e84b487cb5e8041f05b8380dd5.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Palak Paneer",
+    "price": "\u20b9120",
+    "image": "https://b.zmtcdn.com/data/dish_photos/cc4/0134427e27e03d28a20c123ad480acc4.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Egg Curry [2 Pieces]",
+    "price": "\u20b980",
+    "image": "https://b.zmtcdn.com/data/dish_photos/79c/419e9d514df759d1553ab99f5f2a179c.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  { "name": "Omelette Curry", "price": "\u20b980", "image": "" },
+  {
+    "name": "Egg Masala",
+    "price": "\u20b990",
+    "image": "https://b.zmtcdn.com/data/dish_photos/74f/103039aee4904dbc6fb9fde374de074f.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Egg Tadka",
+    "price": "\u20b990",
+    "image": "https://b.zmtcdn.com/data/dish_photos/fcb/a6afa9d8b8080c2c33cd320518f59fcb.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Chicken Curry [4 Pieces]",
+    "price": "\u20b9110",
+    "image": "https://b.zmtcdn.com/data/dish_photos/68e/d0b9a2abb04058a3c01671cbbd30f68e.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Chicken Masala [4 Pieces]",
+    "price": "\u20b9120",
+    "image": "https://b.zmtcdn.com/data/dish_photos/4fc/12497daab79edfee7c6bc70ef7d364fc.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Chicken Butter Masala",
+    "price": "\u20b9130",
+    "image": "https://b.zmtcdn.com/data/dish_photos/b3e/11d85eaf4146716a31151c13266efb3e.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Boneless Chicken Masala",
+    "price": "\u20b9130",
+    "image": "https://b.zmtcdn.com/data/dish_photos/fd9/351115bc0b1d78b97c5c417cd4c38fd9.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Hariyali Chicken [4 Pieces]",
+    "price": "\u20b9130",
+    "image": "https://b.zmtcdn.com/data/dish_photos/80e/eb2960e1573ca01d3de29f0c085e180e.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Fish Curry [2 Pieces]",
+    "price": "\u20b9120",
+    "image": "https://b.zmtcdn.com/data/dish_photos/817/bec60d4a3c88232896d588000cb82817.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Hariyali Chicken",
+    "price": "\u20b9130",
+    "image": "https://b.zmtcdn.com/data/dish_photos/80e/eb2960e1573ca01d3de29f0c085e180e.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Mutton Curry [5 Pieces]",
+    "price": "\u20b9200",
+    "image": "https://b.zmtcdn.com/data/dish_photos/63f/c67cfda8b78c7438df5a32973d72563f.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Mutton Masala [5 Pieces]",
+    "price": "\u20b9220",
+    "image": "https://b.zmtcdn.com/data/dish_photos/0be/094191ecd658022daf98f56109c020be.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  { "name": "Pepsi [250 Ml]", "price": "\u20b930", "image": "" },
+  {
+    "name": "Lemon Juice",
+    "price": "\u20b930",
+    "image": "https://b.zmtcdn.com/data/dish_photos/025/836c23954e41792280f0b0b63884a025.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Butter Milk",
+    "price": "\u20b940",
+    "image": "https://b.zmtcdn.com/data/dish_photos/af3/bc7780ba0642f9a3833725465dd6faf3.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Lemon Soda",
+    "price": "\u20b930",
+    "image": "https://b.zmtcdn.com/data/dish_photos/3b4/08d787455b324cb69fecbeacefa1a3b4.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  { "name": "Lassi", "price": "\u20b950", "image": "" },
+  {
+    "name": "Sprite [250 Ml]",
+    "price": "\u20b930",
+    "image": "https://b.zmtcdn.com/data/dish_photos/aea/e884001fc26e244fedb8177dfbff6aea.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Mini Meals",
+    "price": "\u20b970",
+    "image": "https://b.zmtcdn.com/data/dish_photos/16f/e1b9042f7b4dc5e0155ead8fb499116f.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Plain Paratha Meals",
+    "price": "\u20b9111",
+    "image": "https://b.zmtcdn.com/data/dish_photos/55d/b792762cd4b28d2538a6637d64e8455d.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Roti Meals",
+    "price": "\u20b9111",
+    "image": "https://b.zmtcdn.com/data/dish_photos/a0c/42e74dc4f44eb0a75a078775a63e8a0c.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  { "name": "Roti Rice Meals", "price": "\u20b9111", "image": "" },
+  {
+    "name": "Egg Meals",
+    "price": "\u20b9130",
+    "image": "https://b.zmtcdn.com/data/dish_photos/ea9/20ca6aa40701afa0cd6aa7ffaf91bea9.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Chicken Meals",
+    "price": "\u20b9150",
+    "image": "https://b.zmtcdn.com/data/dish_photos/13a/5baaccacb28a9c9f2934bc1ff8af513a.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Mutton Meal",
+    "price": "\u20b9200",
+    "image": "https://b.zmtcdn.com/data/dish_photos/6d0/7f64a90b7dba50d1d41014abf25606d0.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  { "name": "Jeera Rice", "price": "\u20b970", "image": "" },
+  {
+    "name": "Curd Rice",
+    "price": "\u20b970",
+    "image": "https://b.zmtcdn.com/data/dish_photos/457/9d173f908d5d39708dc9104ed71d6457.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Lemon Rice",
+    "price": "\u20b970",
+    "image": "https://b.zmtcdn.com/data/dish_photos/7b0/13a4c65b5e7e612589a796440f7dc7b0.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Ghee Rice",
+    "price": "\u20b970",
+    "image": "https://b.zmtcdn.com/data/dish_photos/b49/a5e98d6d35f4bfb073536a92012b1b49.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Steam Rice",
+    "price": "\u20b950",
+    "image": "https://b.zmtcdn.com/data/dish_photos/bbd/f8568863b83c4781682c1095df17dbbd.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Veg Fried Rice",
+    "price": "\u20b980",
+    "image": "https://b.zmtcdn.com/data/dish_photos/4e7/018b97432ca46d54165753ceddef94e7.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Paneer Fried Rice",
+    "price": "\u20b9100",
+    "image": "https://b.zmtcdn.com/data/dish_photos/e52/0582c9196933fb078fe743c6e4877e52.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Egg Fried Rice",
+    "price": "\u20b990",
+    "image": "https://b.zmtcdn.com/data/dish_photos/9e8/50e82f3e72004c71f849526cc6fb49e8.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Chicken Fried Rice",
+    "price": "\u20b9100",
+    "image": "https://b.zmtcdn.com/data/dish_photos/d66/e1c83adb11777ec4e92b1757434dfd66.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Chicken Egg Fried Rice",
+    "price": "\u20b9110",
+    "image": "https://b.zmtcdn.com/data/dish_photos/a7b/bc59003f8dcf2d8761ecc8c40754ca7b.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  { "name": "Veg Biryani", "price": "\u20b9130", "image": "" },
+  {
+    "name": "Veg Pulao Rice",
+    "price": "\u20b9120",
+    "image": "https://b.zmtcdn.com/data/dish_photos/a21/50505ebe7c3d9d6939ab64c7fdd10a21.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Egg Biryani",
+    "price": "\u20b9130",
+    "image": "https://b.zmtcdn.com/data/dish_photos/2e7/4075d7d66193661eb8259eb0fabcb2e7.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Chicken Biryani",
+    "price": "\u20b9150",
+    "image": "https://b.zmtcdn.com/data/dish_photos/39d/4074adafe6d606caf3a6b374908b639d.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Mix Veg Khichdi",
+    "price": "\u20b9121",
+    "image": "https://b.zmtcdn.com/data/dish_photos/5fc/1d8c4d88b852c040df844ada298ea5fc.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Poori Sabji",
+    "price": "\u20b990",
+    "image": "https://b.zmtcdn.com/data/dish_photos/9e0/47e599e128d7c5f487d0774052b489e0.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Plain Paratha Sabji",
+    "price": "\u20b990",
+    "image": "https://b.zmtcdn.com/data/dish_photos/595/dcfcccd851a203c658e9f8d9331c9595.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Egg Bhurji With 4 Roti",
+    "price": "\u20b999",
+    "image": "https://b.zmtcdn.com/data/dish_photos/df9/c5e5a558f6cf84c18e90de4a6a537df9.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Egg Curry With Steam Rice",
+    "price": "\u20b9111",
+    "image": "https://b.zmtcdn.com/data/dish_photos/505/223fc14a0e8fbfe4d1a5b80faa70a505.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Egg Masala With 3 Plain Paratha",
+    "price": "\u20b9111",
+    "image": "https://b.zmtcdn.com/data/dish_photos/40a/b27e91b18b84ff7725152ab2b0b7740a.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Dal Fry With Steam Rice",
+    "price": "\u20b9111",
+    "image": "https://b.zmtcdn.com/data/dish_photos/6a7/63393e10a5211a2db57e73e1d9a976a7.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Dal Tadka With 3 Plain Paratha",
+    "price": "\u20b9111",
+    "image": "https://b.zmtcdn.com/data/dish_photos/916/a7dd1ffb5ac5a62c519e8eb748617916.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Kadai Paneer With 3 Plain Paratha",
+    "price": "\u20b9111",
+    "image": "https://b.zmtcdn.com/data/dish_photos/b8e/b224af4ad3d290d3728794ec0a653b8e.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Mutter Paneer With 3 Plain Paratha",
+    "price": "\u20b9111",
+    "image": "https://b.zmtcdn.com/data/dish_photos/008/1e338e2d5158033a6b4ac7e50c865008.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Paneer Bhurji",
+    "price": "\u20b9100",
+    "image": "https://b.zmtcdn.com/data/dish_photos/7cb/d9f63271ec3c95422d7f29158f5317cb.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  }
+]

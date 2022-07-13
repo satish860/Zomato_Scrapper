@@ -1,0 +1,607 @@
+[
+  {
+    "name": "Lazeez Bhuna Murgh [ Chicken Dum Biryani Boneless - Serves 1]",
+    "price": "\u20b9339",
+    "image": "https://b.zmtcdn.com/data/dish_photos/b50/3d2666a701f71397c4f1432f935c3b50.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Lazeez Bhuna Murgh Dum Biryani(Serves 2)",
+    "price": "\u20b9625",
+    "image": "https://b.zmtcdn.com/data/dish_photos/2f9/29010dcb9b59dacec801e11f779232f9.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Subz-E-Biryani [ Veg Dum Biryani - Serves 1]",
+    "price": "\u20b9285",
+    "image": "https://b.zmtcdn.com/data/dish_photos/281/d7b1e30173fc336f531e641c7865b281.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Lazeez Bhuna Murgh [ Chicken Dum Biryani Boneless - Serves 3-4]",
+    "price": "\u20b91209",
+    "image": "https://b.zmtcdn.com/data/dish_photos/988/6e92e860a1bbca2ecea71b46ba3fe988.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Zaitooni Paneer Dum Biryani (Veg Paneer Dum Biryani- Serves-1)",
+    "price": "\u20b9325",
+    "image": ""
+  },
+  {
+    "name": "Paneer Subz ( Classic Paneer+Veg Dum Biryani - Serves 1)",
+    "price": "\u20b9339",
+    "image": "https://b.zmtcdn.com/data/dish_photos/810/56926bac1bf8f1fcd74ab00c1e416810.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Dum Gosht [ Mutton Dum Biryani - Boneless - Serves 1]",
+    "price": "\u20b9449",
+    "image": "https://b.zmtcdn.com/data/dish_photos/db7/d119083bb0e653305a5ae0ed4ea8edb7.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Dum Gosht Dum Biryani(Serves 2)",
+    "price": "\u20b9829",
+    "image": "https://b.zmtcdn.com/data/dish_photos/152/c05e4f8254b3246b5ebf1c61c589d152.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Hyderabadi Lazeez Bhuna Murgh ( Spicy Chicken Dum Biryani, Boneless - Serves 4)",
+    "price": "\u20b91199",
+    "image": "https://b.zmtcdn.com/data/dish_photos/988/6e92e860a1bbca2ecea71b46ba3fe988.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Zaikedaar Paneer Dum Biryani(Serves 2)",
+    "price": "\u20b9569",
+    "image": "https://b.zmtcdn.com/data/dish_photos/e9d/5f36b1b184ed1bbbe1c4ad4b8461ae9d.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Murgh Afghani Tikka ( Creamy Chicken Tikka Dum Biryani - Serves 1)",
+    "price": "\u20b9365",
+    "image": "https://b.zmtcdn.com/data/dish_photos/f86/1971c7e546f4d45c18a60cb9278b3f86.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Dum Gosht [ Mutton Dum Biryani - Boneless - Serves 3-4]",
+    "price": "\u20b91599",
+    "image": "https://b.zmtcdn.com/data/dish_photos/82c/f35e7bb1347723910c2bb82a61c6a82c.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Murgh Afghani Tikka Dum Biryani(Serves 2)",
+    "price": "\u20b9675",
+    "image": "https://b.zmtcdn.com/data/dish_photos/2fa/2370fa1347e944f164ae99ffe2a572fa.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Veg Biryani (Subz-E-Biryani, serves 1) + Paneer & Veg Biryani ( Paneer Subz, serves 1)",
+    "price": "\u20b9579",
+    "image": "https://b.zmtcdn.com/data/dish_photos/443/c9e96f1e920bf5535498f1158a497443.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Dum Gosht Bahaar ( Biryani with 50% extra Mutton, serves 1)",
+    "price": "\u20b9575",
+    "image": "https://b.zmtcdn.com/data/dish_photos/b61/e8ae3a94671d09e8f7d531b9443e0b61.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Hyderabadi Zaikedaar Paneer ( Spicy Paneer Dum Biryani - Serves 1)",
+    "price": "\u20b9309",
+    "image": "https://b.zmtcdn.com/data/dish_photos/537/1cde1a57cfbe17dbc5f6d8c93c47a537.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Malai Kofta Biryani (Creamy Kebab Biryani, Serves 1)",
+    "price": "\u20b9389",
+    "image": "https://b.zmtcdn.com/data/dish_photos/9c9/8be06f7ce62d68b4a3fd9d880e5229c9.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Murgh Tikka Dum Biryani(Serves 2)",
+    "price": "\u20b9699",
+    "image": "https://b.zmtcdn.com/data/dish_photos/756/d0d560f1dfffed6b2a1dc3cd83243756.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Paneer Subz Dum Biryani(Serves 2)",
+    "price": "\u20b9625",
+    "image": "https://b.zmtcdn.com/data/dish_photos/c43/5e9a624dbc7313b3de67c6df3e460c43.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Murgh Koobideh (Chicken Tikki Kebab)",
+    "price": "\u20b9185",
+    "image": ""
+  },
+  {
+    "name": "Tokhm e Dum Biryani(Serves 2)",
+    "price": "\u20b9549",
+    "image": "https://b.zmtcdn.com/data/dish_photos/449/6649bd8e99181fa24789bfa0ac95f449.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Murgh Tikka ( Chicken Tikka Dum Biryani - Serves 1)",
+    "price": "\u20b9389",
+    "image": "https://b.zmtcdn.com/data/dish_photos/02c/97e09fdae14ac2720d4e46585b95a02c.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Murgh Seekh Kebab (Chicken Seekh Kebab, 6 Pcs)",
+    "price": "\u20b9340",
+    "image": "https://b.zmtcdn.com/data/dish_photos/958/31967d970ceaa1af9dc7a7beba8af958.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Murgh Kefta ( Minced Chicken Meatball Biryani, Serves 1)",
+    "price": "\u20b9329",
+    "image": "https://b.zmtcdn.com/data/dish_photos/8cb/fbb65920f6b190b875e06f44b5c988cb.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Coca-Cola Bottle (475 ML)",
+    "price": "\u20b957",
+    "image": "https://b.zmtcdn.com/data/dish_photos/bc0/f832637c6bb53f49ac80f19b30b30bc0.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Mint Raita",
+    "price": "\u20b932",
+    "image": "https://b.zmtcdn.com/data/dish_photos/5f2/3ccd53d11dfa95b90768bfd1413d95f2.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Gulab Jamun (Pack Of 2)",
+    "price": "\u20b949",
+    "image": "https://b.zmtcdn.com/data/dish_photos/f1f/abc226b41f2533758964163f2a173f1f.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Falafel-E-Khaas (Half)",
+    "price": "\u20b985",
+    "image": "https://b.zmtcdn.com/data/dish_photos/fa2/4bcde4653f409e4b8f5fdfde7ceebfa2.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Mughlai Gravy",
+    "price": "\u20b932",
+    "image": "https://b.zmtcdn.com/data/dish_photos/5b7/93092e54a3e9eaf5ff097a17687c45b7.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Ayran (Buttermilk)",
+    "price": "\u20b949",
+    "image": "https://b.zmtcdn.com/data/dish_photos/838/7cd23ad656ae5e96b7e504901d1ea838.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Murgh Kefta ( Minced Chicken Meatball Biryani, Serves 2)",
+    "price": "\u20b9605",
+    "image": ""
+  },
+  {
+    "name": "Murgh Makhani (Butter Chicken Biryani, Serves 2)",
+    "price": "\u20b9729",
+    "image": "https://b.zmtcdn.com/data/dish_photos/6e6/7361275cb45bb954033cf906f62276e6.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Malai Kofta Biryani (Creamy Kebab Biryani, Serves 2)",
+    "price": "\u20b9729",
+    "image": "https://b.zmtcdn.com/data/dish_photos/3d6/b146fd8ee10fee1b186e920f53ebe3d6.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Subz e Dum Biryani(Serves 2)",
+    "price": "\u20b9525",
+    "image": "https://b.zmtcdn.com/data/dish_photos/465/7a830232282dc1dbc6fb457e7b108465.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Do Gosht ki Dum Biryani (Mutton & Chicken Dum Biryani, Serves 2)",
+    "price": "\u20b9819",
+    "image": "https://b.zmtcdn.com/data/dish_photos/e21/b9ec1cdac0c7db0cfd84dff18a2e0e21.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Murgh Kefta ( Minced Chicken Meatball Biryani, Serves 1)",
+    "price": "\u20b9329",
+    "image": ""
+  },
+  {
+    "name": "Lazeez Bhuna Murgh [ Chicken Dum Biryani Boneless - Serves 1]",
+    "price": "\u20b9339",
+    "image": "https://b.zmtcdn.com/data/dish_photos/b50/3d2666a701f71397c4f1432f935c3b50.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Dum Gosht [ Mutton Dum Biryani - Boneless - Serves 1]",
+    "price": "\u20b9449",
+    "image": "https://b.zmtcdn.com/data/dish_photos/db7/d119083bb0e653305a5ae0ed4ea8edb7.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Murgh Makhani (Butter Chicken Biryani, Serves 1)",
+    "price": "\u20b9389",
+    "image": "https://b.zmtcdn.com/data/dish_photos/170/f18c63a69ea71a38b9d94362183c0170.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Zaikedaar Paneer [ Paneer Dum Biryani - Serves 1]",
+    "price": "\u20b9309",
+    "image": "https://b.zmtcdn.com/data/dish_photos/8b6/f4e64464b82962c6cdae38eeba5488b6.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Malai Kofta Biryani (Creamy Kebab Biryani, Serves 1)",
+    "price": "\u20b9389",
+    "image": "https://b.zmtcdn.com/data/dish_photos/9c9/8be06f7ce62d68b4a3fd9d880e5229c9.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Murgh Afghani Tikka ( Creamy Chicken Tikka Dum Biryani - Serves 1)",
+    "price": "\u20b9365",
+    "image": "https://b.zmtcdn.com/data/dish_photos/f86/1971c7e546f4d45c18a60cb9278b3f86.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Zaitooni Paneer Dum Biryani (Veg Paneer Dum Biryani- Serves-1)",
+    "price": "\u20b9325",
+    "image": "https://b.zmtcdn.com/data/dish_photos/c57/1f3dd5242d46cff8a466ee0e20f3fc57.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Murgh Tikka ( Chicken Tikka Dum Biryani - Serves 1)",
+    "price": "\u20b9389",
+    "image": "https://b.zmtcdn.com/data/dish_photos/02c/97e09fdae14ac2720d4e46585b95a02c.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Do Gosht ki Dum Biryani [Mutton & Chicken Dum Biryani, Serves 1]",
+    "price": "\u20b9425",
+    "image": "https://b.zmtcdn.com/data/dish_photos/308/9694fc8c118747b87ef4141dbf080308.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Paneer Subz ( Classic Paneer+Veg Dum Biryani - Serves 1)",
+    "price": "\u20b9339",
+    "image": "https://b.zmtcdn.com/data/dish_photos/810/56926bac1bf8f1fcd74ab00c1e416810.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Subz-E-Biryani [ Veg Dum Biryani - Serves 1]",
+    "price": "\u20b9285",
+    "image": "https://b.zmtcdn.com/data/dish_photos/281/d7b1e30173fc336f531e641c7865b281.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Murgh Kefta ( Minced Chicken Meatball Biryani, Serves 2)",
+    "price": "\u20b9605",
+    "image": "https://b.zmtcdn.com/data/dish_photos/eba/aad4430035508cb8f588d403621d0eba.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Lazeez Bhuna Murgh Dum Biryani(Serves 2)",
+    "price": "\u20b9625",
+    "image": "https://b.zmtcdn.com/data/dish_photos/2f9/29010dcb9b59dacec801e11f779232f9.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Dum Gosht Dum Biryani(Serves 2)",
+    "price": "\u20b9829",
+    "image": "https://b.zmtcdn.com/data/dish_photos/152/c05e4f8254b3246b5ebf1c61c589d152.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Murgh Makhani (Butter Chicken Biryani, Serves 2)",
+    "price": "\u20b9729",
+    "image": "https://b.zmtcdn.com/data/dish_photos/6e6/7361275cb45bb954033cf906f62276e6.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Zaikedaar Paneer Dum Biryani(Serves 2)",
+    "price": "\u20b9569",
+    "image": "https://b.zmtcdn.com/data/dish_photos/e9d/5f36b1b184ed1bbbe1c4ad4b8461ae9d.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Malai Kofta Biryani (Creamy Kebab Biryani, Serves 2)",
+    "price": "\u20b9729",
+    "image": "https://b.zmtcdn.com/data/dish_photos/3d6/b146fd8ee10fee1b186e920f53ebe3d6.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Murgh Tikka Dum Biryani(Serves 2)",
+    "price": "\u20b9699",
+    "image": "https://b.zmtcdn.com/data/dish_photos/756/d0d560f1dfffed6b2a1dc3cd83243756.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Murgh Afghani Tikka Dum Biryani(Serves 2)",
+    "price": "\u20b9675",
+    "image": "https://b.zmtcdn.com/data/dish_photos/2fa/2370fa1347e944f164ae99ffe2a572fa.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Paneer Subz Dum Biryani(Serves 2)",
+    "price": "\u20b9625",
+    "image": "https://b.zmtcdn.com/data/dish_photos/c43/5e9a624dbc7313b3de67c6df3e460c43.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Tokhm e Dum Biryani(Serves 2)",
+    "price": "\u20b9549",
+    "image": ""
+  },
+  {
+    "name": "Subz e Dum Biryani(Serves 2)",
+    "price": "\u20b9525",
+    "image": "https://b.zmtcdn.com/data/dish_photos/465/7a830232282dc1dbc6fb457e7b108465.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Zaitooni Paneer Dum Biryani (Veg Paneer Dum Biryani-Serves 2)",
+    "price": "\u20b9599",
+    "image": "https://b.zmtcdn.com/data/dish_photos/eb0/f30b2502a9ee779894c81a8a758e5eb0.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Do Gosht ki Dum Biryani (Mutton & Chicken Dum Biryani, Serves 2)",
+    "price": "\u20b9819",
+    "image": "https://b.zmtcdn.com/data/dish_photos/e21/b9ec1cdac0c7db0cfd84dff18a2e0e21.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Murgh Kefta ( Minced Chicken Meatball Biryani, Serves 4)",
+    "price": "\u20b91199",
+    "image": "https://b.zmtcdn.com/data/dish_photos/51f/4062317b1684f641537da29db8f8851f.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Lazeez Bhuna Murgh [ Chicken Dum Biryani Boneless - Serves 3-4]",
+    "price": "\u20b91209",
+    "image": ""
+  },
+  {
+    "name": "Dum Gosht [ Mutton Dum Biryani - Boneless - Serves 3-4]",
+    "price": "\u20b91599",
+    "image": "https://b.zmtcdn.com/data/dish_photos/82c/f35e7bb1347723910c2bb82a61c6a82c.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Murgh Makhani (Butter Chicken Biryani, Serves 4)",
+    "price": "\u20b91399",
+    "image": "https://b.zmtcdn.com/data/dish_photos/282/2279f4f782c0431054844b310d819282.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Zaikedaar Paneer [ Paneer Dum Biryani - Serves 3-4]",
+    "price": "\u20b91099",
+    "image": "https://b.zmtcdn.com/data/dish_photos/5c2/1e846de765db2e0283e2116e862e85c2.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Malai Kofta Biryani (Creamy Kebab Biryani, Serves 4)",
+    "price": "\u20b91399",
+    "image": "https://b.zmtcdn.com/data/dish_photos/e86/1a6cb92722ad3b52759a1c7203cf5e86.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Murgh Afghani Tikka ( Creamy Chicken Tikka Dum Biryani - Serves 3-4)",
+    "price": "\u20b91299",
+    "image": "https://b.zmtcdn.com/data/dish_photos/bd3/347c542f11397d6081d21f004c3fabd3.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Murgh Tikka ( Chicken Tikka Dum Biryani - Serves 3-4)",
+    "price": "\u20b91349",
+    "image": "https://b.zmtcdn.com/data/dish_photos/a72/71aa60e968a424973212825ebdfbea72.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Paneer Subz ( Classic Paneer+Veg Dum Biryani - Serves 3-4)",
+    "price": "\u20b91215",
+    "image": "https://b.zmtcdn.com/data/dish_photos/7ec/5b142ea6600b59ec414c2169969a77ec.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Subz-E-Biryani [ Veg Dum Biryani - Serves 3-4]",
+    "price": "\u20b9999",
+    "image": "https://b.zmtcdn.com/data/dish_photos/46e/0a1868e6be1a9bb0881edbd81a78846e.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Zaitooni Paneer Dum Biryani (Veg Paneer Dum Biryani-Serves 4)",
+    "price": "\u20b91149",
+    "image": "https://b.zmtcdn.com/data/dish_photos/dab/0cd81cd03f6a176412c66a491a512dab.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Do Gosht ki Dum Biryani (Mutton & Chicken Dum Biryani, Serves 4)",
+    "price": "\u20b91595",
+    "image": "https://b.zmtcdn.com/data/dish_photos/c19/60731fce7ca877506825281dfb5b9c19.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Hyderabadi Lazeez Bhuna Murgh ( Spicy Chicken Dum Biryani, Boneless - Serves 4)",
+    "price": "\u20b91199",
+    "image": "https://b.zmtcdn.com/data/dish_photos/988/6e92e860a1bbca2ecea71b46ba3fe988.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Hyderabadi Zaikedaar Paneer ( Spicy Paneer Dum Biryani - Serves 4)",
+    "price": "\u20b91099",
+    "image": "https://b.zmtcdn.com/data/dish_photos/5c2/1e846de765db2e0283e2116e862e85c2.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Hyderabadi Subz-E-Biryani ( Spicy Veg Dum Biryani - Serves 4)",
+    "price": "\u20b9949",
+    "image": "https://b.zmtcdn.com/data/dish_photos/46e/0a1868e6be1a9bb0881edbd81a78846e.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Hyderabadi Dum Gosht ( Spicy Mutton Dum Biryani, Boneless - Serves 4)",
+    "price": "\u20b91489",
+    "image": "https://b.zmtcdn.com/data/dish_photos/82c/f35e7bb1347723910c2bb82a61c6a82c.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Hyderabadi Zaikedaar Paneer ( Spicy Paneer Dum Biryani - Serves 1)",
+    "price": "\u20b9309",
+    "image": "https://b.zmtcdn.com/data/dish_photos/537/1cde1a57cfbe17dbc5f6d8c93c47a537.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Hyderabadi Dum Gosht ( Spicy Mutton Dum Biryani, Boneless - Serves-1)",
+    "price": "\u20b9439",
+    "image": "https://b.zmtcdn.com/data/dish_photos/157/16fcea43076b1f18513794250b712157.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Non Veg Kebab Platter",
+    "price": "\u20b9699",
+    "image": "https://b.zmtcdn.com/data/dish_photos/397/56d859c5879e817560ee12bf5137b397.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Falafel-E-Khaas (Half)",
+    "price": "\u20b985",
+    "image": "https://b.zmtcdn.com/data/dish_photos/fa2/4bcde4653f409e4b8f5fdfde7ceebfa2.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Murgh Koobideh (Chicken Tikki Kebab)",
+    "price": "\u20b9185",
+    "image": "https://b.zmtcdn.com/data/dish_photos/07a/3876df7808dd522f145a2f04c23e207a.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Murgh Koobideh (Half, Chicken Tikki Kebab)",
+    "price": "\u20b9105",
+    "image": "https://b.zmtcdn.com/data/dish_photos/358/a3800241112f6028f91edacc91279358.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Murgh Kefta (Chicken Meatball Kebab)",
+    "price": "\u20b9185",
+    "image": "https://b.zmtcdn.com/data/dish_photos/452/602755d5be0b7b3cf2b82950c9493452.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Murgh Kefta (Half, Chicken Meatball Kebab)",
+    "price": "\u20b9115",
+    "image": "https://b.zmtcdn.com/data/dish_photos/ade/560de4dc868551b965dd4b0efbbb0ade.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Murgh Seekh Kebab (6 Pcs) & Gosht-E-Galouti Kebab (6 Pcs) Combo",
+    "price": "\u20b9649",
+    "image": "https://b.zmtcdn.com/data/dish_photos/64e/75815949544ae44c53b5c32d4341764e.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Murgh Malai Kebab (6 Pcs) & Gosht-E-Galouti Kebab (6 Pcs) Combo",
+    "price": "\u20b9655",
+    "image": "https://b.zmtcdn.com/data/dish_photos/fea/378c312ad5c82d2c320dd581c4360fea.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Murgh Malai Kebab (Chicken Malai Tikka Kebab 6 Pcs)",
+    "price": "\u20b9340",
+    "image": "https://b.zmtcdn.com/data/dish_photos/2cb/9ecc6684473c14fa436fb56955eee2cb.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Gosht-E-Galouti Kebab (Mutton Galauti Kebab,6 Pcs)",
+    "price": "\u20b9389",
+    "image": "https://b.zmtcdn.com/data/dish_photos/8c6/13f40762628e8b42e4e8d5d6498b18c6.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Murgh Seekh Kebab (Chicken Seekh Kebab, 6 Pcs)",
+    "price": "\u20b9340",
+    "image": "https://b.zmtcdn.com/data/dish_photos/958/31967d970ceaa1af9dc7a7beba8af958.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Murgh Seekh Kebab (6 Pcs) & Murgh Malai Kebab (6 Pcs) Combo",
+    "price": "\u20b9609",
+    "image": "https://b.zmtcdn.com/data/dish_photos/910/48ae1658ec5ba1b45a4bbb1639aab910.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Hara Bhara Kebab (Veg Kebab,6 Pcs)",
+    "price": "\u20b9209",
+    "image": "https://b.zmtcdn.com/data/dish_photos/1c1/bb62dcdc0c294d0993cc8b0a570d91c1.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Hyderabadi Mutton Biryani (Spicy Dum Gosht, Serves 1) + Murgh Kefta (Serves-1)",
+    "price": "\u20b9599",
+    "image": "https://b.zmtcdn.com/data/dish_photos/d5b/901c21be1975320a7151b80729548d5b.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Veg Biryani (Alishaan-E-Subz, serves 4) + 12pcs Hara Bhara Kebab + 4 Thums up 250ml",
+    "price": "\u20b91499",
+    "image": "https://b.zmtcdn.com/data/dish_photos/9bf/78981a4cf78c9b25ae406924bb7559bf.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Royal Chicken Biryani Feast.",
+    "price": "\u20b91789",
+    "image": "https://b.zmtcdn.com/data/dish_photos/3ee/5c698a09958fac81f9f125f36f6673ee.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Mutton Biryani (Dum Gosht, Serves 1) + Murgh Kefta Starter (Serves-1)",
+    "price": "\u20b9599",
+    "image": "https://b.zmtcdn.com/data/dish_photos/b56/e0fd251ac1794884132862fdc3ccfb56.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Hyderabadi Chicken Biryani (Spicy Lazeez Bhuna Murgh, Serves 1) + Murgh Kefta (Serves-1)",
+    "price": "\u20b9499",
+    "image": "https://b.zmtcdn.com/data/dish_photos/81d/9799b1088b75b0d8181ab03f2973681d.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Mutton Biryani (Alishaan-E-Dum Gosht, serves 4) + 12pcs Mutton Galouti Kebab + 4 Thums up 250ml",
+    "price": "\u20b92499",
+    "image": "https://b.zmtcdn.com/data/dish_photos/239/3c9805bc51d0ae5ff386c0a0d8d81239.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Paneer Biryani ( Zaikedaar Paneer, serves 1) + Paneer & Veg Biryani (Paneer Subz, serves 1)",
+    "price": "\u20b9629",
+    "image": "https://b.zmtcdn.com/data/dish_photos/17f/e2ce9853169768155074a4cc2e59317f.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Chicken Biryani (Lazeez Bhuna Murgh, serves 1) + Creamy Chicken Biryani ( Murgh Afghani, serves 1)",
+    "price": "\u20b9695",
+    "image": "https://b.zmtcdn.com/data/dish_photos/1b2/67f4b4052b3d0b25de45e5b3f3cce1b2.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Creamy Chicken Biryani (Murgh Afghani, serves 1) + Chicken Tikka Biryani ( Murgh Tikka, serves 1)",
+    "price": "\u20b9729",
+    "image": "https://b.zmtcdn.com/data/dish_photos/8b7/406a0f627ccb3facfaa3dc869658c8b7.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Veg Biryani (Subz-E-Biryani, serves 1) + Paneer & Veg Biryani ( Paneer Subz, serves 1)",
+    "price": "\u20b9579",
+    "image": "https://b.zmtcdn.com/data/dish_photos/443/c9e96f1e920bf5535498f1158a497443.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Paneer Biryani ( Zaikedaar Paneer, serves 1) + Veg Biryani (Subz-E-Biryani, serves 1)",
+    "price": "\u20b9579",
+    "image": "https://b.zmtcdn.com/data/dish_photos/23b/4da1a6a17306653c28be49427835823b.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Royal Veg Biryani Feast",
+    "price": "\u20b91589",
+    "image": "https://b.zmtcdn.com/data/dish_photos/ab0/8646c6fcf3cf4c50c640bbee0fc15ab0.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Mutton + Chicken Biryani Feast",
+    "price": "\u20b9749",
+    "image": "https://b.zmtcdn.com/data/dish_photos/f95/b5615cbf8e608ac6cb8e9be805d2cf95.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Mutton & Chicken Tikka Biryani Feast",
+    "price": "\u20b9799",
+    "image": "https://b.zmtcdn.com/data/dish_photos/785/32c0e750c211bd412bd64b4a1b6b8785.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Royal Non-Veg Biryani Combo (Serves 3)",
+    "price": "\u20b91049",
+    "image": "https://b.zmtcdn.com/data/dish_photos/6e6/24686990f77b3fd538004d09bdbbb6e6.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Royal Veg Biryani Combo (Serves 3)",
+    "price": "\u20b9919",
+    "image": "https://b.zmtcdn.com/data/dish_photos/2ae/97b4c26e0f66315ff60502d41468d2ae.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Royal Paneer Biryani Combo (Serves 3)",
+    "price": "\u20b9959",
+    "image": "https://b.zmtcdn.com/data/dish_photos/7b9/cea94e47877f13a3835efbf7d5d2e7b9.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Royal 1 Veg & 2 Non-Veg Biryani Combo (Serves 3)",
+    "price": "\u20b9999",
+    "image": "https://b.zmtcdn.com/data/dish_photos/3db/48860fe35345773b1c1b1afeff8e33db.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Royal 2 Veg + 1 Non-Veg Biryani Combo (Serves 3)",
+    "price": "\u20b9949",
+    "image": "https://b.zmtcdn.com/data/dish_photos/c7b/d6d6891d30d59361787aa3455d590c7b.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Lazeez Bhuna Bahaar ( Biryani with 50% extra Chicken, Serves 1)",
+    "price": "\u20b9575",
+    "image": "https://b.zmtcdn.com/data/dish_photos/a41/b38f552a5c84c352ae98c8958b3c1a41.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Dum Gosht Bahaar ( Biryani with 50% extra Mutton, serves 1)",
+    "price": "\u20b9575",
+    "image": "https://b.zmtcdn.com/data/dish_photos/b61/e8ae3a94671d09e8f7d531b9443e0b61.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Bahaar-E-Murgh Tikka ( Biryani with 50% extra Chicken Tikka, Serves 1)",
+    "price": "\u20b9479",
+    "image": "https://b.zmtcdn.com/data/dish_photos/c4b/a2e04aed8e900cb6c40db7808e266c4b.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Bahaar-E-Afghani Murgh ( Biryani with 50% extra Creamy Chicken, Serves 1)",
+    "price": "\u20b9459",
+    "image": "https://b.zmtcdn.com/data/dish_photos/352/af97d655ea53e60ac4e29188910cf352.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "SWIG Jeera Masala",
+    "price": "\u20b948",
+    "image": "https://b.zmtcdn.com/data/dish_photos/95e/ef9739599ceeb1f86b10bdce1c39795e.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Ayran (Buttermilk)",
+    "price": "\u20b949",
+    "image": "https://b.zmtcdn.com/data/dish_photos/838/7cd23ad656ae5e96b7e504901d1ea838.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Mint Raita",
+    "price": "\u20b932",
+    "image": "https://b.zmtcdn.com/data/dish_photos/5f2/3ccd53d11dfa95b90768bfd1413d95f2.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Mughlai Gravy",
+    "price": "\u20b932",
+    "image": "https://b.zmtcdn.com/data/dish_photos/5b7/93092e54a3e9eaf5ff097a17687c45b7.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Gulab Jamun (Pack Of 2)",
+    "price": "\u20b949",
+    "image": "https://b.zmtcdn.com/data/dish_photos/f1f/abc226b41f2533758964163f2a173f1f.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Coca-Cola Bottle (475 ML)",
+    "price": "\u20b957",
+    "image": "https://b.zmtcdn.com/data/dish_photos/bc0/f832637c6bb53f49ac80f19b30b30bc0.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Falafel e Khas Combo",
+    "price": "\u20b9109",
+    "image": "https://b.zmtcdn.com/data/dish_photos/c97/a7cb28820d48991aa699d3d11814ec97.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  }
+]
