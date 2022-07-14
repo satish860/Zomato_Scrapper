@@ -1,0 +1,155 @@
+[
+  {
+    "name": "Chicken Biryani",
+    "price": "\u20b9160",
+    "image": "https://b.zmtcdn.com/data/dish_photos/8d1/3c81ae360e3953d11213d45105d398d1.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Chicken Kabab",
+    "price": "\u20b980",
+    "image": "https://b.zmtcdn.com/data/dish_photos/196/d2d3f1a4b2b957ad187172b0462d9196.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Biryani Rice",
+    "price": "\u20b980",
+    "image": "https://b.zmtcdn.com/data/dish_photos/f80/95d43f280d12c6b913404c48db603f80.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Egg Biryani",
+    "price": "\u20b990",
+    "image": "https://b.zmtcdn.com/data/dish_photos/b96/a4723c9cd7672297ae5f975828b79b96.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Boneless Chicken Kabab [Full Plate]",
+    "price": "\u20b9160",
+    "image": "https://b.zmtcdn.com/data/dish_photos/793/eac1ee4eb7506d768c20f9c9b3b5f793.png?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  { "name": "Chicken Liver Fry", "price": "\u20b9140", "image": "" },
+  {
+    "name": "Parota [1 Plate]",
+    "price": "\u20b960",
+    "image": "https://b.zmtcdn.com/data/dish_photos/625/69afc3639a1b0079a16e4f7f04fc1625.png?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Egg Kotu Parotta",
+    "price": "\u20b9150",
+    "image": "https://b.zmtcdn.com/data/dish_photos/27f/16b55c21450ec4894092355a425b327f.png?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Chicken masala",
+    "price": "\u20b9160",
+    "image": "https://b.zmtcdn.com/data/dish_photos/540/611497a5130081939218f1e620f40540.png?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Kallaki",
+    "price": "\u20b930",
+    "image": "https://b.zmtcdn.com/data/dish_photos/1f3/e534655423185faebfdce9b7f68611f3.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Chicken Liver Masala",
+    "price": "\u20b9120",
+    "image": "https://b.zmtcdn.com/data/dish_photos/e48/4aa296bb98c98a656deb862ddecc6e48.png?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Chicken Kabab",
+    "price": "\u20b980",
+    "image": "https://b.zmtcdn.com/data/dish_photos/196/d2d3f1a4b2b957ad187172b0462d9196.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Boneless Chicken Kabab [Full Plate]",
+    "price": "\u20b9160",
+    "image": "https://b.zmtcdn.com/data/dish_photos/793/eac1ee4eb7506d768c20f9c9b3b5f793.png?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Biryani Rice",
+    "price": "\u20b980",
+    "image": "https://b.zmtcdn.com/data/dish_photos/f80/95d43f280d12c6b913404c48db603f80.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Egg Biryani",
+    "price": "\u20b990",
+    "image": "https://b.zmtcdn.com/data/dish_photos/b96/a4723c9cd7672297ae5f975828b79b96.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Chicken Biryani",
+    "price": "\u20b9160",
+    "image": "https://b.zmtcdn.com/data/dish_photos/8d1/3c81ae360e3953d11213d45105d398d1.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Parota [1 Plate]",
+    "price": "\u20b960",
+    "image": "https://b.zmtcdn.com/data/dish_photos/625/69afc3639a1b0079a16e4f7f04fc1625.png?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Egg Kotu Parotta",
+    "price": "\u20b9150",
+    "image": "https://b.zmtcdn.com/data/dish_photos/27f/16b55c21450ec4894092355a425b327f.png?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Egg Parotta",
+    "price": "\u20b950",
+    "image": "https://b.zmtcdn.com/data/dish_photos/4c0/ee27136d6a76b5d5088c1b75802f14c0.png?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  { "name": "Veechu Parotta", "price": "\u20b940", "image": "" },
+  {
+    "name": "Egg Veechu Parotta",
+    "price": "\u20b950",
+    "image": "https://b.zmtcdn.com/data/dish_photos/dff/a78f0827431a5ae122474c06072eedff.png?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Chicken Kotu Parotta",
+    "price": "\u20b9160",
+    "image": "https://b.zmtcdn.com/data/dish_photos/27f/16b55c21450ec4894092355a425b327f.png?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Chicken Liver Fry",
+    "price": "\u20b9140",
+    "image": "https://b.zmtcdn.com/data/dish_photos/598/a2c62bf76885f9d976542d8e59a81598.png?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Chicken Liver Masala",
+    "price": "\u20b9120",
+    "image": "https://b.zmtcdn.com/data/dish_photos/e48/4aa296bb98c98a656deb862ddecc6e48.png?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Chicken masala",
+    "price": "\u20b9160",
+    "image": "https://b.zmtcdn.com/data/dish_photos/540/611497a5130081939218f1e620f40540.png?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  { "name": "Chicken peper fry", "price": "\u20b9200", "image": "" },
+  {
+    "name": "Egg Bhurji",
+    "price": "\u20b960",
+    "image": "https://b.zmtcdn.com/data/dish_photos/b21/65855fce532d7e84195a6d11687b1b21.png?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Egg Masala",
+    "price": "\u20b930",
+    "image": "https://b.zmtcdn.com/data/dish_photos/657/551598857ac32fcb02d7c5ad1f365657.png?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Kallaki",
+    "price": "\u20b930",
+    "image": "https://b.zmtcdn.com/data/dish_photos/1f3/e534655423185faebfdce9b7f68611f3.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Single Egg Omelette",
+    "price": "\u20b930",
+    "image": "https://b.zmtcdn.com/data/dish_photos/07e/793ac7a6a5391c9f61d74269a6cb907e.png?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Double Egg Omelette",
+    "price": "\u20b960",
+    "image": "https://b.zmtcdn.com/data/dish_photos/07e/793ac7a6a5391c9f61d74269a6cb907e.png?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Boiled Egg [1 Piece]",
+    "price": "\u20b915",
+    "image": "https://b.zmtcdn.com/data/dish_photos/0a4/f4ad2ae0378898448707adcfa0cef0a4.png?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  },
+  {
+    "name": "Boiled Eggs [2 pieces]",
+    "price": "\u20b930",
+    "image": "https://b.zmtcdn.com/data/dish_photos/571/3c3b3d6de6fb7c53bee56ccd53f72571.png?output-format=webp&fit=around|130:130&crop=130:130;*,*"
+  }
+]
